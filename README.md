@@ -46,5 +46,5 @@ on request).
 - Use frameworks where necessary so as to not reinvent the wheel
 - A responsive website that looks appealing on a variety of screensizes and
   devices
-- A performant and efficient site, measured used tools such as lighthouse
-- A well-tested site that is viewable on all modern browsers and devices
+- A performant and efficient site, measured used tools such as lighthouse, that
+  is viewable on all modern browsers and devices
