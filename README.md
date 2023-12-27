@@ -42,13 +42,14 @@ available on request).
 
 - Develop a site that satisfies the distinction requirements of the Code
   Institute
+- Develop a site that satisfies the Goals of the Users and Operator
 - Use plain HTML, CSS and frameworks such as Bootstap to create a technically
   interesting and aestetically appealing site
 - Use frameworks where necessary so as to not reinvent the wheel
-- A responsive website that looks appealing on a variety of screensizes and
-  devices
-- A performant and efficient site, measured used tools such as lighthouse, that
-  is viewable on all modern browsers and devices
+- Create a responsive website that looks appealing on a variety of screensizes
+  and devices
+- Build a performant and efficient site, benchmarked used tools such as
+  lighthouse, that is viewable on all modern browsers and devices
 
 ---
 
