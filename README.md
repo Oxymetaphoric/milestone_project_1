@@ -9,8 +9,8 @@ and CSS, including CSS frameworks, to create a small, responsive, well-designed
 and well-implemented website for a business, fictional or otherwise. For this
 assignment I have chose to create the webpage for my mother-in-law's dog
 breeding business, 'Jenamins'. The objective is to create a website that
-could,potentially, operate as a replacement for the current
-[site](http://www.jenamindogbreeder.co.uk).
+could,potentially, operate as a replacement for the current site (link available
+on request).
 
 ## User Goals
 
