@@ -1,8 +1,10 @@
-# Milestone Project One
+# Milestone Project :one:
 
 ---
 
 ## :star: Project Goals :star:
+
+---
 
 This is my my milestone one project for the
 [Code Institute's](http://www.codeinstitute.net) _'Level 5 Diploma in Web
@@ -24,7 +26,6 @@ on request).
 - Lots of pictures of cute puppies
 - Gain insight into the running of the business, levels of professionalism,
   approachability and other factors relating to the decision to buy a puppy
--
 
 ### :dog: Site Operator Goal:
 
@@ -48,3 +49,13 @@ on request).
   devices
 - A performant and efficient site, measured used tools such as lighthouse, that
   is viewable on all modern browsers and devices
+
+---
+
+## :star: User Experience :star:
+
+---
+
+### :walking: Target Audience
+
+### :newspaper: User Stories
