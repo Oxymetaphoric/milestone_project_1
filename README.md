@@ -14,7 +14,7 @@ breeding business, 'Jenamins'. The objective is to create a website that
 could,potentially, operate as a replacement for the current site (link available
 on request).
 
-#### :smile: User Goals:
+### :smile: User Goals:
 
 - Easy navigation, plenty of breadcrumbs, back to the top links and other
   quality of life features
@@ -26,7 +26,7 @@ on request).
   approachability and other factors relating to the decision to buy a puppy
 -
 
-#### :dog: Site Operator Goal:
+### :dog: Site Operator Goal:
 
 - Connect with more potential dog owners looking to purchase a puppy
 - promote the business more broadly
@@ -37,7 +37,7 @@ on request).
 - provide customers with information on currently available puppies and upcoming
   litters
 
-#### :computer: Developer Goals:
+### :computer: Developer Goals:
 
 - Develop a site that satisfies the distinction requirements of the Code
   Institute
