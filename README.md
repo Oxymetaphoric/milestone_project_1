@@ -50,6 +50,8 @@ available on request).
 - Build a performant and efficient site, benchmarked used tools such as
   lighthouse, that is viewable on all modern browsers and devices
 
+## :jigsaw: Potential features :jigsaw:
+
 ---
 
 # :earth_africa: Scope :earth_africa:
@@ -60,6 +62,7 @@ available on request).
 
 ### :family: Target Audience:
 
+- Adults 18 and up
 - Customers looking to buy a new puppy
 - People interested in breeding their dogs
 - People looking for pictures of cute puppies!
@@ -79,24 +82,35 @@ available on request).
 
 #### First Time User:
 
-1.
-2.
-3.
-4.
-5.
+1. As a first time user I want to know who this company is
+2. As a first time visitor I want to know what breeds of dogs Jenamin works with
+3. As a first time user I want a smooth experience with easy access to the most
+   important information (contact and location details)
+4. As a first time user I want to see many pictures of puppies
+5. As a first time user I want to not be frustrated with the layout or design of
+   the site
+6. As a first time user I would like to be easily able to contact the business
+   with questions
 
 #### Returning User:
 
-1.
-2.
-3.
-4.
-5.
+1. As a returning user I would like to see new/different pictures
+2. As a returning user I would like easy access to the Upcoming Litters page as
+   I am looking for one in particular
+3. As a returning user I would like to be able to find the business on social
+   media
+4. As a returning user I would like easy access to the contact and location
+   details
 
 #### Site Owner:
 
-1.
-2.
-3.
-4.
-5.
+1. As the site owner I would like to connect with potential customers and
+   breeders more easily and more cheaply
+2. As the site owner I want to be able to easily see when a potential customer
+   has contacted me through the website
+3. As the site owener I would like th esitre to be well optimised for sea in
+   order to increase visibility
+4. As the site owner I want potential customers to be able to contact/find us
+   easily
+5. As the site owner I want to make sure customers are never lost on my website,
+   including utilising a custom 404 page
