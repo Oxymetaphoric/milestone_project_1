@@ -176,4 +176,49 @@ The website should consist of the following pages:
 
 ## :tokyo_tower: Wireframes
 
-## :abacus: Technology and Tools used
+---
+
+# :lipstick: Surface :lipstick:
+
+---
+
+## Design
+
+### Typography:
+
+### Colour Palettes:
+
+### Layout:
+
+## :abacus: Technologies and Tools used
+
+### Languages:
+
+- **CSS3**
+- **HTML5**
+
+### Tools
+
+- **VSCode**
+- **git**
+- **GitHub.com**
+- **Chrome Dev Tools**
+- **Google Fonts**
+
+---
+
+# :lipstick: Testing :lipstick:
+
+---
+
+---
+
+# :lipstick: Deployment :lipstick:
+
+---
+
+---
+
+# :lipstick: Credits and Acknowlegements :lipstick:
+
+---
