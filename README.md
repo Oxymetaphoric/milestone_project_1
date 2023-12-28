@@ -50,8 +50,6 @@ available on request).
 - Build a performant and efficient site, benchmarked used tools such as
   lighthouse, that is viewable on all modern browsers and devices
 
-## :jigsaw: Potential features :jigsaw:
-
 ---
 
 # :earth_africa: Scope :earth_africa:
@@ -101,16 +99,64 @@ available on request).
    media
 4. As a returning user I would like easy access to the contact and location
    details
+5. As a returning customer I would like easy access to the various official
+   information, registration numbers etc.
 
 #### Site Owner:
 
-1. As the site owner I would like to connect with potential customers and
+1. As the site owner I would like to connect with potential customers and other
    breeders more easily and more cheaply
 2. As the site owner I want to be able to easily see when a potential customer
    has contacted me through the website
-3. As the site owener I would like th esitre to be well optimised for sea in
+3. As the site owener I would like the site to be well optimised for SEO in
    order to increase visibility
 4. As the site owner I want potential customers to be able to contact/find us
    easily
-5. As the site owner I want to make sure customers are never lost on my website,
-   including utilising a custom 404 page
+5. As the site owner I want to make sure customers are never lost on my website
+
+### :jigsaw: Identified tasks/needs the website should fulfil:
+
+| Task/Need                               | Importance: \*/5 |
+| --------------------------------------- | ---------------- |
+| Browsing pictures                       | 5                |
+| Accessing contact details               | 5                |
+| Discovering location                    | 5                |
+| Finding out more about the company      | 4                |
+| Gaining more information about the dogs | 5                |
+| Information on upcoming litters         | 4                |
+| Finding on Social sites                 | 3                |
+| Ability to contact through website      | 3                |
+| Easy navigation                         | 5                |
+| Finding registration info               | 5                |
+
+---
+
+# :bricks: Structure :bricks:
+
+---
+
+The site needs to be structured in an intuitive and straight-forward way with
+minimal ability in accessing the web required to succesfully navigate.
+Constantly visible, consistent navigation links, links back to the top of the
+page for long pages and other quality of life navigation featiures are essential
+
+The website should consist of the following pages:
+
+- Landing page - with a large hero image, some introductory content, nav bar and
+  footer with social links and contact details.
+
+- Meet The Family! - A page detailing the staff and dogs involved
+
+- About Us - A page detailing the story of the company and the owners, why and
+  how it was started, credentials and other pertinent information
+
+- Upcoming Litters - A page to announce the latest news and for returning
+  vistors to get updates
+
+- Contact Us - A page dedicated to contact and location information
+
+- Gallery - Just a buncha cute pups!
+
+- 404 Page not found - for mistypes/broken links
+
+- Privacy policy - link in footer and on contact page
