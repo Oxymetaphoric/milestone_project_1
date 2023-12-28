@@ -78,7 +78,7 @@ available on request).
 
 ### :book: User Stories:
 
-#### First Time User:
+#### - First Time User:
 
 1. As a first time user I want to know who this company is
 2. As a first time visitor I want to know what breeds of dogs Jenamin works with
@@ -90,7 +90,7 @@ available on request).
 6. As a first time user I would like to be easily able to contact the business
    with questions
 
-#### Returning User:
+#### - Returning User:
 
 1. As a returning user I would like to see new/different pictures
 2. As a returning user I would like easy access to the Upcoming Litters page as
@@ -102,7 +102,7 @@ available on request).
 5. As a returning customer I would like easy access to the various official
    information, registration numbers etc.
 
-#### Site Owner:
+#### - Site Owner:
 
 1. As the site owner I would like to connect with potential customers and other
    breeders more easily and more cheaply
@@ -138,12 +138,19 @@ available on request).
 The site needs to be structured in an intuitive and straight-forward way with
 minimal ability in accessing the web required to succesfully navigate.
 Constantly visible, consistent navigation links, links back to the top of the
-page for long pages and other quality of life navigation featiures are essential
+page for long pages and other quality of life navigation featiures are
+essential. Site will be using a tree-style Information Architecture with links
+back and forward available to the user at all times via the floating nav element
+and/or the footer.
+
+Links and navigation should be clear and unambiguous, interactive to highlight
+them visually and well-labelled to help with accessibility.
 
 The website should consist of the following pages:
 
 - Landing page - with a large hero image, some introductory content, nav bar and
-  footer with social links and contact details.
+  footer with social links and contact details. The nav bar and footer elements
+  will be consistent and accessible across all pages of the site.
 
 - Meet The Family! - A page detailing the staff and dogs involved
 
@@ -160,3 +167,13 @@ The website should consist of the following pages:
 - 404 Page not found - for mistypes/broken links
 
 - Privacy policy - link in footer and on contact page
+
+---
+
+# :skull_and_crossbones: Skeleton :skull_and_crossbones:
+
+---
+
+## :tokyo_tower: Wireframes
+
+## :abacus: Technology and Tools used
