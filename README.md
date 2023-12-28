@@ -2,9 +2,11 @@
 
 ---
 
-## :star: Project Goals :star:
+# :world_map: Strategy :world_map:
 
 ---
+
+## :star: Project Goals :star:
 
 This is my milestone one project for the
 [Code Institute's](http://www.codeinstitute.net) _'Level 5 Diploma in Web
@@ -18,10 +20,6 @@ available on request).
 
 ### :smile: User Goals:
 
-- Easy navigation, plenty of breadcrumbs, back to the top links and other
-  quality of life features
-- Accessible for colourblind, visually impared, and other users with
-  accessibility needs
 - Easy to find contact and location information
 - Lots of pictures of cute puppies
 - Gain insight into the running of the business, levels of professionalism,
@@ -42,7 +40,8 @@ available on request).
 
 - Develop a site that satisfies the distinction requirements of the Code
   Institute
-- Develop a site that satisfies the Goals of the Users and Operator
+- Develop a site that satisfies the Goals of the Users and Operator as
+  determined by the User Stories and Goals
 - Use plain HTML, CSS and frameworks such as Bootstap to create a technically
   interesting and aestetically appealing site
 - Use frameworks where necessary so as to not reinvent the wheel
@@ -53,10 +52,51 @@ available on request).
 
 ---
 
-## :star: User Experience :star:
+# :earth_africa: Scope :earth_africa:
 
 ---
 
-### :family: Target Audience
+## :star: User Experience :star:
 
-### :book: User Stories
+### :family: Target Audience:
+
+- Customers looking to buy a new puppy
+- People interested in breeding their dogs
+- People looking for pictures of cute puppies!
+
+### :dart: User Requirements and Expectations
+
+- Easy navigation, plenty of breadcrumbs, back-to-the-top links/widgets and
+  other quality of life features
+- Accessible for colourblind, visually impared, and other users with
+  accessibility needs
+- All functionality presented works as expected and as intended
+- Quick and easy access to contact details and location
+- Plenty of images and a friendly aethetic presentation -Simple to use with
+  logical flow and clear and straightforward navigation
+
+### :book: User Stories:
+
+#### First Time User:
+
+1.
+2.
+3.
+4.
+5.
+
+#### Returning User:
+
+1.
+2.
+3.
+4.
+5.
+
+#### Site Owner:
+
+1.
+2.
+3.
+4.
+5.
