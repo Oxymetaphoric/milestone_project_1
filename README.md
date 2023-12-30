@@ -118,18 +118,18 @@ available on request).
 
 | Task/Need                               | Importance: \*/5 |
 | --------------------------------------- | ---------------- |
-| Browsing pictures                       | 5                |
+| Browsing pictures                       | 4                |
 | Accessing contact details               | 5                |
 | Discovering location                    | 5                |
-| Finding out more about the company      | 4                |
-| Gaining more information about the dogs | 5                |
-| Information on upcoming litters         | 4                |
+| Finding out more about the company      | 3                |
+| Gaining more information about the dogs | 4                |
+| Information on upcoming litters         | 5                |
 | Finding on Social sites                 | 3                |
 | Ability to contact through website      | 3                |
 | Easy navigation                         | 5                |
 | Finding registration info               | 5                |
 
----
+### :eye: Accessibility
 
 # :bricks: Structure :bricks:
 
@@ -152,13 +152,14 @@ The website should consist of the following pages:
   footer with social links and contact details. The nav bar and footer elements
   will be consistent and accessible across all pages of the site.
 
-- Meet The Family! - A page detailing the staff and dogs involved
-
-- About Us - A page detailing the story of the company and the owners, why and
-  how it was started, credentials and other pertinent information
+- Meet The Family! - A page detailing the staff and dogs involved,the story of
+  the company and the owners, why and how it was started, credentials and other
+  pertinent information
 
 - Upcoming Litters - A page to announce the latest news and for returning
   vistors to get updates
+
+- Testimonials - A page for customer testimonials, of which there are many
 
 - Contact Us - A page dedicated to contact and location information
 
@@ -176,28 +177,80 @@ The website should consist of the following pages:
 
 ## :tokyo_tower: Wireframes
 
+### Navbar
+
+### Footer
+
+### Landing Page
+
+#### Mobile
+
+#### Tablet
+
+#### Desktop
+
+### Meet the Family
+
+#### Mobile
+
+#### Tablet
+
+#### Desktop
+
+### Testimonials
+
+#### Mobile
+
+#### Tablet
+
+#### Desktop
+
+### Upcoming Litters
+
+#### Mobile
+
+#### Tablet
+
+#### Desktop
+
+### Contact Us
+
+#### Mobile
+
+#### Tablet
+
+#### Desktop
+
+### Gallery
+
+#### Mobile
+
+#### Tablet
+
+#### Desktop
+
 ---
 
-# :lipstick: Surface :lipstick:
+# :crayon: Surface :crayon:
 
 ---
 
-## Design
+## :paintbrush: Design
 
-### Typography:
+### :a: Typography:
 
-### Colour Palettes:
+### :art: Colour Palettes:
 
-### Layout:
+### :printer: Layout:
 
 ## :abacus: Technologies and Tools used
 
-### Languages:
+## Languages:
 
 - **CSS3**
 - **HTML5**
 
-### Tools
+## Tools
 
 - **VSCode**
 - **git**
@@ -207,18 +260,26 @@ The website should consist of the following pages:
 
 ---
 
-# :lipstick: Testing :lipstick:
+# :microscope: Testing :microscope:
+
+---
+
+- Functional testing
+- User Stories Testing
+- Bug fixes
+- HTML/CSS Validators
+- WAVE
+- Lighthouse
+- Devices
+
+---
+
+# :loudspeaker: Deployment :loudspeaker:
 
 ---
 
 ---
 
-# :lipstick: Deployment :lipstick:
-
----
-
----
-
-# :lipstick: Credits and Acknowlegements :lipstick:
+# :heart: Credits and Acknowlegements :heart:
 
 ---
