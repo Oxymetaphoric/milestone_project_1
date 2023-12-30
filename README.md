@@ -108,8 +108,8 @@ available on request).
    breeders more easily and more cheaply
 2. As the site owner I want to be able to easily see when a potential customer
    has contacted me through the website
-3. As the site owener I would like the site to be well optimised for SEO in
-   order to increase visibility
+3. As the site owner I would like the site to be well optimised for SEO in order
+   to increase visibility
 4. As the site owner I want potential customers to be able to contact/find us
    easily
 5. As the site owner I want to make sure customers are never lost on my website
@@ -257,6 +257,7 @@ The website should consist of the following pages:
 - **GitHub.com**
 - **Chrome Dev Tools**
 - **Google Fonts**
+- **Pencil**
 
 ---
 
