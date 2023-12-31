@@ -131,6 +131,16 @@ available on request).
 
 ### :eye: Accessibility
 
+Accessibility needs should be considered and aria tags, semantic HTML tags, and
+alt tags for images should all be clear descriptive and follow the w3
+conventions.
+
+Color palletes will be assessed for color-blind friendliness, and adjusted if
+neccessary.
+
+The structure of each page should be logical and allow keyboard navigation and
+be screen-reader friendly
+
 # :bricks: Structure :bricks:
 
 ---
@@ -169,65 +179,89 @@ The website should consist of the following pages:
 
 - Privacy policy - link in footer and on contact page
 
+pages should be responsive and designed well for the three most common screen
+sizes of phone, tablet, and desktop: 360x640px, 768x1024, and 1280x720. Each
+page should consist of the same nav bar and footer, ensuring a consistent User
+Experience.
+
+The **Nav Bar** should consisist of the following elements:
+
+1. Links to all five of the main pages
+2. Logo, which also acts as a home link, as per convention
+3. a fixed div above the main nav, in a solid colour displaying the main contact
+   details of the business
+4. Menu links should collapse into a burger on smaller breakpoints
+5. Links should either be sticky to the top of the page or spawn a 'return to
+   top' link when not visible
+6.
+
 ---
 
 # :skull_and_crossbones: Skeleton :skull_and_crossbones:
 
 ---
 
-## :tokyo_tower: Wireframes
+## :tokyo_tower: Wireframes :tokyo_tower:
 
 ### Navbar
 
+- Mobile
+- Tablet
+- Desktop
+
 ### Footer
+
+- Mobile
+- Tablet
+- Desktop
 
 ### Landing Page
 
-#### Mobile
+- Mobile
 
-#### Tablet
+- Tablet
 
-#### Desktop
+- Desktop
 
 ### Meet the Family
 
-#### Mobile
+- Mobile
 
-#### Tablet
+- Tablet
 
-#### Desktop
+- Desktop
 
 ### Testimonials
 
-#### Mobile
+- Mobile
 
-#### Tablet
+- Tablet
 
-#### Desktop
+- Desktop
 
 ### Upcoming Litters
 
-#### Mobile
+- Mobile
 
-#### Tablet
+- Tablet
 
-#### Desktop
+- Desktop
 
 ### Contact Us
 
-#### Mobile
+- Mobile
 
-#### Tablet
+- Tablet
 
-#### Desktop
+- Desktop
 
 ### Gallery
 
-#### Mobile
+- Mobile
 
-#### Tablet
+- Tablet
 
-#### Desktop
+- Desktop
 
 ---
 
@@ -235,7 +269,7 @@ The website should consist of the following pages:
 
 ---
 
-## :paintbrush: Design
+## :paintbrush: Design :paintbrush:
 
 ### :a: Typography:
 
@@ -243,7 +277,7 @@ The website should consist of the following pages:
 
 ### :printer: Layout:
 
-## :abacus: Technologies and Tools used
+## :abacus: Technologies and Tools used :abacus:
 
 ## Languages:
 
