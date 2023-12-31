@@ -164,9 +164,9 @@ The website should consist of the following pages:
   and footer with social links and contact details. The nav bar and footer
   elements will be consistent and accessible across all pages of the site.
 
-- **Meet The Family!** - A page detailing the staff and dogs involved,the story
-  of the company and the owners, why and how it was started, credentials and
-  other pertinent information.
+- **About Us** - A page detailing the staff and dogs involved,the story of the
+  company and the owners, why and how it was started, credentials and other
+  pertinent information.
 
 - **Upcoming Litters** - A page to announce the latest news and for returning
   vistors to get updates.
@@ -206,6 +206,7 @@ The **Footer** should contain the following elements:
 2. Social Links
 3. Link to Privacy Policy
 4. Link to Contact Us page
+5. Map and address
 
 ---
 
@@ -218,18 +219,22 @@ The **Footer** should contain the following elements:
 ### Navbar
 
 - Mobile
+  [![mobile navbar wireframe](/docs/wireframes/header.png)](/docs/wireframes/header.png)
 - Tablet
 - Desktop
 
 ### Footer
 
-- Mobile
+- Mobile<br />
+  [![mobile footer wireframe](/docs/wireframes/mobile_footer.png)](/docs/wireframes/mobile_footer.png)
+
 - Tablet
 - Desktop
 
 ### Landing Page
 
 - Mobile
+  [![mobile landing page](/docs/wireframes/mobile_landing_page.png)](/docs/wireframes/mobile_landing_page.png)
 
 - Tablet
 
@@ -290,9 +295,27 @@ The **Footer** should contain the following elements:
 Site owner has requested that a mojor component of the colour pallete be a
 lilac/purple. I explored a number of palettes centered around this colour:
 
-- [palette 1](/)
+#### LIghter Colour Palettes
 
--
+**- Colour Palette 1**
+![light palette 1](/docs/images/colour_palettes/light2.png)
+
+- **Colour Palette 2**
+  ![light palette 2](/docs/images/colour_palettes/light3.png)
+- **Colour Palette 3**
+  ![light palette 3](/docs/images/colour_palettes/light4.png)
+
+#### Midtone Colour Palettes
+
+- **Colour Palette 1**
+  ![midtone palette 1](/docs/images/colour_palettes/midrange.png)
+- **Colour Palette 2**
+  ![midtone palette 2](/docs/images/colour_palettes/midrange2.png)
+
+#### Darker Colour Palettes
+
+- **Colour Palette 1** ![dark palette 1](/docs/images/colour_palettes/dark.png)
+- **Colour Palette 2** ![dark palette 2](/docs/images/colour_palettes/dark2.png)
 
 ### :printer: Layout:
 
