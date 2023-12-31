@@ -14,9 +14,7 @@ Application Development'_. The goal is to demonstrate my ability to utilise HTML
 and CSS, including CSS frameworks, to create a small, responsive, well-designed
 and well-implemented website for a business, fictional or otherwise. For this
 assignment I have chosen to create the webpage for my mother-in-law's dog
-breeding business, 'Jenamins'. The objective is to create a website that could,
-potentially, operate as a replacement for the business' current site (link
-available on request).
+breeding business, 'Jenamins'.
 
 ### :smile: User Goals:
 
@@ -141,17 +139,19 @@ neccessary.
 The structure of each page should be logical and allow keyboard navigation and
 be screen-reader friendly
 
+Site should contain a sitemap to aid with accessibility
+
 # :bricks: Structure :bricks:
 
 ---
 
-The site needs to be structured in an intuitive and straight-forward way with
-minimal ability in accessing the web required to succesfully navigate.
-Constantly visible, consistent navigation links, links back to the top of the
-page for long pages and other quality of life navigation featiures are
-essential. Site will be using a tree-style Information Architecture with links
+The site needs to be structured in an intuitive and straight-forward way.
+Constantly visible, consistent, navigation links; links back to the top of the
+page for long pages, and other quality of life navigation features are
+important. Site will be using a tree-style Information Architecture with links
 back and forward available to the user at all times via the floating nav element
-and/or the footer.
+and/or the footer as well as a sitemap and breadcrumb trail indicating the users
+current position on the site.
 
 Links and navigation should be clear and unambiguous, interactive to highlight
 them visually and well-labelled to help with accessibility.
@@ -164,14 +164,16 @@ The website should consist of the following pages:
 
 - Meet The Family! - A page detailing the staff and dogs involved,the story of
   the company and the owners, why and how it was started, credentials and other
-  pertinent information
+  pertinent information.
 
 - Upcoming Litters - A page to announce the latest news and for returning
-  vistors to get updates
+  vistors to get updates.
 
-- Testimonials - A page for customer testimonials, of which there are many
+- Testimonials - A page for customer testimonials, of which there are many, so
+  smart presentation will be important.
 
-- Contact Us - A page dedicated to contact and location information
+- Contact Us - A page dedicated to contact and location information including a
+  map and containg a styled webform to contact the business.
 
 - Gallery - Just a buncha cute pups!
 
@@ -184,16 +186,23 @@ sizes of phone, tablet, and desktop: 360x640px, 768x1024, and 1280x720. Each
 page should consist of the same nav bar and footer, ensuring a consistent User
 Experience.
 
-The **Nav Bar** should consisist of the following elements:
+The **Nav Bar** should contain the following elements:
 
 1. Links to all five of the main pages
 2. Logo, which also acts as a home link, as per convention
 3. a fixed div above the main nav, in a solid colour displaying the main contact
    details of the business
-4. Menu links should collapse into a burger on smaller breakpoints
-5. Links should either be sticky to the top of the page or spawn a 'return to
+4. Menu links should collapse into a burger on small breakpoints
+5. Nav should either be sticky to the top of the viewport or spawn a 'return to
    top' link when not visible
-6.
+6. Breadcrumbs beneath main nav indicating current position on site (eg: home >
+   Contact Us )
+
+The **Footer** should contain the following elements:
+
+1.  Copyright information
+2.  Social Links
+3.  Link to Privacy Policy
 
 ---
 
