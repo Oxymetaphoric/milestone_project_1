@@ -287,6 +287,13 @@ The **Footer** should contain the following elements:
 
 ### :art: Colour Palettes:
 
+Site owner has requested that a mojor component of the colour pallete be a
+lilac/purple. I explored a number of palettes centered around this colour:
+
+- [palette 1](/)
+
+-
+
 ### :printer: Layout:
 
 ## :abacus: Technologies and Tools used :abacus:
@@ -303,7 +310,8 @@ The **Footer** should contain the following elements:
 - **GitHub.com**
 - **Chrome Dev Tools**
 - **Google Fonts**
-- **Pencil**
+- **[Pencil](https://pencil.evolus.vn/)**
+- **[Coolers](https://coolors.co/)**
 
 ---
 
