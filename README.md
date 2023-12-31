@@ -141,6 +141,8 @@ be screen-reader friendly
 
 Site should contain a sitemap to aid with accessibility
 
+---
+
 # :bricks: Structure :bricks:
 
 ---
@@ -154,32 +156,32 @@ and/or the footer as well as a sitemap and breadcrumb trail indicating the users
 current position on the site.
 
 Links and navigation should be clear and unambiguous, interactive to highlight
-them visually and well-labelled to help with accessibility.
+them visually, and well-labelled to help with accessibility.
 
 The website should consist of the following pages:
 
-- Landing page - with a large hero image, some introductory content, nav bar and
-  footer with social links and contact details. The nav bar and footer elements
-  will be consistent and accessible across all pages of the site.
+- **Landing page** - with a large hero image, some introductory content, nav bar
+  and footer with social links and contact details. The nav bar and footer
+  elements will be consistent and accessible across all pages of the site.
 
-- Meet The Family! - A page detailing the staff and dogs involved,the story of
-  the company and the owners, why and how it was started, credentials and other
-  pertinent information.
+- **Meet The Family!** - A page detailing the staff and dogs involved,the story
+  of the company and the owners, why and how it was started, credentials and
+  other pertinent information.
 
-- Upcoming Litters - A page to announce the latest news and for returning
+- **Upcoming Litters** - A page to announce the latest news and for returning
   vistors to get updates.
 
-- Testimonials - A page for customer testimonials, of which there are many, so
-  smart presentation will be important.
+- **Testimonials** - A page for customer testimonials, of which there are many,
+  so smart presentation will be important.
 
-- Contact Us - A page dedicated to contact and location information including a
-  map and containg a styled webform to contact the business.
+- **Contact Us** - A page dedicated to contact and location information
+  including a map and containg a styled webform to contact the business.
 
-- Gallery - Just a buncha cute pups!
+- **Gallery** - Just a buncha cute pups!
 
-- 404 Page not found - for mistypes/broken links
+- **404 Page not found** - for mistypes/broken links
 
-- Privacy policy - link in footer and on contact page
+- **Privacy Policy** - link in footer and on contact page
 
 pages should be responsive and designed well for the three most common screen
 sizes of phone, tablet, and desktop: 360x640px, 768x1024, and 1280x720. Each
@@ -195,14 +197,15 @@ The **Nav Bar** should contain the following elements:
 4. Menu links should collapse into a burger on small breakpoints
 5. Nav should either be sticky to the top of the viewport or spawn a 'return to
    top' link when not visible
-6. Breadcrumbs beneath main nav indicating current position on site (eg: home >
-   Contact Us )
+6. Breadcrumbs beneath main nav indicating current position on site (eg: _Home >
+   Contact Us_ )
 
 The **Footer** should contain the following elements:
 
-1.  Copyright information
-2.  Social Links
-3.  Link to Privacy Policy
+1. Copyright information
+2. Social Links
+3. Link to Privacy Policy
+4. Link to Contact Us page
 
 ---
 
