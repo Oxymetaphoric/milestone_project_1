@@ -183,7 +183,7 @@ The website should consist of the following pages:
 
 - **Privacy Policy** - link in footer and on contact page
 
-pages should be responsive and designed well for the three most common screen
+Pages should be responsive and designed well for the three most common screen
 sizes of phone, tablet, and desktop: 360x640px, 768x1024, and 1280x720. Each
 page should consist of the same nav bar and footer, ensuring a consistent User
 Experience.
@@ -218,31 +218,31 @@ The **Footer** should contain the following elements:
 
 ### Navbar
 
-- Mobile
-  [![mobile navbar wireframe](/docs/wireframes/header.png)](/docs/wireframes/header.png)
+- Mobile ![mobile navbar wireframe](docs/wireframes/mobile/header.png)
 - Tablet
 - Desktop
 
 ### Footer
 
 - Mobile<br />
-  [![mobile footer wireframe](/docs/wireframes/mobile_footer.png)](/docs/wireframes/mobile_footer.png)
+  ![mobile footer wireframe](docs/wireframes/mobile/mobile_footer.png)
 
 - Tablet
 - Desktop
 
 ### Landing Page
 
-- Mobile
-  [![mobile landing page](/docs/wireframes/mobile_landing_page.png)](/docs/wireframes/mobile_landing_page.png)
+- Mobile<br />
+  ![mobile landing page](docs/wireframes/mobile/mobile_landing_page.png)
 
 - Tablet
 
 - Desktop
 
-### Meet the Family
+### About Us
 
-- Mobile
+- Mobile <br />
+  ![Mobile About Us page](docs/wireframes/mobile/mobile_about_us.png)
 
 - Tablet
 
@@ -250,7 +250,8 @@ The **Footer** should contain the following elements:
 
 ### Testimonials
 
-- Mobile
+- Mobile <br />
+  ![mobile Testimonials page](docs/wireframes/mobile/mobile_gallery.png)
 
 - Tablet
 
@@ -258,7 +259,8 @@ The **Footer** should contain the following elements:
 
 ### Upcoming Litters
 
-- Mobile
+- Mobile <br />
+  ![mobile Up Coming Litters page](docs/wireframes/mobile/upcoming_litters.png)
 
 - Tablet
 
@@ -266,15 +268,8 @@ The **Footer** should contain the following elements:
 
 ### Contact Us
 
-- Mobile
-
-- Tablet
-
-- Desktop
-
-### Gallery
-
-- Mobile
+- Mobile <br />
+  ![mobile Contact Us page](docs/wireframes/mobile/mobile_contact_us.png)
 
 - Tablet
 
