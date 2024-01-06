@@ -297,8 +297,8 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 #### LIghter Colour Palettes
 
-**- Colour Palette 1**
-![light palette 1](/docs/images/colour_palettes/light2.png)
+- **Colour Palette 1**
+  ![light palette 1](/docs/images/colour_palettes/light2.png)
 
 - **Colour Palette 2**
   ![light palette 2](/docs/images/colour_palettes/light3.png)
