@@ -227,17 +227,18 @@ The **Footer** should contain the following elements:
 
 ### Navbar
 
-- Mobile ![mobile navbar wireframe](docs/wireframes/mobile/header.png)
+- Mobile <br /> ![mobile navbar wireframe](docs/wireframes/mobile/header.png)
 - Tablet
-- Desktop
+- Desktop <br />
+  ![desktop navbar wireframe](docs/wireframes/desktop/desktopheader.png)
 
 ### Footer
 
 - Mobile <br />
   ![mobile footer wireframe](docs/wireframes/mobile/mobile_footer.png)
-
 - Tablet
-- Desktop
+- Desktop <br />
+  ![desktop footer wireframe](docs/wireframes/desktop/desktopfooter.png)
 
 ### Landing Page
 
@@ -246,7 +247,8 @@ The **Footer** should contain the following elements:
 
 - Tablet
 
-- Desktop
+- Desktop <br />
+  ![desktop landing page wireframe](docs/wireframes/desktop/desktoplandingpage.png)
 
 ### About Us
 
@@ -299,7 +301,7 @@ The **Footer** should contain the following elements:
 Site owner has requested that a mojor component of the colour pallete be a
 lilac/purple. I explored a number of palettes centered around this colour:
 
-#### LIghter Colour Palettes
+#### Lighter Colour Palettes
 
 - **Colour Palette 1**
   ![light palette 1](/docs/images/colour_palettes/light2.png)
