@@ -183,10 +183,19 @@ The website should consist of the following pages:
 
 - **Privacy Policy** - link in footer and on contact page
 
+The site should also make use of a 404 page that redirects the user back the
+landing page, and a favicon to allow users to easily recognise the site amongst
+bookmark lists.
+
 Pages should be responsive and designed well for the three most common screen
-sizes of phone, tablet, and desktop: 360x640px, 768x1024, and 1280x720. Each
-page should consist of the same nav bar and footer, ensuring a consistent User
-Experience.
+sizes of phone, tablet, and desktop:
+
+- 360x640px
+- 768x1024px
+- 1280x720px
+
+Each page should consist of the same nav bar and footer, ensuring a consistent
+User Experience.
 
 The **Nav Bar** should contain the following elements:
 
@@ -224,7 +233,7 @@ The **Footer** should contain the following elements:
 
 ### Footer
 
-- Mobile<br />
+- Mobile <br />
   ![mobile footer wireframe](docs/wireframes/mobile/mobile_footer.png)
 
 - Tablet
