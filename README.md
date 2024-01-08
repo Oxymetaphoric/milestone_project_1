@@ -230,7 +230,7 @@ The **Footer** should contain the following elements:
 - Mobile <br /> ![mobile navbar wireframe](docs/wireframes/mobile/header.png)
 - Tablet
 - Desktop <br />
-  ![desktop navbar wireframe](docs/wireframes/desktop/desktopheader.png)
+  ![desktop navbar wireframe](docs/wireframes/desktop/desktop_header.png)
 
 ### Footer
 
@@ -238,7 +238,7 @@ The **Footer** should contain the following elements:
   ![mobile footer wireframe](docs/wireframes/mobile/mobile_footer.png)
 - Tablet
 - Desktop <br />
-  ![desktop footer wireframe](docs/wireframes/desktop/desktopfooter.png)
+  ![desktop footer wireframe](docs/wireframes/desktop/desktop_footer.png)
 
 ### Landing Page
 
@@ -248,7 +248,7 @@ The **Footer** should contain the following elements:
 - Tablet
 
 - Desktop <br />
-  ![desktop landing page wireframe](docs/wireframes/desktop/desktoplandingpage.png)
+  ![desktop landing page wireframe](docs/wireframes/desktop/desktop_landing_page.png)
 
 ### About Us
 
@@ -257,7 +257,8 @@ The **Footer** should contain the following elements:
 
 - Tablet
 
-- Desktop
+- Desktop <br />
+  ![Desktop About Us page](docs/wireframes/desktop/desktop_about_us.png)
 
 ### Testimonials
 
