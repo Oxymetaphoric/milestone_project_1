@@ -335,11 +335,11 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 ## Tools
 
-- **VSCode**
-- **git**
+- **[VSCode for linux](https://code.visualstudio.com/)**
+- **[git](https://git-scm.com/)**
 - **[GitHub](https://www.github.com)**
 - **Chrome Dev Tools**
-- **Google Fonts**
+- **[Google Fonts](https://fonts.google.com/)**
 - **[Pencil](https://pencil.evolus.vn/)**
 - **[Coolors](https://coolors.co/)**
 
