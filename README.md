@@ -2,11 +2,11 @@
 
 ---
 
-# :world_map: Strategy :world_map:
+## :world_map: Strategy :world_map:
 
 ---
 
-## :star: Project Goals :star:
+### :star: Project Goals :star:
 
 This is my milestone one project for the
 [Code Institute's](http://www.codeinstitute.net) _'Level 5 Diploma in Web
@@ -16,14 +16,14 @@ and well-implemented website for a business, fictional or otherwise. For this
 assignment I have chosen to create the webpage for my mother-in-law's dog
 breeding business, 'Jenamins'.
 
-### :smile: User Goals:
+#### :smile: User Goals
 
 - Easy to find contact and location information
 - Lots of pictures of cute puppies
 - Gain insight into the running of the business, levels of professionalism,
   approachability and other factors relating to the decision to buy a puppy
 
-### :dog: Site Operator Goals:
+#### :dog: Site Operator Goals
 
 - Connect with more potential dog owners looking to purchase a puppy
 - Promote the business more broadly
@@ -34,7 +34,7 @@ breeding business, 'Jenamins'.
 - Provide customers with information on currently available puppies and upcoming
   litters
 
-### :computer: Developer Goals:
+#### :computer: Developer Goals
 
 - Develop a site that satisfies the distinction requirements of the Code
   Institute
@@ -50,20 +50,20 @@ breeding business, 'Jenamins'.
 
 ---
 
-# :earth_africa: Scope :earth_africa:
+## :earth_africa: Scope :earth_africa:
 
 ---
 
-## :star: User Experience :star:
+### :star: User Experience :star:
 
-### :family: Target Audience:
+#### :family: Target Audience
 
 - Adults 18 and up
 - Customers looking to buy a new puppy
 - People interested in breeding their dogs
 - People looking for pictures of cute puppies!
 
-### :dart: User Requirements and Expectations
+#### :dart: User Requirements and Expectations
 
 - Easy navigation, plenty of breadcrumbs, back-to-the-top links/widgets and
   other quality of life features
@@ -74,9 +74,9 @@ breeding business, 'Jenamins'.
 - Plenty of images and a friendly aethetic presentation -Simple to use with
   logical flow and clear and straightforward navigation
 
-### :book: User Stories:
+#### :book: User Stories
 
-#### - First Time User:
+##### - First Time User
 
 1. As a first time user I want to know who this company is
 2. As a first time visitor I want to know what breeds of dogs Jenamin works with
@@ -88,7 +88,7 @@ breeding business, 'Jenamins'.
 6. As a first time user I would like to be easily able to contact the business
    with questions
 
-#### - Returning User:
+##### - Returning User
 
 1. As a returning user I would like to see new/different pictures
 2. As a returning user I would like easy access to the Upcoming Litters page as
@@ -100,7 +100,7 @@ breeding business, 'Jenamins'.
 5. As a returning customer I would like easy access to the various official
    information, registration numbers etc.
 
-#### - Site Owner:
+##### - Site Owner
 
 1. As the site owner I would like to connect with potential customers and other
    breeders more easily and more cheaply
@@ -112,7 +112,7 @@ breeding business, 'Jenamins'.
    easily
 5. As the site owner I want to make sure customers are never lost on my website
 
-### :jigsaw: Identified tasks/needs the website should fulfil:
+#### :jigsaw: Identified tasks/needs the website should fulfil
 
 | Task/Need                               | Importance: \*/5 |
 | --------------------------------------- | ---------------- |
@@ -127,7 +127,7 @@ breeding business, 'Jenamins'.
 | Easy navigation                         | 5                |
 | Finding registration info               | 5                |
 
-### :eye: Accessibility
+#### :eye: Accessibility
 
 Accessibility needs should be considered and aria tags, semantic HTML tags, and
 alt tags for images should all be clear descriptive and follow the w3
@@ -143,7 +143,7 @@ Site should contain a sitemap to aid with accessibility
 
 ---
 
-# :bricks: Structure :bricks:
+## :bricks: Structure :bricks:
 
 ---
 
@@ -219,20 +219,20 @@ The **Footer** should contain the following elements:
 
 ---
 
-# :skull_and_crossbones: Skeleton :skull_and_crossbones:
+## :skull_and_crossbones: Skeleton :skull_and_crossbones:
 
 ---
 
-## :tokyo_tower: Wireframes :tokyo_tower:
+### :tokyo_tower: Wireframes :tokyo_tower:
 
-### Navbar
+#### Navbar
 
 - Mobile <br /> ![mobile navbar wireframe](docs/wireframes/mobile/header.png)
 - Tablet
 - Desktop <br />
   ![desktop navbar wireframe](docs/wireframes/desktop/desktop_header.png)
 
-### Footer
+#### Footer
 
 - Mobile <br />
   ![mobile footer wireframe](docs/wireframes/mobile/mobile_footer.png)
@@ -240,7 +240,7 @@ The **Footer** should contain the following elements:
 - Desktop <br />
   ![desktop footer wireframe](docs/wireframes/desktop/desktop_footer.png)
 
-### Landing Page
+#### Landing Page
 
 - Mobile<br />
   ![mobile landing page](docs/wireframes/mobile/mobile_landing_page.png)
@@ -250,7 +250,7 @@ The **Footer** should contain the following elements:
 - Desktop <br />
   ![desktop landing page wireframe](docs/wireframes/desktop/desktop_landing_page.png)
 
-### About Us
+#### About Us
 
 - Mobile <br />
   ![Mobile About Us page](docs/wireframes/mobile/mobile_about_us.png)
@@ -260,7 +260,7 @@ The **Footer** should contain the following elements:
 - Desktop <br />
   ![Desktop About Us page](docs/wireframes/desktop/desktop_about_us.png)
 
-### Testimonials
+#### Testimonials
 
 - Mobile <br />
   ![mobile Testimonials page](docs/wireframes/mobile/mobile_gallery.png)
@@ -269,7 +269,7 @@ The **Footer** should contain the following elements:
 
 - Desktop
 
-### Upcoming Litters
+#### Upcoming Litters
 
 - Mobile <br />
   ![mobile Up Coming Litters page](docs/wireframes/mobile/upcoming_litters.png)
@@ -278,7 +278,7 @@ The **Footer** should contain the following elements:
 
 - Desktop
 
-### Contact Us
+#### Contact Us
 
 - Mobile <br />
   ![mobile Contact Us page](docs/wireframes/mobile/mobile_contact_us.png)
@@ -289,20 +289,28 @@ The **Footer** should contain the following elements:
 
 ---
 
-# :crayon: Surface :crayon:
+## :crayon: Surface :crayon:
 
 ---
 
-## :paintbrush: Design :paintbrush:
+### :paintbrush: Design :paintbrush:
 
-### :a: Typography:
+#### :a: Typography
 
-### :art: Colour Palettes:
+Typography that emphasises the friendly and personable nature of the business. A
+sans serif with rounded caps would be good for headers, following into a sans
+serif for body text.
+
+potential options for headers include:
+
+potential options for body text include:
+
+#### :art: Colour Palettes
 
 Site owner has requested that a mojor component of the colour pallete be a
 lilac/purple. I explored a number of palettes centered around this colour:
 
-#### Lighter Colour Palettes
+##### Lighter Colour Palettes
 
 - **Colour Palette 1**
   ![light palette 1](/docs/images/colour_palettes/light2.png)
@@ -312,28 +320,28 @@ lilac/purple. I explored a number of palettes centered around this colour:
 - **Colour Palette 3**
   ![light palette 3](/docs/images/colour_palettes/light4.png)
 
-#### Midtone Colour Palettes
+##### Midtone Colour Palettes
 
 - **Colour Palette 1**
   ![midtone palette 1](/docs/images/colour_palettes/midrange.png)
 - **Colour Palette 2**
   ![midtone palette 2](/docs/images/colour_palettes/midrange2.png)
 
-#### Darker Colour Palettes
+##### Darker Colour Palettes
 
 - **Colour Palette 1** ![dark palette 1](/docs/images/colour_palettes/dark.png)
 - **Colour Palette 2** ![dark palette 2](/docs/images/colour_palettes/dark2.png)
 
-### :printer: Layout:
+#### :printer: Layout
 
-## :abacus: Technologies and Tools used :abacus:
+### :abacus: Technologies and Tools used :abacus:
 
-## Languages:
+### Languages
 
 - **CSS3**
 - **HTML5**
 
-## Tools
+### Tools
 
 - **[VSCode for linux](https://code.visualstudio.com/)**
 - **[git](https://git-scm.com/)**
@@ -345,7 +353,7 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 ---
 
-# :microscope: Testing :microscope:
+## :microscope: Testing :microscope:
 
 ---
 
@@ -359,12 +367,12 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 ---
 
-# :loudspeaker: Deployment :loudspeaker:
+## :loudspeaker: Deployment :loudspeaker:
 
 ---
 
 ---
 
-# :heart: Credits and Acknowlegements :heart:
+## :heart: Credits and Acknowlegements :heart:
 
 ---
