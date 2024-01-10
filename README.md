@@ -172,12 +172,11 @@ The website should consist of the following pages:
   vistors to get updates.
 
 - **Testimonials** - A page for customer testimonials, of which there are many,
-  so smart presentation will be important.
+  so smart presentation will be important. Combine this with the previously
+  mooted gallery page.
 
 - **Contact Us** - A page dedicated to contact and location information
   including a map and containg a styled webform to contact the business.
-
-- **Gallery** - Just a buncha cute pups!
 
 - **404 Page not found** - for mistypes/broken links
 
@@ -268,15 +267,17 @@ The **Footer** should contain the following elements:
 - Tablet
 
 - Desktop
+  ![desktop Testimonials page](docs/wireframes/desktop/desktop_testimonials.png)
 
 #### Upcoming Litters
 
 - Mobile <br />
-  ![mobile Up Coming Litters page](docs/wireframes/mobile/upcoming_litters.png)
+  ![mobile Upcoming Litters page](docs/wireframes/mobile/upcoming_litters.png)
 
 - Tablet
 
 - Desktop
+  ![desktop Upcoming LItters page](docs/wireframes/desktop/desktop_upcoming_litters.png)
 
 #### Contact Us
 
@@ -286,6 +287,7 @@ The **Footer** should contain the following elements:
 - Tablet
 
 - Desktop
+  ![desktop Contact Us page](docs/wireframes/desktop/desktop_contact_us.png)
 
 ---
 
@@ -307,7 +309,7 @@ potential options for body text include:
 
 #### :art: Colour Palettes
 
-Site owner has requested that a mojor component of the colour pallete be a
+Site owner has requested that a ma jor component of the colour pallete be a
 lilac/purple. I explored a number of palettes centered around this colour:
 
 ##### Lighter Colour Palettes
