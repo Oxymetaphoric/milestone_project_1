@@ -227,7 +227,8 @@ The **Footer** should contain the following elements:
 #### Navbar
 
 - Mobile <br /> ![mobile navbar wireframe](docs/wireframes/mobile/header.png)
-- Tablet
+- Tablet <br />
+  ![tablet navbar wireframe](docs/wireframes/tablet/tablet_header.png)
 - Desktop <br />
   ![desktop navbar wireframe](docs/wireframes/desktop/desktop_header.png)
 
@@ -235,59 +236,59 @@ The **Footer** should contain the following elements:
 
 - Mobile <br />
   ![mobile footer wireframe](docs/wireframes/mobile/mobile_footer.png)
-- Tablet
+- Tablet <br />
+  ![tablet footer wireframe](docs/wireframes/tablet/tablet_footer.png)
 - Desktop <br />
   ![desktop footer wireframe](docs/wireframes/desktop/desktop_footer.png)
 
 #### Landing Page
 
-- Mobile<br />
-  ![mobile landing page](docs/wireframes/mobile/mobile_landing_page.png)
-
-- Tablet
-
+- Mobile <br />
+  ![mobile landing page wireframe](docs/wireframes/mobile/mobile_landing_page.png)
+- Tablet <br />
+  ![tablet landing page wireframe](docs/wireframes/tablet/tablet_header.png)
 - Desktop <br />
   ![desktop landing page wireframe](docs/wireframes/desktop/desktop_landing_page.png)
 
 #### About Us
 
 - Mobile <br />
-  ![Mobile About Us page](docs/wireframes/mobile/mobile_about_us.png)
+  ![Mobile About Us wireframe](docs/wireframes/mobile/mobile_about_us.png)
 
 - Tablet
 
 - Desktop <br />
-  ![Desktop About Us page](docs/wireframes/desktop/desktop_about_us.png)
+  ![Desktop About Us wireframe](docs/wireframes/desktop/desktop_about_us.png)
 
 #### Testimonials
 
 - Mobile <br />
-  ![mobile Testimonials page](docs/wireframes/mobile/mobile_gallery.png)
+  ![mobile Testimonials wireframe](docs/wireframes/mobile/mobile_gallery.png)
 
 - Tablet
 
 - Desktop
-  ![desktop Testimonials page](docs/wireframes/desktop/desktop_testimonials.png)
+  ![desktop Testimonials wireframe](docs/wireframes/desktop/desktop_testimonials.png)
 
 #### Upcoming Litters
 
 - Mobile <br />
-  ![mobile Upcoming Litters page](docs/wireframes/mobile/upcoming_litters.png)
+  ![mobile Upcoming Litters wireframe](docs/wireframes/mobile/upcoming_litters.png)
 
 - Tablet
 
 - Desktop
-  ![desktop Upcoming LItters page](docs/wireframes/desktop/desktop_upcoming_litters.png)
+  ![desktop Upcoming Litters wireframe](docs/wireframes/desktop/desktop_upcoming_litters.png)
 
 #### Contact Us
 
 - Mobile <br />
-  ![mobile Contact Us page](docs/wireframes/mobile/mobile_contact_us.png)
+  ![mobile Contact Us wireframe](docs/wireframes/mobile/mobile_contact_us.png)
 
 - Tablet
 
 - Desktop
-  ![desktop Contact Us page](docs/wireframes/desktop/desktop_contact_us.png)
+  ![desktop Contact Us wireframe](docs/wireframes/desktop/desktop_contact_us.png)
 
 ---
 
