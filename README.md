@@ -2,11 +2,11 @@
 
 ---
 
-## :world_map: Strategy :world_map:
+## :world_map: Strategy
 
 ---
 
-### :star: Project Goals :star:
+### Project Goals
 
 This is my milestone one project for the
 [Code Institute's](http://www.codeinstitute.net) _'Level 5 Diploma in Web
@@ -16,14 +16,14 @@ and well-implemented website for a business, fictional or otherwise. For this
 assignment I have chosen to create the webpage for my mother-in-law's dog
 breeding business, 'Jenamins'.
 
-#### :smile: User Goals
+#### User Goals
 
 - Easy to find contact and location information
 - Lots of pictures of cute puppies
 - Gain insight into the running of the business, levels of professionalism,
   approachability and other factors relating to the decision to buy a puppy
 
-#### :dog: Site Operator Goals
+#### Site Operator Goals
 
 - Connect with more potential dog owners looking to purchase a puppy
 - Promote the business more broadly
@@ -34,7 +34,7 @@ breeding business, 'Jenamins'.
 - Provide customers with information on currently available puppies and upcoming
   litters
 
-#### :computer: Developer Goals
+#### Developer Goals
 
 - Develop a site that satisfies the distinction requirements of the Code
   Institute
@@ -50,20 +50,20 @@ breeding business, 'Jenamins'.
 
 ---
 
-## :earth_africa: Scope :earth_africa:
+## :earth_africa: Scope
 
 ---
 
-### :star: User Experience :star:
+### User Experience
 
-#### :family: Target Audience
+#### Target Audience
 
 - Adults 18 and up
 - Customers looking to buy a new puppy
 - People interested in breeding their dogs
 - People looking for pictures of cute puppies!
 
-#### :dart: User Requirements and Expectations
+#### User Requirements and Expectations
 
 - Easy navigation, plenty of breadcrumbs, back-to-the-top links/widgets and
   other quality of life features
@@ -74,7 +74,7 @@ breeding business, 'Jenamins'.
 - Plenty of images and a friendly aethetic presentation -Simple to use with
   logical flow and clear and straightforward navigation
 
-#### :book: User Stories
+#### User Stories
 
 ##### - First Time User
 
@@ -112,7 +112,7 @@ breeding business, 'Jenamins'.
    easily
 5. As the site owner I want to make sure customers are never lost on my website
 
-#### :jigsaw: Identified tasks/needs the website should fulfil
+#### Identified tasks/needs the website should fulfil
 
 | Task/Need                               | Importance: \*/5 |
 | --------------------------------------- | ---------------- |
@@ -127,7 +127,7 @@ breeding business, 'Jenamins'.
 | Easy navigation                         | 5                |
 | Finding registration info               | 5                |
 
-#### :eye: Accessibility
+#### Accessibility
 
 Accessibility needs should be considered and aria tags, semantic HTML tags, and
 alt tags for images should all be clear descriptive and follow the w3
@@ -143,7 +143,7 @@ Site should contain a sitemap to aid with accessibility
 
 ---
 
-## :bricks: Structure :bricks:
+## :bricks: Structure
 
 ---
 
@@ -218,11 +218,11 @@ The **Footer** should contain the following elements:
 
 ---
 
-## :skull_and_crossbones: Skeleton :skull_and_crossbones:
+## :skull_and_crossbones: Skeleton
 
 ---
 
-### :tokyo_tower: Wireframes :tokyo_tower:
+### Wireframes
 
 #### Navbar
 
@@ -296,13 +296,13 @@ The **Footer** should contain the following elements:
 
 ---
 
-## :crayon: Surface :crayon:
+## :art: Surface
 
 ---
 
-### :paintbrush: Design :paintbrush:
+### Design
 
-#### :a: Typography
+#### Typography
 
 Typography that emphasises the friendly and personable nature of the business. A
 sans serif with rounded caps would be good for headers, following into a sans
@@ -310,9 +310,21 @@ serif for body text.
 
 potential options for headers include:
 
+- [Lato](https://fonts.google.com/specimen/Lato?preview.text=Who%20Are%20We%3F&preview.size=78&stroke=Sans+Serif)
+- [Nunito](https://fonts.google.com/specimen/Nunito?preview.text=Who%20Are%20We%3F&preview.size=78&stroke=Sans+Serif)
+- [Rubik](https://fonts.google.com/specimen/Rubik?preview.text=Who%20Are%20We%3F&preview.size=78&stroke=Sans+Serif)
+- [Quicksand](https://fonts.google.com/specimen/Quicksand?preview.text=Jenamins%20-%20Dog%20Breeder&preview.size=78&stroke=Sans+Serif)
+- [Dosis](https://fonts.google.com/specimen/Dosis?preview.text=Jenamins%20-%20Dog%20Breeder&preview.size=78&stroke=Sans+Serif)
+
 potential options for body text include:
 
-#### :art: Colour Palettes
+- [Work Sans](https://fonts.google.com/specimen/Work+Sans?preview.text=Hello%20Worldsdsd&preview.size=30&stroke=Sans+Serif&sort=popularity)
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans?preview.text=Hello%20Worldsdsd&preview.size=30&stroke=Sans+Serif&sort=popularity)
+- [PT Sans](https://fonts.google.com/specimen/PT+Sans?preview.text=Hello%20Worldsdsd&preview.size=30&stroke=Sans+Serif&sort=popularity)
+- [Cabin](https://fonts.google.com/specimen/Cabin?preview.text=Hello%20Worldsdsd&preview.size=30&stroke=Sans+Serif&sort=popularity)
+- [Assistant](https://fonts.google.com/specimen/Assistant?preview.text=Hello%20Worldsdsd&preview.size=30&stroke=Sans+Serif&sort=popularity)
+
+#### Colour Palettes
 
 Site owner has requested that a ma jor component of the colour pallete be a
 lilac/purple. I explored a number of palettes centered around this colour:
@@ -339,9 +351,9 @@ lilac/purple. I explored a number of palettes centered around this colour:
 - **Colour Palette 1** ![dark palette 1](/docs/images/colour_palettes/dark.png)
 - **Colour Palette 2** ![dark palette 2](/docs/images/colour_palettes/dark2.png)
 
-#### :printer: Layout
+#### Layout
 
-### :abacus: Technologies and Tools used :abacus:
+### Technologies and Tools used
 
 ### Languages
 
@@ -361,7 +373,7 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 ---
 
-## :microscope: Testing :microscope:
+## :microscope: Testing
 
 ---
 
@@ -375,12 +387,12 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 ---
 
-## :loudspeaker: Deployment :loudspeaker:
+## :loudspeaker: Deployment
 
 ---
 
 ---
 
-## :heart: Credits and Acknowlegements :heart:
+## :heart: Credits and Acknowlegements
 
 ---
