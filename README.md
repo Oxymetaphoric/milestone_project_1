@@ -246,7 +246,7 @@ The **Footer** should contain the following elements:
 - Mobile <br />
   ![mobile landing page wireframe](docs/wireframes/mobile/mobile_landing_page.png)
 - Tablet <br />
-  ![tablet landing page wireframe](docs/wireframes/tablet/tablet_header.png)
+  ![tablet landing page wireframe](docs/wireframes/tablet/tablet_landing_page.png)
 - Desktop <br />
   ![desktop landing page wireframe](docs/wireframes/desktop/desktop_landing_page.png)
 
@@ -255,7 +255,8 @@ The **Footer** should contain the following elements:
 - Mobile <br />
   ![Mobile About Us wireframe](docs/wireframes/mobile/mobile_about_us.png)
 
-- Tablet
+- Tablet <br/>
+  ![tablet About Us wireframe](docs/wireframes/tablet/tablet_about_us.png)
 
 - Desktop <br />
   ![Desktop About Us wireframe](docs/wireframes/desktop/desktop_about_us.png)
@@ -265,7 +266,8 @@ The **Footer** should contain the following elements:
 - Mobile <br />
   ![mobile Testimonials wireframe](docs/wireframes/mobile/mobile_gallery.png)
 
-- Tablet
+- Tablet <br/>
+  ![tablet Testimonials wireframe](docs/wireframes/tablet/tablet_testimonials.png)
 
 - Desktop
   ![desktop Testimonials wireframe](docs/wireframes/desktop/desktop_testimonials.png)
@@ -275,7 +277,8 @@ The **Footer** should contain the following elements:
 - Mobile <br />
   ![mobile Upcoming Litters wireframe](docs/wireframes/mobile/upcoming_litters.png)
 
-- Tablet
+- Tablet <br/>
+  ![tablet Upcoming Litters wireframe](docs/wireframes/tablet/tablet_upcoming_litters.png)
 
 - Desktop
   ![desktop Upcoming Litters wireframe](docs/wireframes/desktop/desktop_upcoming_litters.png)
@@ -285,7 +288,8 @@ The **Footer** should contain the following elements:
 - Mobile <br />
   ![mobile Contact Us wireframe](docs/wireframes/mobile/mobile_contact_us.png)
 
-- Tablet
+- Tablet <br/>
+  ![tablet Contact Us wireframe](docs/wireframes/tablet/tablet_contact_us.png)
 
 - Desktop
   ![desktop Contact Us wireframe](docs/wireframes/desktop/desktop_contact_us.png)
@@ -346,8 +350,9 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 ### Tools
 
-- **[VSCode for linux](https://code.visualstudio.com/)**
+- **[Tilix](https://gnunn1.github.io/tilix-web/)**
 - **[git](https://git-scm.com/)**
+- **[VSCode for linux](https://code.visualstudio.com/)**
 - **[GitHub](https://www.github.com)**
 - **Chrome Dev Tools**
 - **[Google Fonts](https://fonts.google.com/)**
