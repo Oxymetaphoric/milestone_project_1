@@ -4,23 +4,25 @@
 
 ## Wireframes
 
-- Header
-- Footer
-- Landing Page
-- Meet the Family!
-- Testimonials
-- Upcoming Litters
-- Contact Us
-- Gallery
-- 404 Page
+- ~~Header~~
+- ~~Footer~~
+- ~~Landing Page~~
+- ~~Meet the Family!~~
+- ~~Testimonials~~
+- ~~Upcoming Litters~~
+- ~~Contact Us~~
+- ~~Gallery~~
+- ~~404 Page~~
 
 ## README
 
-- Wireframes
-- Design
+- ~~Wireframes~~
+- ~~Design~~
 - ~~Accessibility~~
 - Testing
 - Deployment
 - Credits/acknowledgements
 
-- ## start header and footer of site
+## Coding
+
+- start header and footer of site
