@@ -1,4 +1,14 @@
-#contact-header {
-  background-color: blue;
-  color: #fafafa;
+i {
+  color: purple;
+}
+
+.jenamin {
+  font-weight: bolder;
+  font-size: 42pt;
+  color: blueviolet;
+}
+
+.tagline {
+  font-size: 18pt;
+  line-height: 0%;
 }
