@@ -12,3 +12,20 @@ i {
   font-size: 18pt;
   line-height: 0%;
 }
+
+nav {
+  position: relative;
+}
+
+.links {
+  /* positioning the links menu */
+  position: absolute;
+  bottom: 0;
+  right: 0;
+
+  text-decoration: none;
+  text-align: center;
+
+  font-size: larger;
+  font-weight: bold;
+}
