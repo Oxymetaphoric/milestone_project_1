@@ -29,3 +29,7 @@ nav {
   font-size: larger;
   font-weight: bold;
 }
+
+#contact-header {
+  padding-top: 10px;
+}
