@@ -18,7 +18,7 @@ i {
 
 .tagline {
   font-size: 18pt;
-  line-height: 0%;
+  line-height: 0;
 }
 
 .logo {
@@ -26,28 +26,30 @@ i {
   max-width: fit-content;
 }
 
+.logo a:hover {
+  text-decoration: none;
+}
+
 /* header links menu */
 
-nav {
-  position: relative;
-}
-
 .links {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-
   text-decoration: none;
   text-align: center;
-  padding-bottom: 0px;
-
   font-size: larger;
   font-weight: bold;
+  line-height: 0;
 }
 
-a {
-  text-decoration: none;
+/* navbar links  */
+
+.links a {
+  color: blueviolet;
 }
-a:hover {
+
+.links li {
+  padding: 0px 10px 0px 10px;
+}
+
+.links a:hover {
   text-decoration: underline;
 }
