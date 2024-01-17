@@ -1,7 +1,4 @@
-.contact-header {
-  width: 100vw;
+#contact-header {
   background-color: blue;
   color: #fafafa;
-  display: inline-block;
-  position: fixed;
 }
