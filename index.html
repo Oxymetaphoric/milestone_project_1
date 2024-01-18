@@ -6,7 +6,7 @@
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <!-- importing Bootstrap and fontAwesome -->
+    <!-- importing Bootstrap css framework and fontAwesome icons -->
 
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
@@ -45,10 +45,13 @@
       </div>
 
 
-
+<!-- the following section is the bottom layer of the header -->
+      
       <nav class="navbar navbar-expand-md">
-        <div class="container-fluid">      
+        <div class="container-fluid"> 
+
           <!-- this section is the logo -->
+
           <a class="navbar-brand" href="#">
             <h1 class="jenamin">Jenamin</h1>
             <h2 class="tagline">Registered Dog Breeder</h2>
@@ -75,33 +78,35 @@
       
       </nav>
     </header>
-
-    <section></section>
+<!-- temporarily using inline styling to push footer down the page -->
+    <section style="height: 300px"></section>
 
 
     <!-- footer here  -->
     <footer>
-      <div class="footer-container container-fluid row"> 
-        <div class="footer-header">
-         <div class="map">1234</div>
-          <div>
-            <div class="address">1234</div>
-            <div class="footer-divider">1234</div>
-            <div class="footer-license">1234</div>
+      <!-- footer container -->
+      <div class="footer-container container-fluid"> 
+        <!-- top layer of footer -->
+        <div class="footer-header row">
+         <div class="col map">map here</div>
+          <div class="col row">
+            <div class="col address">1234</div>
+            <div class="col footer-divider">|</div>
+            <div class="col footer-license">1234</div>
          </div>
         </div>
-
-        <div>
-          <div class="copyright">Copyright - Jenamin 2023</div>
-          <div class="footer-contact">Contact Us!</div>
-          <div class="privacy">Privacy Policy</div>
-          <div class="sitemap">Site Map</div>
-          <div class="social-links">socials</div>
+<!-- bottom layer of footer -->
+        <div class="row">
+          <div class="col copyright">Copyright - Jenamin 2023</div>
+          <div class="col footer-contact">Contact Us!</div>
+          <div class="col privacy">Privacy Policy</div>
+          <div class="col sitemap">Site Map</div>
+          <div class="col social-links">socials</div>
         </div>
     </div>
 
     </footer>
-
+<!-- bootstrap script -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
