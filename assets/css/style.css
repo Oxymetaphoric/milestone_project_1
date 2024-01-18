@@ -65,9 +65,15 @@ nav {
 /* footer positioning */
 
 .footer-container {
+  color: #fafafa;
   background-color: blueviolet;
 }
 
-.footer-container li {
+.socials i {
+  font-size: larger;
+  color: #fafafa;
+}
+
+.socials li {
   list-style: none;
 }
