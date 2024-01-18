@@ -25,4 +25,8 @@
 
 ## Coding
 
-- start header and footer of site
+- ~~start header and footer of site~~
+- ~~layout header~~
+- layout footer
+- style header
+- style footer
