@@ -67,3 +67,7 @@ nav {
 .footer-container {
   background-color: blueviolet;
 }
+
+.footer-container li {
+  list-style: none;
+}
