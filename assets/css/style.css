@@ -80,6 +80,10 @@ nav {
 
 /* footer styling  */
 
+.footer-lower {
+  padding-top: 30px;
+}
+
 .footer-lower a {
   font-weight: bolder;
   text-decoration: none;
@@ -90,4 +94,8 @@ nav {
   font-weight: bolder;
   color: darkgray;
   text-decoration: underline;
+}
+
+.map {
+  padding: 0;
 }
