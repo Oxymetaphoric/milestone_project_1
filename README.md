@@ -269,7 +269,7 @@ The **Footer** should contain the following elements:
 - Tablet <br/>
   ![tablet Testimonials wireframe](docs/wireframes/tablet/tablet_testimonials.png)
 
-- Desktop
+- Desktop <br/>
   ![desktop Testimonials wireframe](docs/wireframes/desktop/desktop_testimonials.png)
 
 #### Upcoming Litters
@@ -371,6 +371,10 @@ lilac/purple. I explored a number of palettes centered around this colour:
 - **[Pencil](https://pencil.evolus.vn/)**
 - **[Coolors](https://coolors.co/)**
 
+### Resources
+
+- [Unsplash](http://www.unsplash.com)
+
 ---
 
 ## :microscope: Testing
@@ -396,3 +400,8 @@ lilac/purple. I explored a number of palettes centered around this colour:
 ## :heart: Credits and Acknowlegements
 
 ---
+
+main page hero image: Photo by
+[Arjan Stalpers](https://unsplash.com/@arjan_stalpers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+on
+[Unsplash](https://unsplash.com/photos/dog-jumping-on-grasses-8-sgismcDAQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
