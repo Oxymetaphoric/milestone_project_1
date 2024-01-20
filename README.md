@@ -370,10 +370,11 @@ lilac/purple. I explored a number of palettes centered around this colour:
 - **[Google Fonts](https://fonts.google.com/)**
 - **[Pencil](https://pencil.evolus.vn/)**
 - **[Coolors](https://coolors.co/)**
+- **[Photopea](https://www.photopea.com/)**
 
 ### Resources
 
-- [Unsplash](http://www.unsplash.com)
+- **[Unsplash](http://www.unsplash.com)**
 
 ---
 
