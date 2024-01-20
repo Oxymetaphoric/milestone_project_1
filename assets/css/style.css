@@ -88,6 +88,26 @@ nav {
 
 /* footer styling  */
 
+.footer-upper {
+  color: #fafafa;
+  text-align: center;
+}
+
+.footer-divider {
+  align-self: center;
+  max-width: 5px;
+  height: 150px;
+  background-color: #fafafa;
+  padding: 0;
+  margin: 0;
+}
+
+.essential-info {
+  align-self: center;
+  text-align: center;
+  font-size: larger;
+}
+
 .footer-lower {
   padding-top: 30px;
   text-align: center;
@@ -113,4 +133,12 @@ nav {
 
 .map {
   padding: 10px 10px 10px 10px;
+}
+
+.essential-info i {
+  color: #fafafa;
+}
+
+.essential-info b {
+  text-decoration: underline;
 }
