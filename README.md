@@ -377,6 +377,7 @@ I decided on a final pallete of:
 
 - **CSS3**
 - **HTML5**
+- **[Bootstrap 5.3.2](https://getbootstrap.com/)**
 - **Markdown**
 
 ### Tools
@@ -386,15 +387,16 @@ I decided on a final pallete of:
 - **[VSCode for linux](https://code.visualstudio.com/)**
 - **[GitHub](https://www.github.com)**
 - **Chrome Dev Tools**
-- **[Google Fonts](https://fonts.google.com/)**
 - **[Pencil](https://pencil.evolus.vn/)**
 - **[Coolors](https://coolors.co/)**
+- **[Google Fonts](https://fonts.google.com/)**
 - **[Photopea](https://www.photopea.com/)**
 
 ### Resources
 
 - **[Unsplash](http://www.unsplash.com)**
 - **[Google Maps](https://maps.google.com)**
+- **[Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)**
 
 ---
 
