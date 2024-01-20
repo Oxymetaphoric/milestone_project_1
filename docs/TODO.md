@@ -30,4 +30,4 @@
 - ~~layout footer~~
 - style header
 - style footer
-- add Breadcrumbs in header
+- ~~add Breadcrumbs in header~~

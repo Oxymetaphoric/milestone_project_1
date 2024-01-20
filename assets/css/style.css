@@ -90,6 +90,8 @@ nav {
 
 .footer-lower {
   padding-top: 30px;
+  text-align: center;
+  color: #fafafa;
 }
 
 .footer-lower a {
@@ -102,6 +104,11 @@ nav {
   font-weight: bolder;
   color: darkgray;
   text-decoration: underline;
+}
+
+.footer-lower i:hover {
+  font-weight: bolder;
+  color: darkgray;
 }
 
 .map {
