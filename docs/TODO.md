@@ -28,6 +28,7 @@
 - ~~start header and footer of site~~
 - ~~layout header~~
 - ~~layout footer~~
+- ~~favicon~~
 - style header
 - style footer
 - ~~add Breadcrumbs in header~~

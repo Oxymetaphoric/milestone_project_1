@@ -106,6 +106,7 @@ nav {
   align-self: center;
   text-align: center;
   font-size: larger;
+  margin-right: 0;
 }
 
 .footer-lower {
@@ -139,6 +140,10 @@ nav {
   color: #fafafa;
 }
 
-.essential-info b {
-  text-decoration: underline;
+.copyright {
+  text-align: center;
+}
+
+.footer-lower button {
+  margin-bottom: 20px;
 }
