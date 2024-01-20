@@ -359,6 +359,7 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 - **CSS3**
 - **HTML5**
+- **Markdown**
 
 ### Tools
 
@@ -375,6 +376,7 @@ lilac/purple. I explored a number of palettes centered around this colour:
 ### Resources
 
 - **[Unsplash](http://www.unsplash.com)**
+- **[Google Maps](https://maps.google.com)**
 
 ---
 

@@ -93,6 +93,10 @@ nav {
   text-align: center;
 }
 
+.map {
+  padding: 10px 10px 10px 10px;
+}
+
 .footer-divider {
   align-self: center;
   max-width: 5px;
@@ -108,6 +112,12 @@ nav {
   font-size: larger;
   margin-right: 0;
 }
+
+.essential-info i {
+  color: #fafafa;
+}
+
+/* footer lower */
 
 .footer-lower {
   padding-top: 30px;
@@ -130,14 +140,6 @@ nav {
 .footer-lower i:hover {
   font-weight: bolder;
   color: darkgray;
-}
-
-.map {
-  padding: 10px 10px 10px 10px;
-}
-
-.essential-info i {
-  color: #fafafa;
 }
 
 .copyright {

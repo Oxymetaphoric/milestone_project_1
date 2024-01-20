@@ -31,4 +31,10 @@
 - ~~favicon~~
 - style header
 - style footer
+- add more responsiveness to header
+- responsive footer
 - ~~add Breadcrumbs in header~~
+- content of pages
+  - content for index page
+  - content for other pages
+- create other pages once header and footer are styled and responsive
