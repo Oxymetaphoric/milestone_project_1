@@ -1,4 +1,9 @@
-/*  import fonts from google fonts */
+/*  import fonts from google fonts
+    use: font-family: 'Assistant', sans-serif; for body text
+    use: font-family: 'Quicksand', sans-serif;
+     */
+
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400&family=Quicksand:wght@300;400;500;600;700&display=swap");
 
 /* colour palettes
   /* White Smoke:       #F5F5F5
