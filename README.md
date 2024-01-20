@@ -373,26 +373,27 @@ I decided on a final pallete of:
 
 ### Technologies and Tools used
 
-### Languages
+#### Languages
 
 - **CSS3**
 - **HTML5**
 - **[Bootstrap 5.3.2](https://getbootstrap.com/)**
 - **Markdown**
 
-### Tools
+#### Tools
 
 - **[Tilix](https://gnunn1.github.io/tilix-web/)**
+- **[Google Chrome](https://www.chrome.com/)**
+- **[Firefox](https://www.firefox.com)**
 - **[git](https://git-scm.com/)**
 - **[VSCode for linux](https://code.visualstudio.com/)**
 - **[GitHub](https://www.github.com)**
-- **Chrome Dev Tools**
 - **[Pencil](https://pencil.evolus.vn/)**
 - **[Coolors](https://coolors.co/)**
 - **[Google Fonts](https://fonts.google.com/)**
 - **[Photopea](https://www.photopea.com/)**
 
-### Resources
+#### Resources
 
 - **[Unsplash](http://www.unsplash.com)**
 - **[Google Maps](https://maps.google.com)**
@@ -404,13 +405,23 @@ I decided on a final pallete of:
 
 ---
 
-- Functional testing
-- User Stories Testing
-- Bug fixes
-- HTML/CSS Validators
-- WAVE
-- Lighthouse
-- Devices
+### Functional testing
+
+### User Stories Testing
+
+### Bug fixes
+
+jan 20th: margin in one of the divs in the footer was unintentially causing a
+small amount of horizontal scrolling to be possible. Found the culprit using
+Firefox's Dev tools to identify the element at fault
+
+### HTML/CSS Validators
+
+### WAVE
+
+### Lighthouse
+
+### Devices
 
 ---
 
