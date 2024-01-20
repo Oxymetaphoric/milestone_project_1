@@ -326,7 +326,7 @@ potential options for body text include:
 
 #### Colour Palettes
 
-Site owner has requested that a ma jor component of the colour pallete be a
+Site owner has requested that a major component of the colour pallete be a
 lilac/purple. I explored a number of palettes centered around this colour:
 
 ##### Lighter Colour Palettes
@@ -350,6 +350,14 @@ lilac/purple. I explored a number of palettes centered around this colour:
 
 - **Colour Palette 1** ![dark palette 1](/docs/images/colour_palettes/dark.png)
 - **Colour Palette 2** ![dark palette 2](/docs/images/colour_palettes/dark2.png)
+
+I decided on a final pallete of:
+
+     White Smoke:       #F5F5F5
+     Periwinkle:        #C9C2F3
+     Tropical Indigo:   #9D8DF1
+     Payne's Gray:      #536B79
+     Night:             #121213
 
 #### Layout
 

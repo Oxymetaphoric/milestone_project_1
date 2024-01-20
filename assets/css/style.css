@@ -1,7 +1,18 @@
+/*  import fonts from google fonts */
+
+/* colour palettes
+  /* Darker purple:  #9D8DF1
+     Lighter Purple: #C9C2F3
+     Dark Grey:      #3E505B
+     White:          #F5F5F5
+     Black:          #141414
+  /* 
+
+
 /* header contact details  */
 
 i {
-  color: purple;
+  color: blueviolet;
 }
 
 #contact-header {
