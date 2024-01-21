@@ -21,6 +21,14 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 28pt;
+  font-weight: bolder;
+  color: #735ceb;
+  text-align: center;
+}
+
 /* header contact details  */
 #contact-header {
   color: #f5f5f5;
@@ -164,12 +172,13 @@ section {
 
 .essential-info h4 {
   font-family: "Quicksand", sans-serif;
+  font-weight: bold;
 }
 
 /* footer lower */
 
 .footer-lower {
-  padding-top: 30px;
+  padding-top: 32px;
   text-align: center;
   color: #f5f5f5;
   background-color: #536b79;
