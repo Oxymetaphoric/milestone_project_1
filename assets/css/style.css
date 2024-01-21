@@ -13,6 +13,14 @@
      Night:             #121213
   */
 
+h2 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 42pt;
+  font-weight: bolder;
+  color: #735ceb;
+  text-align: center;
+}
+
 /* header contact details  */
 #contact-header {
   color: #f5f5f5;
@@ -58,7 +66,7 @@
 .links {
   text-decoration: none;
   text-align: center;
-  font-size: larger;
+  font-size: 24px;
   font-weight: bold;
   line-height: 0;
 }
@@ -68,12 +76,16 @@
 }
 
 .links a {
-  color: #121213;
+  color: #735ceb;
 }
 
 .links a:hover {
-  color: #735ceb;
+  color: #536b79;
   text-decoration: underline;
+}
+
+.nav-item .active:hover {
+  text-decoration: none;
 }
 
 nav {
@@ -96,16 +108,22 @@ nav {
   text-decoration: underline;
 }
 
+/* body */
+
+section {
+  background-color: #f5f5f5;
+}
+
 /* footer positioning */
 
 .footer-container {
-  color: #fafafa;
+  color: #f5f5f5;
   background-color: #735ceb;
 }
 
 .socials i {
   font-size: larger;
-  color: #fafafa;
+  color: #f5f5f5;
 }
 
 .socials li {
@@ -115,7 +133,7 @@ nav {
 /* footer styling  */
 
 .footer-upper {
-  color: #fafafa;
+  color: #f5f5f5;
   text-align: center;
 }
 
@@ -127,7 +145,7 @@ nav {
   align-self: center;
   max-width: 5px;
   height: 150px;
-  background-color: #fafafa;
+  background-color: #f5f5f5;
   padding: 0;
   margin: 0;
 }
@@ -137,10 +155,15 @@ nav {
   text-align: center;
   font-size: larger;
   margin-right: 0;
+  font-family: "Assistant", sans-serif;
 }
 
 .essential-info i {
-  color: #fafafa;
+  color: #f5f5f5;
+}
+
+.essential-info h4 {
+  font-family: "Quicksand", sans-serif;
 }
 
 /* footer lower */
@@ -148,16 +171,18 @@ nav {
 .footer-lower {
   padding-top: 30px;
   text-align: center;
-  color: #fafafa;
+  color: #f5f5f5;
   background-color: #536b79;
 }
 
 .copyright {
+  font-family: "Quicksand", sans-serif;
   text-align: center;
 }
 
 .footer-lower a {
-  font-weight: bolder;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
   text-decoration: none;
   color: #f5f5f5;
 }
