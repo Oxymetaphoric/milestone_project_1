@@ -398,6 +398,7 @@ I decided on a final pallete of:
 - **[Unsplash](http://www.unsplash.com)**
 - **[Google Maps](https://maps.google.com)**
 - **[Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)**
+- **[W3 Schools](https://w3schools.com)**
 
 ---
 

@@ -14,8 +14,7 @@
   */
 
 p {
-  font-size: 18pt;
-  color: #121213;
+  font-size: 16pt;
   font-family: "Assistant", sans-serif;
 }
 
@@ -36,21 +35,29 @@ h3 {
 }
 
 /* header contact details  */
-#contact-header {
-  color: #f5f5f5;
-}
 
 #contact-header {
+  color: #f5f5f5;
   font-family: "Assistant", sans-serif;
   padding-top: 10px;
   background-color: #735ceb;
 }
 
+.contact-header p {
+  font-size: 16pt;
+  color: #f5f5f5;
+}
+
 #contact-header b {
   font-family: "Quicksand", sans-serif;
+  color: #f5f5f5;
 }
 
 /* header logo */
+
+.header-bottom {
+  background-color: #f5f5f5;
+}
 
 .jenamin {
   font-family: "Quicksand", sans-serif;
@@ -95,10 +102,10 @@ h3 {
 }
 
 .links a:hover {
-  color: #536b79;
+  color: #9d8df1;
   text-decoration: underline;
   text-decoration-thickness: 7px;
-  text-decoration-color: #735ceb;
+  text-decoration-color: #9d8df1;
 }
 
 .nav-item .active:hover {
@@ -115,6 +122,10 @@ nav {
   right: 0;
 }
 
+.breadcrumbs {
+  background-color: #f5f5f5;
+}
+
 .breadcrumb a {
   color: #735ceb;
   font-weight: bold;
@@ -129,6 +140,7 @@ nav {
 
 section {
   background-color: #f5f5f5;
+  color: #121213;
 }
 
 .reasons-container {
