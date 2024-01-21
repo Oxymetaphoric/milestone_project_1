@@ -31,8 +31,8 @@
 - ~~favicon~~
 - ~~style header~~
 - ~~style footer~~
-- responsive header
-- responsive footer
+- ~~responsive header~~
+- ~~responsive footer~~
 - ~~add Breadcrumbs in header~~
 - ~~style and build why choose us section~~
 - create other pages once header and footer are styled and responsive
