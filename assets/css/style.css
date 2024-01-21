@@ -90,6 +90,8 @@ h3 {
 .links a:hover {
   color: #536b79;
   text-decoration: underline;
+  text-decoration-thickness: 7px;
+  text-decoration-color: #735ceb;
 }
 
 .nav-item .active:hover {
@@ -200,6 +202,7 @@ section {
   font-weight: bolder;
   color: #121213;
   text-decoration: underline;
+  text-decoration-thickness: 5px;
 }
 
 .footer-lower i:hover {
