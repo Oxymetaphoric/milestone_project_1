@@ -13,6 +13,12 @@
      Night:             #121213
   */
 
+p {
+  font-size: 18pt;
+  color: #121213;
+  font-family: "Assistant", sans-serif;
+}
+
 h2 {
   font-family: "Quicksand", sans-serif;
   font-size: 42pt;
@@ -58,6 +64,7 @@ h3 {
   font-size: 18pt;
   line-height: 0;
   color: #121213;
+  padding: 0;
 }
 
 .logo {
@@ -122,6 +129,19 @@ nav {
 
 section {
   background-color: #f5f5f5;
+}
+
+.reasons-container {
+  padding-bottom: 20px;
+}
+
+.divider-purple {
+  align-self: center;
+  max-width: 5px;
+  height: 100px;
+  background-color: #735ceb;
+  padding: 0px;
+  margin: 20px;
 }
 
 /* footer positioning */
