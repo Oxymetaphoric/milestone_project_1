@@ -6,34 +6,42 @@
 @import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400&family=Quicksand:wght@300;400;500;600;700&display=swap");
 
 /* colour palettes
-  /* White Smoke:       #F5F5F5
-     Periwinkle:        #C9C2F3
+   White Smoke:       #F5F5F5
+     Medium Slate Blue  #735CEB
      Tropical Indigo:   #9D8DF1
      Payne's Gray:      #536B79
      Night:             #121213
-  /* 
+  */
 
 /* header contact details  */
-
-i {
-  color: blueviolet;
+#contact-header {
+  color: #f5f5f5;
 }
 
 #contact-header {
+  font-family: "Assistant", sans-serif;
   padding-top: 10px;
+  background-color: #735ceb;
+}
+
+#contact-header b {
+  font-family: "Quicksand", sans-serif;
 }
 
 /* header logo */
 
 .jenamin {
+  font-family: "Quicksand", sans-serif;
   font-weight: bolder;
   font-size: 42pt;
-  color: blueviolet;
+  color: #735ceb;
 }
 
 .tagline {
+  font-family: "Quicksand", sans-serif;
   font-size: 18pt;
   line-height: 0;
+  color: #121213;
 }
 
 .logo {
@@ -55,15 +63,16 @@ i {
   line-height: 0;
 }
 
-.links a {
-  color: blueviolet;
-}
-
 .links li {
   padding: 0px 15px 0px 15px;
 }
 
+.links a {
+  color: #121213;
+}
+
 .links a:hover {
+  color: #735ceb;
   text-decoration: underline;
 }
 
@@ -78,6 +87,8 @@ nav {
 }
 
 .breadcrumb a {
+  color: #735ceb;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -89,7 +100,7 @@ nav {
 
 .footer-container {
   color: #fafafa;
-  background-color: blueviolet;
+  background-color: #735ceb;
 }
 
 .socials i {
@@ -138,29 +149,26 @@ nav {
   padding-top: 30px;
   text-align: center;
   color: #fafafa;
-}
-
-.footer-lower a {
-  font-weight: bolder;
-  text-decoration: none;
-  color: #fafafa;
-}
-
-.footer-lower a:hover {
-  font-weight: bolder;
-  color: darkgray;
-  text-decoration: underline;
-}
-
-.footer-lower i:hover {
-  font-weight: bolder;
-  color: darkgray;
+  background-color: #536b79;
 }
 
 .copyright {
   text-align: center;
 }
 
-.footer-lower button {
-  margin-bottom: 20px;
+.footer-lower a {
+  font-weight: bolder;
+  text-decoration: none;
+  color: #f5f5f5;
+}
+
+.footer-lower a:hover {
+  font-weight: bolder;
+  color: #121213;
+  text-decoration: underline;
+}
+
+.footer-lower i:hover {
+  font-weight: bolder;
+  color: #121213;
 }
