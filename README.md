@@ -416,8 +416,11 @@ jan 20th: margin in one of the divs in the footer was unintentially causing a
 small amount of horizontal scrolling to be possible. Found the culprit using
 Firefox's Dev tools to identify the element at fault
 
-jan 21st: setting global h property interacted with my logo layout due to not
-enough specificity
+jan 21st: setting global h property interacted badly with my logo layout due to
+not enough specificity
+
+Jan 22nd: fixed the background-color of the breadcrumbs div being a slightly
+different white than the rest of the page, same for the logo div
 
 ### HTML/CSS Validators
 

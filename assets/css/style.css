@@ -93,6 +93,14 @@ h3 {
 
 /* header links menu */
 
+.nav {
+  background-color: #f5f5f5;
+}
+
+.menu {
+  background-color: #f5f5f5;
+}
+
 .links {
   text-decoration: none;
   text-align: center;
@@ -116,6 +124,10 @@ h3 {
   text-decoration-color: #9d8df1;
 }
 
+.navbar {
+  background-color: #f5f5f5;
+}
+
 .nav-item .active:hover {
   text-decoration: none;
 }
@@ -130,6 +142,7 @@ h3 {
 
 .breadcrumb {
   background-color: #f5f5f5;
+  margin-bottom: 0;
 }
 
 .breadcrumb a {
@@ -143,7 +156,7 @@ h3 {
   text-decoration: underline;
 }
 
-/* body */
+/* index.html  */
 
 .main-section {
   color: #121213;
@@ -154,8 +167,8 @@ h3 {
 .hero-image {
   background-color: #f5f5f5;
 
-  height: 100vh;
-
+  height: 65vh;
+  animation: forwards;
   background: url(../images/arjan-stalpers-8-sgismcDAQ-unsplash.jpg) no-repeat
     center center fixed;
   -webkit-background-size: cover;
@@ -184,6 +197,18 @@ h3 {
   background-color: #735ceb;
   padding: 0px;
   margin: 20px;
+}
+
+/* privacy.html */
+
+.privacy-policy {
+  width: 65%;
+  font-size: 14pt;
+  font-family: "Assistant", sans-serif;
+}
+
+.privacy-policy h3 {
+  padding-bottom: 20pt;
 }
 
 /* footer positioning */
