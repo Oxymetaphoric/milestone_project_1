@@ -422,6 +422,9 @@ not enough specificity
 Jan 22nd: fixed the background-color of the breadcrumbs div being a slightly
 different white than the rest of the page, same for the logo div
 
+jan 22nd: closing the section tag in the main body of any page breaks the
+positioning of the footer, unsure how to fix currently.
+
 ### HTML/CSS Validators
 
 ### WAVE
@@ -442,7 +445,11 @@ different white than the rest of the page, same for the logo div
 
 ---
 
-main page hero image: Photo by
-[Arjan Stalpers](https://unsplash.com/@arjan_stalpers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-on
-[Unsplash](https://unsplash.com/photos/dog-jumping-on-grasses-8-sgismcDAQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+- main page hero image: Photo by
+  [Arjan Stalpers](https://unsplash.com/@arjan_stalpers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  on
+  [Unsplash](https://unsplash.com/photos/dog-jumping-on-grasses-8-sgismcDAQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+- privacy policy text from the
+  [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
+  website

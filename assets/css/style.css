@@ -12,8 +12,9 @@
      Payne's Gray:      #536B79
      Night:             #121213
   */
-html {
+body {
   background-color: #f5f5f5;
+  position: relative;
 }
 
 p {
@@ -126,6 +127,8 @@ h3 {
 
 .navbar {
   background-color: #f5f5f5;
+  padding-bottom: 0;
+  margin-bottom: 8px;
 }
 
 .nav-item .active:hover {
@@ -165,9 +168,8 @@ h3 {
 }
 
 .hero-image {
-  background-color: #f5f5f5;
-
   height: 65vh;
+  background-color: #f5f5f5;
   animation: forwards;
   background: url(../images/arjan-stalpers-8-sgismcDAQ-unsplash.jpg) no-repeat
     center center fixed;
@@ -175,7 +177,7 @@ h3 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
+  overflow: scroll;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -202,7 +204,8 @@ h3 {
 /* privacy.html */
 
 .privacy-policy {
-  width: 65%;
+  width: 80%;
+  height: auto;
   font-size: 14pt;
   font-family: "Assistant", sans-serif;
 }
@@ -212,6 +215,15 @@ h3 {
 }
 
 /* footer positioning */
+
+footer {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
 
 .footer-container {
   color: #f5f5f5;
@@ -268,7 +280,7 @@ h3 {
 /* footer lower */
 
 .footer-lower {
-  padding-top: 32px;
+  padding-top: 10px;
   text-align: center;
   color: #f5f5f5;
   background-color: #536b79;
