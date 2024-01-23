@@ -453,6 +453,10 @@ of unclosed tags, reset positioning using relative to body.
   on
   [Unsplash](https://unsplash.com/photos/dog-jumping-on-grasses-8-sgismcDAQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
+- About Us photos:
+
+  [Wade Austin Ellis](https://unsplash.com/photos/woman-hugging-a-dog-FtuJIuBbUhI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
 - privacy policy text from the
   [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
   website

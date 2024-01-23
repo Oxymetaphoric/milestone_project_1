@@ -37,4 +37,7 @@
 - ~~style and build why choose us section~~
 - create other pages once header and footer are styled and responsive
   - ~~privacy policy~~
-  - Contact Us
+  - ~~Contact Us~~
+  - About Us
+
+-!!! RENAME IMAGES !!! Important - NO CAPS in image names
