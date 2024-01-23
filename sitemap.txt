@@ -1,0 +1,7 @@
+https://[www.example.com]/index.html
+https://[www.example.com]/about-us.html
+https://[www.example.com]/litters.html
+https://[www.example.com]/testimonials.html
+https://[www.example.com]/contact-us.html
+https://[www.example.com]/privacy.html
+

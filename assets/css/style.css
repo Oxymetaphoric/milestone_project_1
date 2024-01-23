@@ -241,6 +241,7 @@ a:hover {
 }
 
 /* contact-us */
+
 .contact-main-section {
   height: fit-content;
   background-size: cover;
@@ -261,9 +262,7 @@ a:hover {
 }
 
 .btn-dark {
-  background-color: #536b79;
   border: none;
-  border-radius: 12%;
 }
 
 /* footer positioning */
