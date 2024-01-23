@@ -218,6 +218,13 @@ a:hover {
   margin: 20px;
 }
 
+/* About Us */
+
+.about-main-section {
+  height: 50vh;
+  overflow: scroll;
+}
+
 /* privacy.html */
 
 .privacy-policy {
