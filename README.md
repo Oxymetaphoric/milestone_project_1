@@ -399,6 +399,7 @@ I decided on a final pallete of:
 - **[Google Maps](https://maps.google.com)**
 - **[Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)**
 - **[W3 Schools](https://w3schools.com)**
+- **[stack overflow](http://www.stackoverflow.com)**
 
 ---
 
@@ -419,11 +420,13 @@ Firefox's Dev tools to identify the element at fault
 jan 21st: setting global h property interacted badly with my logo layout due to
 not enough specificity
 
-Jan 22nd: fixed the background-color of the breadcrumbs div being a slightly
-different white than the rest of the page, same for the logo div
+Jan 22nd: ~~fixed the background-color of the breadcrumbs div being a slightly
+different white than the rest of the page, same for the logo div~~ found the
+errant padding in breadcrumbs and replaced it with margin
 
-jan 22nd: closing the section tag in the main body of any page breaks the
-positioning of the footer, unsure how to fix currently.
+jan 22nd: ~~closing the section tag in the main body of any page breaks the
+positioning of the footer, unsure how to fix currently.~~ fixed: fixed a bunch
+of unclosed tags, reset positioning using relative to body.
 
 ### HTML/CSS Validators
 

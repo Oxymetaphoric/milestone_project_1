@@ -37,6 +37,17 @@ h3 {
   text-align: center;
 }
 
+a {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+}
+
 /* header contact details  */
 
 #contact-header {
@@ -86,9 +97,10 @@ h3 {
   max-width: fit-content;
   padding-bottom: 0;
   margin-bottom: 0;
+  text-decoration: none;
 }
 
-.logo a:hover {
+.navbar-brand:hover {
   text-decoration: none;
 }
 
@@ -100,6 +112,7 @@ h3 {
 
 .menu {
   background-color: #f5f5f5;
+  position: relative;
 }
 
 .links {
@@ -201,6 +214,15 @@ h3 {
   margin: 20px;
 }
 
+.horizontal-divider {
+  align-self: center;
+  max-height: 5px;
+  width: 100px;
+  background-color: #735ceb;
+  padding: 0;
+  margin: 20px;
+}
+
 /* privacy.html */
 
 .privacy-policy {
@@ -211,7 +233,16 @@ h3 {
 }
 
 .privacy-policy h3 {
-  padding-bottom: 20pt;
+  padding-top: 20pt;
+}
+
+#ico {
+  color: #735ceb;
+}
+
+#ico:hover {
+  color: #9d8df1;
+  text-decoration-color: #9d8df1;
 }
 
 /* footer positioning */
@@ -221,8 +252,6 @@ footer {
   position: relative;
   bottom: 0;
   left: 0;
-  padding-bottom: 10px;
-  padding-top: 10px;
 }
 
 .footer-container {
@@ -284,6 +313,7 @@ footer {
   text-align: center;
   color: #f5f5f5;
   background-color: #536b79;
+  height: fit-content;
 }
 
 .copyright {
