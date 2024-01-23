@@ -46,7 +46,7 @@
             <p><b>Opening Hours:</b><br />9am - 5pm Mon- Fri</p>
           </div>
         </div>
-       </div>
+      </div>
 
        <!-- the following section is the bottom layer of the header -->
 
@@ -92,11 +92,11 @@
       </nav>
 
            <!-- navigation breadcrumbs  -->
-            <nav class="container-fluid">
-                <div class="breadcrumbs">
-                  <ol class="breadcrumb">
-                    <li class="breadcrumb-item active"><a href="/index.html">Home</a></li>
-                  </ol> 
+            <nav class="container-fluid breadcrumbs">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+                <li class="breadcrumb-item active"><a href="/contact-us.html">Contact Us</a></li>
+              </ol> 
             </nav>
 
         </div>
@@ -104,60 +104,65 @@
     </header>
 
     <!-- main section of the page -->
-    <section class="container-fluid contact-main-section" style="height: 450px"> 
-      <!-- temporary inline styling for ease of developme -->
-      <div class="container align-content-lg-center bg-white"> 
-        <form>
-          <label for="name">Name:</label>
-          <input
-            class="text-input"
-            type="text"
-            id="name"
-            name="name"
-            required />
-
-          <label for="phone">Contact Number:</label>
-          <input
-            class="text-input"
-            type="tel"
-            id="phone"
-            name="phone"
-            required />
-
-          <label for="email">Email Address</label>
-          <input
-            class="text-input"
-            type="email"
-            id="email"
-            name="email"
-            required />
-
-          <label for="message">Message</label>
-          <input
-            class="form-text"
-            type="text"
-            id="message"  
-            name="message"
-            required />
-            
-          <label for="reset">Clear Form</label>
+    <section class="container-fluid contact-main-section "> 
+      <div class="col form rounded"> 
+        <form action="form-submitted.html" method="get">
+          <div class="form-floating mb-4">
             <input
-            class="btn"
+              type="text"
+              class="form-control"
+              placeholder="name"
+              id="name"
+              required />
+            <label for="name">Name</label>
+          </div>
+
+          <div class="form-floating mb-3">  
+            <input
+              type="tel"
+              class="form-control"
+              id="tel"
+              placeholder="contact number"
+              required />
+            <label for="tel">Contact Number</label>
+          </div> 
+
+          <div class="form-floating mb-3">
+            <input
+              type="email"
+              class="form-control"
+              id="email"
+              placeholder="email address"
+              required />
+            <label for="email">Email Address</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <textarea 
+            class="form-control" 
+            placeholder="send us a message" 
+            id="message" 
+            style="height: 150px"></textarea>
+            <label for="message">Comments</label>
+          </div>
+
+          <label for="reset"></label>
+            <input
+            value="clear form"
+            class="btn-dark"
             type="reset"
             id="reset"  
             name="reset"
-            required /> 
+            /> 
 
-          <label for="submit">Submit</label>
+          <label for="submit"></label>
           <input
-            class="form-text"
-            type="text"
-            id="message"  
-            name="message"
-            required />   
-
-       
-
+            value="submit"
+            class="btn-dark"
+            type="submit"
+            id="submit"  
+            name="submit"
+            />   
         </form>
       </div> 
     </section>
