@@ -104,10 +104,60 @@
     </header>
 
     <!-- main section of the page -->
-    <section class="container-fluid contact-main-section">
-      <div> 
+    <section class="container-fluid contact-main-section" style="height: 450px"> 
+      <!-- temporary inline styling for ease of developme -->
+      <div class="container align-content-lg-center bg-white"> 
         <form>
-            123
+          <label for="name">Name:</label>
+          <input
+            class="text-input"
+            type="text"
+            id="name"
+            name="name"
+            required />
+
+          <label for="phone">Contact Number:</label>
+          <input
+            class="text-input"
+            type="tel"
+            id="phone"
+            name="phone"
+            required />
+
+          <label for="email">Email Address</label>
+          <input
+            class="text-input"
+            type="email"
+            id="email"
+            name="email"
+            required />
+
+          <label for="message">Message</label>
+          <input
+            class="form-text"
+            type="text"
+            id="message"  
+            name="message"
+            required />
+            
+          <label for="reset">Clear Form</label>
+            <input
+            class="btn"
+            type="reset"
+            id="reset"  
+            name="reset"
+            required /> 
+
+          <label for="submit">Submit</label>
+          <input
+            class="form-text"
+            type="text"
+            id="message"  
+            name="message"
+            required />   
+
+       
+
         </form>
       </div> 
     </section>
