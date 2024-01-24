@@ -150,6 +150,10 @@ a:hover {
   line-height: 10pt;
 }
 
+breadcrumb {
+  margin-bottom: 10px;
+}
+
 .breadcrumbs {
   background-color: #f5f5f5;
 }
@@ -220,9 +224,15 @@ a:hover {
 
 .about-main-section {
   background-image: url(/assets/images/arjan-stalpers-8-sgismcDAQ-unsplash.jpg);
-  color: #121213;
+  height: fit-content;
   font-size: 18pt;
   padding: 20px;
+  height: 65vh;
+  overflow: scroll;
+}
+
+.about-header {
+  color: #735ceb;
 }
 
 .about-main-section h3 {
@@ -230,31 +240,34 @@ a:hover {
   padding: 10px;
 }
 
-.about-main-section .container {
-  margin: 20px;
+.about-box {
+  background-color: rgba(245, 245, 245, 0.8);
+  max-width: 75%;
+  min-width: 300px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.about-box p {
+  padding-bottom: 10px;
+}
+
+#about-people img {
+  width: 33%;
+  min-width: 250px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  float: left;
+}
+
+#about-dogs img {
+  width: 30%;
+  min-width: 250px;
+  padding: 10px;
 }
 
 .about-body {
-  margin: 0;
-}
-
-.about-people img {
-  width: 40%;
-  height: fit-content;
-  float: left;
-  padding: 10px;
-  margin-bottom: 0;
-}
-
-.about-people {
-  background-color: rgba(245, 245, 245, 0.8);
-  margin: 20px;
-}
-
-.about-dogs-images {
-  width: 100%;
-  align-items: center;
-  float: center;
+  text-align: left;
 }
 
 /* privacy.html */
