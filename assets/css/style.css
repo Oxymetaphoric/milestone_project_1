@@ -25,7 +25,6 @@ h2 {
   font-family: "Quicksand", sans-serif;
   font-size: 42pt;
   font-weight: bolder;
-  color: #735ceb;
   text-align: center;
 }
 
@@ -33,7 +32,6 @@ h3 {
   font-family: "Quicksand", sans-serif;
   font-size: 28pt;
   font-weight: bolder;
-  color: #735ceb;
   text-align: center;
 }
 
@@ -221,14 +219,48 @@ a:hover {
 /* About Us */
 
 .about-main-section {
-  height: 50vh;
-  overflow: scroll;
+  background-image: url(/assets/images/arjan-stalpers-8-sgismcDAQ-unsplash.jpg);
+  color: #121213;
+  font-size: 18pt;
+  padding: 20px;
+}
+
+.about-main-section h3 {
+  color: #735ceb;
+  padding: 10px;
+}
+
+.about-main-section .container {
+  margin: 20px;
+}
+
+.about-body {
+  margin: 0;
+}
+
+.about-people img {
+  width: 40%;
+  height: fit-content;
+  float: left;
+  padding: 10px;
+  margin-bottom: 0;
+}
+
+.about-people {
+  background-color: rgba(245, 245, 245, 0.8);
+  margin: 20px;
+}
+
+.about-dogs-images {
+  width: 100%;
+  align-items: center;
+  float: center;
 }
 
 /* privacy.html */
 
 .privacy-policy {
-  width: 80%;
+  width: 60%;
   height: auto;
   font-size: 14pt;
   font-family: "Assistant", sans-serif;

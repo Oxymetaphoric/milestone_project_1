@@ -392,6 +392,7 @@ I decided on a final pallete of:
 - **[Coolors](https://coolors.co/)**
 - **[Google Fonts](https://fonts.google.com/)**
 - **[Photopea](https://www.photopea.com/)**
+- **[hextorgba](https://rgbacolorpicker.com/hex-to-rgba)**
 
 #### Resources
 
