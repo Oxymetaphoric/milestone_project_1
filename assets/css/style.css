@@ -240,11 +240,15 @@ breadcrumb {
   padding: 10px;
 }
 
+.about-body {
+  text-align: left;
+}
 .about-box {
   background-color: rgba(245, 245, 245, 0.8);
   max-width: 75%;
   min-width: 300px;
   height: auto;
+  padding: 10px;
   margin-bottom: 20px;
 }
 
@@ -256,18 +260,14 @@ breadcrumb {
   width: 33%;
   min-width: 250px;
   padding-right: 10px;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   float: left;
 }
 
 #about-dogs img {
   width: 30%;
-  min-width: 250px;
+  min-width: 280px;
   padding: 10px;
-}
-
-.about-body {
-  text-align: left;
 }
 
 /* privacy.html */
