@@ -242,6 +242,7 @@ breadcrumb {
 .about-body {
   text-align: left;
 }
+
 .about-box {
   background-color: rgba(245, 245, 245, 0.8);
   max-width: 75%;
@@ -251,6 +252,10 @@ breadcrumb {
   margin-bottom: 20px;
 }
 
+.about-image {
+  width: fit-content;
+}
+
 .about-box p {
   padding-bottom: 10px;
 }
@@ -258,24 +263,35 @@ breadcrumb {
 #about-people img {
   width: 33%;
   min-width: 250px;
-  padding-right: 10px;
-
   float: left;
 }
 
 #about-dogs img {
   width: 30%;
   min-width: 280px;
-  padding: 10px;
 }
 
 /* privacy.html */
 
+.privacy-main-section {
+  height: fit-content;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(/assets/images/arjan-stalpers-8-sgismcDAQ-unsplash.jpg);
+  padding: 20px;
+  margin: 10px;
+}
+
 .privacy-policy {
-  width: 60%;
+  max-width: 75%;
+  min-width: 300px;
   height: auto;
   font-size: 14pt;
   font-family: "Assistant", sans-serif;
+  background-color: rgba(245, 245, 245, 0.8);
+  padding: 30px;
 }
 
 .privacy-policy h3 {

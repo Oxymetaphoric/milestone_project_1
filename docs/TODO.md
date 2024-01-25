@@ -38,6 +38,9 @@
 - create other pages once header and footer are styled and responsive
   - ~~privacy policy~~
   - ~~Contact Us~~
-  - About Us
-
--!!! RENAME IMAGES !!! Important - NO CAPS in image names
+  - ~~About Us~~
+  - Upcoming Litters
+  - Testimonials
+- style images of about us
+- 20px padding around main-sections and header?
+- !!! RENAME IMAGES !!! Important - NO CAPS in image names
