@@ -26,6 +26,7 @@ h2 {
   font-size: 42pt;
   font-weight: bolder;
   text-align: center;
+  color: #735ceb;
 }
 
 h3 {
@@ -33,6 +34,7 @@ h3 {
   font-size: 28pt;
   font-weight: bolder;
   text-align: center;
+  color: #735ceb;
 }
 
 a {
@@ -187,7 +189,7 @@ breadcrumb {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  overflow: scroll;
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -212,23 +214,20 @@ breadcrumb {
 }
 
 .horizontal-divider {
-  align-self: center;
+  min-height: 5px;
   max-height: 5px;
   width: 100px;
   background-color: #735ceb;
-  padding: 0;
-  margin: 20px;
+  margin-bottom: 20px;
 }
 
 /* About Us */
 
 .about-main-section {
-  background-image: url(/assets/images/arjan-stalpers-8-sgismcDAQ-unsplash.jpg);
   height: fit-content;
   font-size: 18pt;
   padding: 20px;
-  height: 65vh;
-  overflow: scroll;
+  margin: 10px;
 }
 
 .about-header {
@@ -260,7 +259,7 @@ breadcrumb {
   width: 33%;
   min-width: 250px;
   padding-right: 10px;
-  padding-bottom: 10px;
+
   float: left;
 }
 
@@ -302,6 +301,7 @@ breadcrumb {
   justify-content: center;
   background-image: url(/assets/images/arjan-stalpers-8-sgismcDAQ-unsplash.jpg);
   padding: 20px;
+  margin: 10px;
 }
 
 .form {
