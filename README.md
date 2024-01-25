@@ -458,6 +458,18 @@ of unclosed tags, reset positioning using relative to body.
 
   [Wade Austin Ellis](https://unsplash.com/photos/woman-hugging-a-dog-FtuJIuBbUhI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
+  [Milli](https://unsplash.com/@marliesestreefland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+  [Taylor Kopel](https://unsplash.com/@taylorkopel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+  [Ralu Gal](https://unsplash.com/@ralu_gal?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+  [Brooke Cagle](https://unsplash.com/@brookecagle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+  [Jamie Street](https://unsplash.com/@jamie452?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+  [Victor Grabarczyk](https://unsplash.com/@victor_vector?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
 - privacy policy text from the
   [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
   website

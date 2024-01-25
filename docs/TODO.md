@@ -2,7 +2,7 @@
 
 ---
 
-## Wireframes
+## ~~Wireframes~~
 
 - ~~Header~~
 - ~~Footer~~
@@ -44,3 +44,8 @@
 - style images of about us
 - 20px padding around main-sections and header?
 - !!! RENAME IMAGES !!! Important - NO CAPS in image names
+
+-media queries:
+
+- remove horizontal divider on index.html
+- resize images on About Us
