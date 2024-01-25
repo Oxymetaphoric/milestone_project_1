@@ -41,9 +41,9 @@
   - ~~About Us~~
   - Upcoming Litters
   - Testimonials
-- style images of about us
+- ~~style images of about us~~
 - 20px padding around main-sections and header?
-- !!! RENAME IMAGES !!! Important - NO CAPS in image names
+- ~~!!! RENAME IMAGES !!! Important - NO CAPS in image names~~
 
 -media queries:
 
