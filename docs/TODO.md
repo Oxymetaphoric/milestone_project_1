@@ -44,6 +44,7 @@
 - ~~style images of about us~~
 - 20px padding around main-sections and header?
 - ~~!!! RENAME IMAGES !!! Important - NO CAPS in image names~~
+- contact us page needs ACTION and METHOD
 
 -media queries:
 
