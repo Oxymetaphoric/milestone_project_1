@@ -265,6 +265,7 @@ breadcrumb {
 .about-dogs-images img {
   max-width: 100%;
   max-height: 350px;
+  margin: 10px;
 }
 
 /* privacy.html */
