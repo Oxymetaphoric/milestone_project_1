@@ -40,11 +40,15 @@
   - ~~Contact Us~~
   - ~~About Us~~
   - ~~Upcoming Litters~~
-  - Testimonials
+  - ~~Testimonials~~
 - ~~style images of about us~~
 - 20px padding around main-sections and header?
+- style Testimonals carousel
+- replace lorum ipsum on about us page
 - ~~!!! RENAME IMAGES !!! Important - NO CAPS in image names~~
 - contact us page needs ACTION and METHOD
+- hook up sitemap link on footer
+- responsiveness on smaller sizes needs improving
 
 -media queries:
 
