@@ -303,7 +303,12 @@ breadcrumb {
 }
 
 .litters-images {
+  width: 100%;
   min-width: 300px;
+}
+
+.puppy-images {
+  max-width: 15%;
 }
 
 /* Privacy Policy */
