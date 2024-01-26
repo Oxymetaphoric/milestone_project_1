@@ -39,7 +39,7 @@
   - ~~privacy policy~~
   - ~~Contact Us~~
   - ~~About Us~~
-  - Upcoming Litters
+  - ~~Upcoming Litters~~
   - Testimonials
 - ~~style images of about us~~
 - 20px padding around main-sections and header?
