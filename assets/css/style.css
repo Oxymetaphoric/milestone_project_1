@@ -311,6 +311,15 @@ breadcrumb {
   max-width: 15%;
 }
 
+/* Testimonials */
+
+.testimonials-main-section {
+  height: fit-content;
+  font-size: 18pt;
+  color: #121213;
+  margin-bottom: 10px;
+}
+
 /* Privacy Policy */
 
 .privacy-main-section {
