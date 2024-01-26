@@ -240,12 +240,13 @@ breadcrumb {
 
 .about-body {
   text-align: left;
+  color: #121213;
 }
 
 .about-box {
   background-color: rgba(245, 245, 245, 0.8);
   max-width: 75%;
-  min-width: 300px;
+  min-width: 350px;
   height: auto;
   padding: 10px;
   margin-bottom: 20px;
