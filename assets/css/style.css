@@ -12,6 +12,9 @@
      Payne's Gray:      #536B79
      Night:             #121213
   */
+
+/* general styling  */
+
 body {
   background-color: #f5f5f5;
   position: relative;
@@ -32,6 +35,14 @@ h2 {
 h3 {
   font-family: "Quicksand", sans-serif;
   font-size: 28pt;
+  font-weight: bolder;
+  text-align: center;
+  color: #735ceb;
+}
+
+h4 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 18pt;
   font-weight: bolder;
   text-align: center;
   color: #735ceb;
@@ -274,7 +285,28 @@ breadcrumb {
   text-align: center;
 }
 
-/* privacy.html */
+/* Upcoming Litters */
+
+.litters-main-section {
+  height: fit-content;
+  font-size: 18pt;
+  color: #121213;
+  margin-bottom: 10px;
+}
+
+.litters-box {
+  height: auto;
+  background-color: rgba(245, 245, 245, 0.8);
+  min-width: 350px;
+  margin-top: 20px;
+  width: 70%;
+}
+
+.litters-images {
+  min-width: 300px;
+}
+
+/* Privacy Policy */
 
 .privacy-main-section {
   height: fit-content;
@@ -310,7 +342,7 @@ breadcrumb {
   text-decoration-color: #9d8df1;
 }
 
-/* contact-us */
+/* Contact Us*/
 
 .contact-main-section {
   height: fit-content;
@@ -339,6 +371,8 @@ breadcrumb {
 .btn-dark {
   border: none;
 }
+
+/* Footer */
 
 /* footer positioning */
 
