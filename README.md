@@ -449,27 +449,76 @@ of unclosed tags, reset positioning using relative to body.
 
 ---
 
-- main page hero image: Photo by
-  [Arjan Stalpers](https://unsplash.com/@arjan_stalpers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-  on
-  [Unsplash](https://unsplash.com/photos/dog-jumping-on-grasses-8-sgismcDAQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+### main page hero image: Photo by
 
-- About Us photos:
+[Arjan Stalpers](https://unsplash.com/@arjan_stalpers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/dog-jumping-on-grasses-8-sgismcDAQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  [Wade Austin Ellis](https://unsplash.com/photos/woman-hugging-a-dog-FtuJIuBbUhI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+### About Us photos
 
-  [Milli](https://unsplash.com/@marliesestreefland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+photo by
+[Wade Austin Ellis](https://unsplash.com/@wadeaustinellis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/woman-hugging-a-dog-FtuJIuBbUhI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  [Taylor Kopel](https://unsplash.com/@taylorkopel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+photo by
+[Milli](https://unsplash.com/@marliesestreefland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/dogs-face-2l0CWTpcChI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  [Ralu Gal](https://unsplash.com/@ralu_gal?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+photo by
+[Taylor Kopel](https://unsplash.com/@taylorkopel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/yellow-labrador-retriever-puppy-with-blue-collar-JNm1dAElVtE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  [Brooke Cagle](https://unsplash.com/@brookecagle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+photo by
+[Ralu Gal](https://unsplash.com/@ralu_gal?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/brown-and-white-long-coated-small-dog-lying-on-green-grass-G8cB8hY3yvU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  [Jamie Street](https://unsplash.com/@jamie452?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+photo by
+[Brooke Cagle](https://unsplash.com/@brookecagle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/long-coated-brown-dog-Ntm4C2lCWxQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  [Victor Grabarczyk](https://unsplash.com/@victor_vector?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+photo by
+[Jamie Street](https://unsplash.com/@jamie452?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/medium-coated-brown-dog-during-daytime-UtrE5DcgEyg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-- privacy policy text from the
-  [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
-  website
+photo by
+[Victor Grabarczyk](https://unsplash.com/@victor_vector?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[unsplash](https://unsplash.com/photos/golden-retriever-x5oPmHmY3kQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+### Upcoming Litters photos
+
+Photo by
+[Elena Mozhvilo](https://unsplash.com/@miracleday?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/black-and-white-short-coated-puppy-UspYqrVBsIo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Photo by
+[Jametlene Reskp](https://unsplash.com/@reskp?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/four-assorted-color-puppies-on-window-VDrErQEF9e4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Photo by
+[Bill Stephan](https://unsplash.com/@billstephan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/golden-retriever-puppy-on-focus-photo-9LkqymZFLrE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Photo by
+[Shayna Douglas](https://unsplash.com/@itsmaemedia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/golden-retriever-puppy-on-snow-covered-ground-during-daytime-lgILhKUELg4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Photo by
+[Nathalie Sphener](https://unsplash.com/@nathalie_spehner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/short-coated-gray-puppies-with-baby-mobile-ME11XuIpUXg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+privacy policy text from the
+[ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
+website
