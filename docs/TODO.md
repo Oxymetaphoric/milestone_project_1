@@ -54,7 +54,7 @@
 - ~~alt text for social links~~
 - ~~replace #735ceb with #5c47d1~~
 
-- responsiveness on smaller sizes needs improving
+- ~~responsiveness on smaller sizes needs improving~~
 - add amiresponsive image to README
 - custom 404 page
 - custom submit succesful page
@@ -63,6 +63,6 @@
 
 - media queries:
 
-- remove horizontal divider on index.html
+- ~~remove horizontal divider on index.html~~
 - ~~resize images on About Us~~
-- load mobile specific images
+- ~~load mobile specific images~~
