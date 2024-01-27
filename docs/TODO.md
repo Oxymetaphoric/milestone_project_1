@@ -43,11 +43,11 @@
   - ~~Upcoming Litters~~
   - ~~Testimonials~~
 - ~~style images of about us~~
-- 20px padding around main-sections and header?
+- ~~20px padding around main-sections and header? NO~~
 - ~~style Testimonals carousel~~
 - ~~replace lorum ipsum on about us page~~
 - ~~!!! RENAME IMAGES !!! Important - NO CAPS in image names~~
-- contact us page needs ACTION and METHOD
+- ~~contact us page needs ACTION and METHOD~~
 - ~~hook up sitemap link on footer~~
 - responsiveness on smaller sizes needs improving
 - ~~split css file and minify to improve performance~~
