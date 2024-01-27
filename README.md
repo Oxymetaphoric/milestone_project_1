@@ -548,7 +548,22 @@ Photo by
 @
 [Unsplash](https://unsplash.com/photos/short-coated-gray-puppies-with-baby-mobile-ME11XuIpUXg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-###Other material
+### Testimonals photos
+
+Photo by
+[Lesli Whitecotton](https://unsplash.com/@lnicolern?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/a-man-is-petting-a-small-white-dog-zjgiXhkB3ug?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+Photo by
+[Tamara Bellis](https://unsplash.com/@tamarabellis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/woman-holding-white-dog-on-seashore-3ovydqWV1uQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+Photo by
+[Rafal Jedrzejek](https://unsplash.com/@snik3rs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+@
+[Unsplash](https://unsplash.com/photos/woman-and-black-french-bulldog-sleeping-on-sofa-UwA6Zo4ciVA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+### Other material
 
 privacy policy text from the
 [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)

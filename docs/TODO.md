@@ -44,13 +44,13 @@
   - ~~Testimonials~~
 - ~~style images of about us~~
 - 20px padding around main-sections and header?
-- style Testimonals carousel
+- ~~style Testimonals carousel~~
 - ~~replace lorum ipsum on about us page~~
 - ~~!!! RENAME IMAGES !!! Important - NO CAPS in image names~~
 - contact us page needs ACTION and METHOD
 - hook up sitemap link on footer
 - responsiveness on smaller sizes needs improving
-- split css file and minify to improve performance
+- ~~split css file and minify to improve performance~~
 - alt text for social links
 - replace #735ceb with #5c47d1
 - add amiresponsive image to README
