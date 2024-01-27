@@ -55,6 +55,7 @@
 - ~~replace #735ceb with #5c47d1~~
 - add amiresponsive image to README
 - custom 404 page
+- custom submit succesful page
 
 - media queries:
 
