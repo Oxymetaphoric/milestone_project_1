@@ -136,10 +136,10 @@ a:hover {
 }
 
 .links a:hover {
-  color: #9d8df1;
+  color: #5c47d1;
   text-decoration: underline;
   text-decoration-thickness: 7px;
-  text-decoration-color: #9d8df1;
+  text-decoration-color: #5c47d1;
 }
 
 .navbar {
@@ -166,8 +166,8 @@ a:hover {
 
 .breadcrumb a {
   background-color: #f5f5f5;
-  color: #5c47d1;
-  font-weight: bold;
+  color: #121213;
+  font-weight: bolder;
   text-decoration: none;
 }
 
@@ -516,7 +516,9 @@ footer {
   color: #121213;
 }
 
-@media (min-width: 990px) {
+/* Media Queries */
+
+@media (min-width: 910px) {
   .menu {
     position: relative;
   }
