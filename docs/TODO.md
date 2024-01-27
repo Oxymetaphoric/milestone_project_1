@@ -52,8 +52,9 @@
 - responsiveness on smaller sizes needs improving
 - ~~split css file and minify to improve performance~~
 - alt text for social links
-- replace #735ceb with #5c47d1
+- ~~replace #735ceb with #5c47d1~~
 - add amiresponsive image to README
+- custom 404 page
 
 - media queries:
 
