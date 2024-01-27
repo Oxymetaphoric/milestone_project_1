@@ -394,6 +394,13 @@ footer {
   font-weight: bold;
   color: #f5f5f5;
 }
+.essential-info h4 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 18pt;
+  font-weight: bold;
+  color: #f5f5f5;
+}
+
 /* footer lower */
 .footer-lower {
   padding-top: 10px;
