@@ -443,3 +443,18 @@ footer {
     min-width: 695px;
   }
 }
+@media screen and (max-width: 600px) {
+  .hero-image {
+    background: url(/assets/images/hero-image-mobile.webp) no-repeat center
+      center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+}
