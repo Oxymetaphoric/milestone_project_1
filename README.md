@@ -429,6 +429,8 @@ jan 22nd: ~~closing the section tag in the main body of any page breaks the
 positioning of the footer, unsure how to fix currently.~~ fixed: fixed a bunch
 of unclosed tags, reset positioning using relative to body.
 
+jan 27th: using rel=preload caused errors that using prefetch instead fixed
+
 ### HTML/CSS Validators
 
 ### WAVE

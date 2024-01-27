@@ -22,6 +22,7 @@
 - Testing
 - Deployment
 - Credits/acknowledgements
+- spell check everything
 
 ## Coding
 
