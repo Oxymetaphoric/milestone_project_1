@@ -435,6 +435,24 @@ of unclosed tags, reset positioning using relative to body.
 
 ### Lighthouse
 
+Initial testing with lighthouse on a locallly hosted copy of the site indicated
+several major areas of concern and some minor fixes required:
+
+- hero image too big and needed preloading
+- scripts were slowing loading of the site
+- website was not well optimised for mobile
+- the main colour did not have sufficient contrast against white text
+
+#### intial mobile testing
+
+performance was rated as 86% Accessibility was rated as 78% Best practices was
+rated as 95% SEO was rated 85%
+
+#### intial desktop testing
+
+performance was rated as 97% Accessibility was rated as 77% Best practices was
+rated as 95% SEO was rated 82%
+
 ### Devices
 
 ---

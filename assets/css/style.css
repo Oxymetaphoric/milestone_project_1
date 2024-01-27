@@ -2,9 +2,7 @@
     use: font-family: 'Assistant', sans-serif; for body text
     use: font-family: 'Quicksand', sans-serif;
      */
-
 @import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400&family=Quicksand:wght@300;400;500;600;700&display=swap");
-
 /* colour palettes
      White Smoke:       #F5F5F5
      Medium Slate Blue  #735CEB
@@ -12,18 +10,14 @@
      Payne's Gray:      #536B79
      Night:             #121213
   */
-
 /* general styling  */
-
 body {
   background-color: #f5f5f5;
   position: relative;
 }
-
 p {
   font-family: "Assistant", sans-serif;
 }
-
 h2 {
   font-family: "Quicksand", sans-serif;
   font-size: 42pt;
@@ -31,7 +25,6 @@ h2 {
   text-align: center;
   color: #735ceb;
 }
-
 h3 {
   font-family: "Quicksand", sans-serif;
   font-size: 28pt;
@@ -65,7 +58,7 @@ a:hover {
   color: #f5f5f5;
   font-family: "Assistant", sans-serif;
   padding-top: 10px;
-  background-color: #735ceb;
+  background-color: #5c47d1;
 }
 
 .contact-header p {

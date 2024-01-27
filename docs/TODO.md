@@ -49,8 +49,13 @@
 - contact us page needs ACTION and METHOD
 - hook up sitemap link on footer
 - responsiveness on smaller sizes needs improving
+- split css file and minify to improve performance
+- alt text for social links
+- replace #735ceb with #5c47d1
+- add amiresponsive image to README
 
--media queries:
+- media queries:
 
 - remove horizontal divider on index.html
 - resize images on About Us
+- load mobile specific images
