@@ -430,14 +430,16 @@ footer {
   color: #121213;
 }
 /* Media Queries */
-@media (min-width: 910px) {
+@media (min-width: 999px) {
   .menu {
     position: relative;
   }
   .links {
     position: absolute;
     padding-right: 10px;
+    padding-left: 10px;
     right: 0;
     bottom: 0;
+    min-width: 695px;
   }
 }

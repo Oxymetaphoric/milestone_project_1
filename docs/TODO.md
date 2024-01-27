@@ -49,10 +49,12 @@
 - ~~!!! RENAME IMAGES !!! Important - NO CAPS in image names~~
 - ~~contact us page needs ACTION and METHOD~~
 - ~~hook up sitemap link on footer~~
-- responsiveness on smaller sizes needs improving
-- ~~split css file and minify to improve performance~~
+
+- ~~split css file and minify to improve performance~~ NO
 - ~~alt text for social links~~
 - ~~replace #735ceb with #5c47d1~~
+
+- responsiveness on smaller sizes needs improving
 - add amiresponsive image to README
 - custom 404 page
 - custom submit succesful page
@@ -62,5 +64,5 @@
 - media queries:
 
 - remove horizontal divider on index.html
-- resize images on About Us
+- ~~resize images on About Us~~
 - load mobile specific images

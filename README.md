@@ -453,19 +453,41 @@ issues were:
 - website was not well optimised for mobile
 - the main colour did not have sufficient contrast against white text
 
-#### intial mobile testing
+#### mobile testing
 
-- performance was rated as 86%
-- Accessibility was rated as 78%
-- Best practices was rated as 95%
-- SEO was rated 85%
+Initial testing of index.html with Google Lighthouse yielded the following
+results:
 
-#### intial desktop testing
+| Mobile          | %   |
+| --------------- | --- |
+| Performance:    | 86% |
+| Accessibility:  | 78% |
+| Best Practices: | 95% |
+| SEO:            | 85% |
 
-- performance was rated as 97%
-- Accessibility was rated as 77%
-- Best practices was rated as 95%
-- SEO was rated 82%
+#### desktop testing
+
+Initial local testing of index.html with Google Lighthouse yielded the following
+results:
+
+| Desktop         | %   |
+| --------------- | --- |
+| Performance:    | 97% |
+| Accessibility:  | 77% |
+| Best Practices: | 95% |
+| SEO:            | 82% |
+
+After intial round of fixes, all six pages report:
+
+| Desktop         | %    |
+| --------------- | ---- |
+| Performance:    | 99%  |
+| Accessibility:  | 100% |
+| Best Practices: | 100% |
+| SEO:            | 90%  |
+
+The remaining percentage of performance appears to be related to be Bootstrap
+framework used and is out of scope to address.
 
 ### Devices
 
