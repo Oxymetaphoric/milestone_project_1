@@ -448,18 +448,21 @@ footer {
     font-size: 28pt;
   }
   p {
-    color: #121213;
     font-size: 14pt;
   }
   li {
     font-size: 14pt;
   }
+  #header p {
+    font-size: 8pt;
+  }
   .container {
     --bs-gutter-x: 1rem;
+    position: absolute;
   }
   .hero-image {
-    background: url(/assets/images/hero-image-mobile.webp) no-repeat center
-      center fixed;
+    background: url(/assets/images/hero-image-mobile.webp) no-repeat top center
+      fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -474,7 +477,7 @@ footer {
     display: none;
   }
   .reasons p {
-    min-width: 300px;
+    min-width: 200px;
     padding: 10px;
   }
   .carousel-item p {

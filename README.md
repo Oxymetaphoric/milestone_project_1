@@ -8,6 +8,8 @@
 
 ### Project Goals
 
+![amiresponsive screenshot](/docs/images/amiresponsive.png)
+
 This is my milestone one project for the
 [Code Institute's](http://www.codeinstitute.net) _'Level 5 Diploma in Web
 Application Development'_. The goal is to demonstrate my ability to utilise HTML

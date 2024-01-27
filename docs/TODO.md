@@ -55,7 +55,7 @@
 - ~~replace #735ceb with #5c47d1~~
 
 - ~~responsiveness on smaller sizes needs improving~~
-- add amiresponsive image to README
+- ~~add amiresponsive image to README~~
 - custom 404 page
 - custom submit succesful page
 
