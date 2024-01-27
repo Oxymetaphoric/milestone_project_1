@@ -431,6 +431,10 @@ of unclosed tags, reset positioning using relative to body.
 
 jan 27th: using rel=preload caused errors that using prefetch instead fixed
 
+jan 27th: bootstrap text-centre overwriting styling on meet the dogs section of
+About Us, fixed by wrapping images in div and moving the text-center class down
+a level
+
 ### HTML/CSS Validators
 
 ### WAVE

@@ -156,7 +156,7 @@ a:hover {
   line-height: 10pt;
 }
 
-breadcrumb {
+.breadcrumb {
   margin-bottom: 10px;
 }
 
@@ -242,7 +242,7 @@ breadcrumb {
   padding: 10px;
 }
 
-.about-body {
+#about-body p {
   text-align: left;
   color: #121213;
 }
@@ -254,6 +254,7 @@ breadcrumb {
   height: auto;
   padding: 10px;
   margin-bottom: 20px;
+  text-align: leftz;
 }
 
 .about-box p {
@@ -272,10 +273,6 @@ breadcrumb {
   max-width: 30%;
   min-width: 300px;
   overflow: hidden;
-}
-
-#about-dogs {
-  text-align: center;
 }
 
 /* Upcoming Litters */
@@ -311,6 +308,16 @@ breadcrumb {
   font-size: 18pt;
   color: #121213;
   margin-bottom: 10px;
+}
+
+.carousel {
+  width: 500px;
+  height: 500px;
+}
+
+.carousel-inner {
+  background-color: #f5f5f5;
+  color: #121213;
 }
 
 /* Privacy Policy */
