@@ -327,10 +327,14 @@ a:hover {
 .carousel-inner {
   background-color: #f5f5f5;
   color: #121213;
-
+  padding: 10px;
   height: 100%;
-  min-height: 500px;
+  max-height: 500px;
   overflow: scroll;
+}
+
+.slide {
+  height: fit-content;
 }
 
 .carousel-inner p {
