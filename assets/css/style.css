@@ -3,14 +3,6 @@
     use: font-family: 'Quicksand', sans-serif;
      */
 @import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400&family=Quicksand:wght@300;400;500;600;700&display=swap");
-/* colour palettes
-     White Smoke:       #F5F5F5
-     Medium Slate Blue  #5c47d1
-     Tropical Indigo:   #9D8DF1
-     Payne's Gray:      #536B79
-     Night:             #121213
-  */
-/* general styling  */
 body {
   background-color: #f5f5f5;
   position: relative;
@@ -32,7 +24,6 @@ h3 {
   text-align: center;
   color: #5c47d1;
 }
-
 h4 {
   font-family: "Quicksand", sans-serif;
   font-size: 18pt;
@@ -40,54 +31,43 @@ h4 {
   text-align: center;
   color: #5c47d1;
 }
-
 a {
   font-family: "Quicksand", sans-serif;
   font-weight: bold;
   text-decoration: none;
 }
-
 a:hover {
   text-decoration: underline;
   text-decoration-thickness: 5px;
 }
-
 /* header contact details  */
-
 #contact-header {
   color: #f5f5f5;
   font-family: "Assistant", sans-serif;
   padding-top: 10px;
   background-color: #5c47d1;
 }
-
 .contact-header p {
   font-size: 12pt;
   color: #f5f5f5;
 }
-
 #contact-header b {
   font-family: "Quicksand", sans-serif;
   color: #f5f5f5;
 }
-
 /* header logo */
-
 #header {
   background-color: #f5f5f5;
 }
-
 .header-bottom {
   background-color: #f5f5f5;
 }
-
 .jenamin {
   font-family: "Quicksand", sans-serif;
   font-weight: bolder;
   font-size: 42pt;
   color: #5c47d1;
 }
-
 .tagline {
   font-family: "Quicksand", sans-serif;
   font-size: 18pt;
@@ -95,7 +75,6 @@ a:hover {
   color: #121213;
   padding: 0;
 }
-
 .logo {
   min-width: fit-content;
   max-width: fit-content;
@@ -103,22 +82,17 @@ a:hover {
   margin-bottom: 0;
   text-decoration: none;
 }
-
 .navbar-brand:hover {
   text-decoration: none;
 }
-
 /* header links menu */
-
 .nav {
   background-color: #f5f5f5;
 }
-
 .menu {
   background-color: #f5f5f5;
   position: relative;
 }
-
 .links {
   text-decoration: none;
   text-align: center;
@@ -126,63 +100,50 @@ a:hover {
   font-weight: bold;
   line-height: 0;
 }
-
 .links li {
   padding: 0px 15px 0px 15px;
 }
-
 .links a {
   color: #5c47d1;
 }
-
 .links a:hover {
   color: #5c47d1;
   text-decoration: underline;
   text-decoration-thickness: 7px;
   text-decoration-color: #5c47d1;
 }
-
 .navbar {
   background-color: #f5f5f5;
   padding-bottom: 0;
   margin-bottom: 8px;
 }
-
 .nav-item .active:hover {
   text-decoration: none;
 }
-
 .collapsed-menu {
   line-height: 10pt;
 }
-
 .breadcrumb {
   margin-bottom: 10px;
 }
-
 .breadcrumbs {
   background-color: #f5f5f5;
 }
-
 .breadcrumb a {
   background-color: #f5f5f5;
   color: #121213;
   font-weight: bolder;
   text-decoration: none;
 }
-
 .breadcrumb a:hover {
   text-decoration: underline;
 }
-
 /* index.html  */
-
 .main-section {
   color: #121213;
   position: absolute;
   background-color: #f5f5f5;
 }
-
 .hero-image {
   height: 65vh;
   background-color: #f5f5f5;
@@ -198,7 +159,6 @@ a:hover {
   justify-content: center;
   position: relative;
 }
-
 .reasons-container {
   padding-bottom: 20px;
   padding-top: 20px;
@@ -206,7 +166,6 @@ a:hover {
   padding-right: 50px;
   font-size: 16pt;
 }
-
 .divider-purple {
   align-self: center;
   max-width: 5px;
@@ -215,7 +174,6 @@ a:hover {
   padding: 0px;
   margin: 20px;
 }
-
 .horizontal-divider {
   min-height: 5px;
   max-height: 5px;
@@ -223,30 +181,24 @@ a:hover {
   background-color: #5c47d1;
   margin-bottom: 20px;
 }
-
 /* About Us */
-
 .about-main-section {
   height: fit-content;
   font-size: 18pt;
   padding: 20px;
   margin: 10px;
 }
-
 .about-header {
   color: #5c47d1;
 }
-
 .about-main-section h3 {
   color: #5c47d1;
   padding: 10px;
 }
-
 #about-body p {
   text-align: left;
   color: #121213;
 }
-
 .about-box {
   background-color: rgba(245, 245, 245, 0.8);
   max-width: 75%;
@@ -256,34 +208,28 @@ a:hover {
   margin-bottom: 20px;
   text-align: leftz;
 }
-
 .about-box p {
   padding-bottom: 10px;
   margin: 10px;
 }
-
 #about-people img {
   width: 33%;
   min-width: 250px;
   float: left;
 }
-
 .about-image {
   margin: 10px;
   max-width: 30%;
   min-width: 300px;
   overflow: hidden;
 }
-
 /* Upcoming Litters */
-
 .litters-main-section {
   height: fit-content;
   font-size: 18pt;
   color: #121213;
   margin-bottom: 10px;
 }
-
 .litters-box {
   height: auto;
   background-color: rgba(245, 245, 245, 0.8);
@@ -291,40 +237,32 @@ a:hover {
   margin-top: 20px;
   width: 70%;
 }
-
 .litters-images {
   width: 100%;
   min-width: 300px;
 }
-
 .puppy-images {
   max-width: 15%;
 }
-
 /* Testimonials */
-
 .testimonials-main-section {
   color: #121213;
   height: auto;
 }
-
 .testimonials-hero {
   height: 100%;
   padding-top: 10px;
   padding-bottom: 10px;
   margin-bottom: 10px;
 }
-
 .carousel {
   width: 500px;
   min-height: 500px;
   height: 100%;
 }
-
 .carousel h4 {
   padding: 10px;
 }
-
 .carousel-inner {
   background-color: #f5f5f5;
   color: #121213;
@@ -332,29 +270,24 @@ a:hover {
   height: 100%;
   max-height: 500px;
 }
-
 .slide {
   height: fit-content;
 }
-
 .carousel-inner p {
   font-family: "Assistant", sans-serif;
   font-size: larger;
   padding: 20px;
   color: #121213;
 }
-
 .carousel-item {
   width: 100%;
   min-height: 500px;
 }
-
 .carousel-control-next,
 .carousel-control-prev {
   max-height: 500px;
 }
 /* Privacy Policy */
-
 .privacy-main-section {
   height: fit-content;
   background-size: cover;
@@ -365,7 +298,6 @@ a:hover {
   padding: 20px;
   margin: 10px;
 }
-
 .privacy-policy {
   max-width: 75%;
   min-width: 300px;
@@ -375,22 +307,17 @@ a:hover {
   background-color: rgba(245, 245, 245, 0.8);
   padding: 30px;
 }
-
 .privacy-policy h3 {
   padding-top: 20pt;
 }
-
 #ico {
   color: #5c47d1;
 }
-
 #ico:hover {
   color: #9d8df1;
   text-decoration-color: #9d8df1;
 }
-
 /* Contact Us*/
-
 .contact-main-section {
   height: fit-content;
   background-size: cover;
@@ -401,7 +328,6 @@ a:hover {
   padding: 20px;
   margin: 10px;
 }
-
 .form {
   max-width: 500px;
   background-color: rgba(157, 141, 241, 0.8);
@@ -410,51 +336,39 @@ a:hover {
   border: none;
   font-family: "Quicksand", sans-serif;
 }
-
 .form-control {
   outline-color: #f5f5f5;
 }
-
 .btn-dark {
   border: none;
 }
-
 /* Footer */
-
 /* footer positioning */
-
 footer {
   width: 100%;
   position: relative;
   bottom: 0;
   left: 0;
 }
-
 .footer-container {
   color: #f5f5f5;
   background-color: #5c47d1;
 }
-
 .socials i {
   font-size: larger;
   color: #f5f5f5;
 }
-
 .socials li {
   list-style: none;
 }
-
 /* footer styling  */
-
 .footer-upper {
   color: #f5f5f5;
   text-align: center;
 }
-
 .map {
   padding: 10px 10px 10px 10px;
 }
-
 .footer-divider {
   align-self: center;
   max-width: 5px;
@@ -463,7 +377,6 @@ footer {
   padding: 0;
   margin: 0;
 }
-
 .essential-info {
   padding-top: 10px;
   align-self: center;
@@ -472,18 +385,14 @@ footer {
   margin-right: 0;
   font-family: "Assistant", sans-serif;
 }
-
 .essential-info i {
   color: #f5f5f5;
 }
-
 .essential-info h4 {
   font-family: "Quicksand", sans-serif;
   font-weight: bold;
 }
-
 /* footer lower */
-
 .footer-lower {
   padding-top: 10px;
   text-align: center;
@@ -491,38 +400,31 @@ footer {
   background-color: #536b79;
   height: fit-content;
 }
-
 .copyright {
   font-family: "Quicksand", sans-serif;
   text-align: center;
 }
-
 .footer-lower a {
   font-family: "Quicksand", sans-serif;
   font-weight: bold;
   text-decoration: none;
   color: #f5f5f5;
 }
-
 .footer-lower a:hover {
   font-weight: bolder;
   color: #121213;
   text-decoration: underline;
   text-decoration-thickness: 5px;
 }
-
 .footer-lower i:hover {
   font-weight: bolder;
   color: #121213;
 }
-
 /* Media Queries */
-
 @media (min-width: 910px) {
   .menu {
     position: relative;
   }
-
   .links {
     position: absolute;
     padding-right: 10px;
