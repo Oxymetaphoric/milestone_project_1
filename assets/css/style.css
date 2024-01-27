@@ -304,30 +304,27 @@ a:hover {
 /* Testimonials */
 
 .testimonials-main-section {
-  height: fit-content;
-  font-size: 18pt;
   color: #121213;
   margin-bottom: 10px;
-  overflow: scroll;
 }
 
 .carousel {
   width: 500px;
   height: 500px;
-  max-width: 100%;
-  max-height: 100%;
   padding: 10px;
 }
 
 .carousel-inner {
   background-color: #f5f5f5;
   color: #121213;
-  max-height: 100%;
-  overflow: auto;
+  height: 100%;
 }
 
 .carousel-inner p {
+  font-family: "Assistant", sans-serif;
+  font-size: large;
   padding: 20px;
+  color: #121213;
 }
 
 .carousel-control-next {
