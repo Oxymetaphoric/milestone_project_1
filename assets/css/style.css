@@ -457,4 +457,7 @@ footer {
     justify-content: center;
     position: relative;
   }
+  .footer-divider {
+    display: none;
+  }
 }
