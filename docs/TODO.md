@@ -48,7 +48,7 @@
 - ~~replace lorum ipsum on about us page~~
 - ~~!!! RENAME IMAGES !!! Important - NO CAPS in image names~~
 - contact us page needs ACTION and METHOD
-- hook up sitemap link on footer
+- ~~hook up sitemap link on footer~~
 - responsiveness on smaller sizes needs improving
 - ~~split css file and minify to improve performance~~
 - alt text for social links
