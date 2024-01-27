@@ -314,6 +314,10 @@ a:hover {
   padding: 10px;
 }
 
+.carousel h4 {
+  padding: 10px;
+}
+
 .carousel-inner {
   background-color: #f5f5f5;
   color: #121213;
@@ -322,9 +326,13 @@ a:hover {
 
 .carousel-inner p {
   font-family: "Assistant", sans-serif;
-  font-size: large;
+  font-size: larger;
   padding: 20px;
   color: #121213;
+}
+
+.carousel-item {
+  width: 100%;
 }
 
 .carousel-control-next {
