@@ -436,7 +436,8 @@ of unclosed tags, reset positioning using relative to body.
 ### Lighthouse
 
 Initial testing with lighthouse on a locallly hosted copy of the site indicated
-several major areas of concern and some minor fixes required:
+several major areas of concern with some minor fixes also required. The biggest
+issues were:
 
 - hero image too big and needed preloading
 - scripts were slowing loading of the site
@@ -445,13 +446,17 @@ several major areas of concern and some minor fixes required:
 
 #### intial mobile testing
 
-performance was rated as 86% Accessibility was rated as 78% Best practices was
-rated as 95% SEO was rated 85%
+- performance was rated as 86%
+- Accessibility was rated as 78%
+- Best practices was rated as 95%
+- SEO was rated 85%
 
 #### intial desktop testing
 
-performance was rated as 97% Accessibility was rated as 77% Best practices was
-rated as 95% SEO was rated 82%
+- performance was rated as 97%
+- Accessibility was rated as 77%
+- Best practices was rated as 95%
+- SEO was rated 82%
 
 ### Devices
 
@@ -467,7 +472,7 @@ rated as 95% SEO was rated 82%
 
 ---
 
-### main page hero image: Photo by
+### main hero image
 
 [Arjan Stalpers](https://unsplash.com/@arjan_stalpers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 @
@@ -536,6 +541,8 @@ Photo by
 [Nathalie Sphener](https://unsplash.com/@nathalie_spehner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 @
 [Unsplash](https://unsplash.com/photos/short-coated-gray-puppies-with-baby-mobile-ME11XuIpUXg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+###Other material
 
 privacy policy text from the
 [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
