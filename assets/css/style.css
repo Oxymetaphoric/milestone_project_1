@@ -388,9 +388,11 @@ footer {
 .essential-info i {
   color: #f5f5f5;
 }
-.essential-info h4 {
+.essential-info h3 {
   font-family: "Quicksand", sans-serif;
+  font-size: 18pt;
   font-weight: bold;
+  color: #f5f5f5;
 }
 /* footer lower */
 .footer-lower {
