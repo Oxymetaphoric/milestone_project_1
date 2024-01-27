@@ -312,6 +312,7 @@ a:hover {
   height: 100%;
   padding-top: 10px;
   padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .carousel {
@@ -350,7 +351,7 @@ a:hover {
 
 .carousel-control-next,
 .carousel-control-prev {
-  height: 100%;
+  width: ;
   max-height: 500px;
 }
 /* Privacy Policy */
