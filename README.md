@@ -450,7 +450,7 @@ elected not to remove them. Other than this, no errors were discovered.
 ### WAVE
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
-raised.
+raised. These issues were predominantly me havving misused semantic elements.
 
 ### Lighthouse
 
@@ -613,3 +613,6 @@ Photo by
 privacy policy text from the
 [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
 website
+
+body text for Testimonials and ABout Us pages taken from current
+[Jenamin site](https://www.jenamindogbreeder.co.uk/) with permission
