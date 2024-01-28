@@ -475,7 +475,7 @@ typo that I fixed.
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
 raised. These issues were predominantly me having misused or disordered semantic
-elements. All pages scored 0 errors and 0 contrast errors.
+elements. All pages currently score 0 errors and 0 contrast errors.
 
 ### Lighthouse
 
@@ -541,6 +541,13 @@ emulation tools. No major issues detected.
 ## :loudspeaker: Deployment
 
 ---
+
+The page will be deployed using gitHub pages. Deployment is relatively
+straight-forward as a static site. Clone the repo using the terminal command:
+
+> git clone https://github.com/Oxymetaphoric/milestone_project_1
+
+then, copy the cloned folder to your html servers root directory.
 
 ---
 
