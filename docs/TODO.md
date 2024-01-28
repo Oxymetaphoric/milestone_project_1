@@ -19,10 +19,10 @@
 - ~~Wireframes~~
 - ~~Design~~
 - ~~Accessibility~~
-- Testing
-- Deployment
+- ~~Testing~~
 - ~~Credits/acknowledgements~~
 - spell check everything
+- Deployment
 
 ## Coding
 
@@ -57,7 +57,7 @@
 - ~~responsiveness on smaller sizes needs improving~~
 - ~~add amiresponsive image to README~~
 - ~~custom 404 page~~
-- ~~custom submit succesful page~~
+- ~~custom submit successful page~~
 
 - ~~Testimonials: Heading elements are not in a sequentially-descending order~~
 

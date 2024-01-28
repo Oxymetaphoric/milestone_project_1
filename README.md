@@ -42,12 +42,12 @@ breeding business, 'Jenamins'.
   Institute
 - Develop a site that satisfies the Goals of the Users and Operator as
   determined by the User Stories and Goals
-- Use plain HTML, CSS and frameworks such as Bootstap to create a technically
-  interesting and aestetically appealing site
+- Use plain HTML, CSS and frameworks such as Bootstrap to create a technically
+  interesting and aesthetically appealing site
 - Use frameworks where necessary so as to not reinvent the wheel
 - Create a responsive website that looks appealing on a variety of screensizes
   and devices
-- Build a performant and efficient site, benchmarked used tools such as
+- Build a performant and efficient site, benchmarked using tools such as
   lighthouse, that is viewable on all modern browsers and devices
 
 ---
@@ -69,11 +69,11 @@ breeding business, 'Jenamins'.
 
 - Easy navigation, plenty of breadcrumbs, back-to-the-top links/widgets and
   other quality of life features
-- Accessible for colourblind, visually impared, and other users with
+- Accessible for colourblind, visually impaired, and other users with
   accessibility needs
 - All functionality presented works as expected and as intended
 - Quick and easy access to contact details and location
-- Plenty of images and a friendly aethetic presentation -Simple to use with
+- Plenty of images and a friendly aesthetic presentation -Simple to use with
   logical flow and clear and straightforward navigation
 
 #### User Stories
@@ -114,7 +114,7 @@ breeding business, 'Jenamins'.
    easily
 5. As the site owner I want to make sure customers are never lost on my website
 
-#### Identified tasks/needs the website should fulfil
+#### Identified tasks/needs the website should fulfill
 
 | Task/Need                               | Importance: \*/5 |
 | --------------------------------------- | ---------------- |
@@ -135,13 +135,12 @@ Accessibility needs should be considered and aria tags, semantic HTML tags, and
 alt tags for images should all be clear descriptive and follow the w3
 conventions.
 
-Color palletes will be assessed for color-blind friendliness, and adjusted if
-neccessary.
+Colour palletes will be assessed for color-blind friendliness, and adjusted if
+necessary. Colour palettes did indeed need to be changed, see
+[Colour Palettes](#colour-palettes)
 
 The structure of each page should be logical and allow keyboard navigation and
 be screen-reader friendly
-
-Site should contain a sitemap to aid with accessibility
 
 ---
 
@@ -158,7 +157,7 @@ and/or the footer as well as a sitemap and breadcrumb trail indicating the users
 current position on the site.
 
 Links and navigation should be clear and unambiguous, interactive to highlight
-them visually, and well-labelled to help with accessibility.
+them visually, and well-labeled to help with accessibility.
 
 The website should consist of the following pages:
 
@@ -171,14 +170,14 @@ The website should consist of the following pages:
   pertinent information.
 
 - **Upcoming Litters** - A page to announce the latest news and for returning
-  vistors to get updates.
+  visitors to get updates.
 
 - **Testimonials** - A page for customer testimonials, of which there are many,
   so smart presentation will be important. Combine this with the previously
   mooted gallery page.
 
 - **Contact Us** - A page dedicated to contact and location information
-  including a map and containg a styled webform to contact the business.
+  including a map and containing a styled webform to contact the business.
 
 - **404 Page not found** - for mistypes/broken links
 
@@ -375,7 +374,7 @@ lilac/purple. I explored a number of palettes centered around this colour:
 - **Colour Palette 1** ![dark palette 1](/docs/images/colour_palettes/dark.png)
 - **Colour Palette 2** ![dark palette 2](/docs/images/colour_palettes/dark2.png)
 
-I decided on a final pallete of:
+I decided on a final palette of:
 
      White Smoke:       #F5F5F5
      Periwinkle:        #C9C2F3
@@ -610,7 +609,7 @@ elements. All pages currently score 0 errors and 0 contrast errors.
 
 ### Lighthouse
 
-Initial testing with lighthouse on a locallly hosted copy of the site indicated
+Initial testing with lighthouse on a locally hosted copy of the site indicated
 several major areas of concern with some minor fixes also required. The biggest
 issues were:
 
@@ -666,13 +665,13 @@ framework used and is out of scope to address.
 
 ### Devices
 
-The site weas tested on all devices available through Firefox and Chrome
+The site was tested on all devices available through Firefox and Chrome
 emulation tools. No major issues detected.
 
 ### Bug fixes
 
-~~jan 20th: margin in one of the divs in the footer was unintentially causing a
-small amount of horizontal scrolling to be possible.~~ Found the culprit using
+~~jan 20th: margin in one of the divs in the footer was unintentionally causing
+a small amount of horizontal scrolling to be possible.~~ Found the culprit using
 Firefox's Dev tools to identify the element at fault
 
 ~~jan 21st: setting global h property interacted badly with my logo layout due
@@ -688,7 +687,7 @@ of unclosed tags, reset positioning using relative to body.
 
 ~~jan 27th: using rel=preload caused errors that using prefetch instead~~ fixed
 
-~~jan 27th: bootstrap text-centre overwriting styling on meet the dogs section
+~~jan 27th: bootstrap text-center overwriting styling on meet the dogs section
 of About Us~~ fixed by wrapping images in div and moving the text-center class
 down a level
 
@@ -708,7 +707,7 @@ then, copy the cloned folder to your html server's root directory.
 
 ---
 
-## :heart: Credits and Acknowlegements
+## :heart: Credits and Acknowledgments
 
 ---
 
