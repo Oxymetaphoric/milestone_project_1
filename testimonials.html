@@ -4,10 +4,23 @@
     <meta charset="utf-8" />
     <title>Jenamin - Licensed Dog Breeder | About Us</title>
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.svg" />
-    <link rel="preload" fetchpriority="high" as="image" href="/assets/images/hero-image.webp" type="image/webp">
-    <link id =mobile rel="preload" fetchpriority="high" as="image" href="/assets/images/hero-image-mobile.webp" type="image/webp">
+    <link
+      rel="preload"
+      fetchpriority="high"
+      as="image"
+      href="/assets/images/hero-image.webp"
+      type="image/webp" />
+    <link
+      id="mobile"
+      rel="preload"
+      fetchpriority="high"
+      as="image"
+      href="/assets/images/hero-image-mobile.webp"
+      type="image/webp" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <meta name="description" content="about us page - learn about who we are and meet the dogs" />
+    <meta
+      name="description"
+      content="about us page - learn about who we are and meet the dogs" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- importing Bootstrap css framework and fontAwesome icons -->
@@ -16,7 +29,7 @@
       rel="stylesheet"
       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous" />
-  
+
     <!-- my stylesheet -->
     <link rel="stylesheet prefetch" href="assets/css/style.css" />
   </head>
@@ -24,14 +37,15 @@
   <body>
     <!-- the following section is the contact header -->
     <header id="header">
-
-      <div class="container-fluid text-center " id="contact-header">
+      <div class="container-fluid text-center" id="contact-header">
         <div class="row">
           <div class="col">
             <span
               ><i class="fa-solid fa-house"></i>
-              <p><b>Address:</b><br />
-              27 Somewhere Road, City, County, XX1 1XX</p>
+              <p>
+                <b>Address:</b><br />
+                27 Somewhere Road, City, County, XX1 1XX
+              </p>
             </span>
           </div>
           <div class="col">
@@ -44,25 +58,30 @@
             <p><b>Opening Hours:</b><br />9am - 5pm Mon- Fri</p>
           </div>
         </div>
-       </div>
+      </div>
 
-       <!-- the following section is the bottom layer of the header -->
-
+      <!-- the following section is the bottom layer of the header -->
 
       <nav class="navbar navbar-expand-lg bg-body-tertiary header-bottom">
-        <div class="container-fluid menu">    
-
+        <div class="container-fluid menu">
           <!-- this section is the logo -->
-            <a class="navbar-brand" href="index.html">
-              <div class="logo" id="logo">
-                <h1 class="jenamin">Jenamin</h1>
-                <h2 class="tagline">Registered Dog Breeder</h2>
-              </div>
-            </a>
-        
+          <a class="navbar-brand" href="index.html">
+            <div class="logo" id="logo">
+              <h1 class="jenamin">Jenamin</h1>
+              <h2 class="tagline">Registered Dog Breeder</h2>
+            </div>
+          </a>
+
           <!-- menubar toggle code from bootstrap docs -->
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"  aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
           </button>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
@@ -79,73 +98,116 @@
               </div>
 
               <div class="nav-item collapsed-menu">
-                <a class="nav-link active" aria-current="page" href="testimonials.html">Testimonials</a>
+                <a
+                  class="nav-link active"
+                  aria-current="page"
+                  href="testimonials.html"
+                  >Testimonials</a
+                >
               </div>
 
               <div class="nav-item collapsed-menu">
                 <a class="nav-link" href="contact-us.html">Contact Us</a>
-              </div>      
+              </div>
             </div>
+          </div>
         </div>
       </nav>
 
-           <!-- navigation breadcrumbs  -->
-            <nav class="container-fluid">
-                <div class="breadcrumbs">
-                  <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
-                    <li class="breadcrumb-item active"><a href="#">Testimonials</a></li>
-                  </ol> 
-                </div>
-            </nav>  
+      <!-- navigation breadcrumbs  -->
+      <nav class="container-fluid">
+        <div class="breadcrumbs">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+            <li class="breadcrumb-item active"><a href="#">Testimonials</a></li>
+          </ol>
+        </div>
+      </nav>
     </header>
     <h2>Testimonials</h2>
     <!-- main section of the page -->
     <section class="container-fluid testimonials-main-section">
-      
       <!-- carousel code from Bootstrap documentation -->
       <div class="container-fluid hero-image rounded testimonials-hero">
         <div id="carouselExample" class="carousel slide">
           <div class="carousel-inner rounded">
             <div class="carousel-item active">
-              <img src="/assets/images/testimonial1.webp" class="d-block w-100" alt="owner with dog">
+              <img
+                src="/assets/images/testimonial1.webp"
+                class="d-block w-100"
+                alt="owner with dog" />
             </div>
             <div class="carousel-item">
-              <h4>Lauren P  </h4>
+              <h4>Lauren P</h4>
               <div class="horizontal-divider rounded container-fluid"></div>
-              <p>We bought a red fox Labrador off Jenny and couldn't be happier. Wow, the socialisation these puppies must get must be huge as I've never had an easier puppy. It's clear when meeting Jenny that the owner of her puppies is far more important than the money as she spent huge amounts of time getting to know us and making sure the puppy was also happy with us. I have now recommended Jenny to both my sons as I wouldn't buy a puppy from anybody else.
+              <p>
+                We bought a red fox Labrador off Jenny and couldn't be happier.
+                Wow, the socialisation these puppies must get must be huge as
+                I've never had an easier puppy. It's clear when meeting Jenny
+                that the owner of her puppies is far more important than the
+                money as she spent huge amounts of time getting to know us and
+                making sure the puppy was also happy with us. I have now
+                recommended Jenny to both my sons as I wouldn't buy a puppy from
+                anybody else.
               </p>
             </div>
             <div class="carousel-item">
-              <img src="/assets/images/testimonial2.webp" class="d-block w-100" alt="owner with dog">
+              <img
+                src="/assets/images/testimonial2.webp"
+                class="d-block w-100"
+                alt="owner with dog" />
             </div>
             <div class="carousel-item">
               <h4>Andrew F</h4>
               <div class="horizontal-divider rounded container-fluid"></div>
-              <p>We purchased both of our Miniature Labradoodle boys from Jenny many years ago. From the moment we met her you could tell just how much she loved her dogs and how they were part of the family. We couldn't have asked for happier healthier pups. The boys both slotted straight into our family, and have been the centre of attention ever since I wouldn't hesitate about buying another pup from Jenny.
+              <p>
+                We purchased both of our Miniature Labradoodle boys from Jenny
+                many years ago. From the moment we met her you could tell just
+                how much she loved her dogs and how they were part of the
+                family. We couldn't have asked for happier healthier pups. The
+                boys both slotted straight into our family, and have been the
+                centre of attention ever since I wouldn't hesitate about buying
+                another pup from Jenny.
               </p>
             </div>
             <div class="carousel-item">
-              <img src="/assets/images/testimonial3.webp" class="d-block w-100" alt="owner with dog 3">
+              <img
+                src="/assets/images/testimonial3.webp"
+                class="d-block w-100"
+                alt="owner with dog 3" />
             </div>
             <div class="carousel-item">
               <h4>Helen T</h4>
               <div class="horizontal-divider rounded container-fluid"></div>
-              <p>Well what can I say, you couldn't find a better breeder if you tried. Jenny and her husband Brian are very lovely people, very kind and they care for the well-being of their beautiful dogs and their puppies. They are very knowledgeable and can answer any questions you may have regarding any puppy you may buy from them. They are very accepting and reasonable too. Any future puppy I buy will only come from Jenny and Brian.
+              <p>
+                Well what can I say, you couldn't find a better breeder if you
+                tried. Jenny and her husband Brian are very lovely people, very
+                kind and they care for the well-being of their beautiful dogs
+                and their puppies. They are very knowledgeable and can answer
+                any questions you may have regarding any puppy you may buy from
+                them. They are very accepting and reasonable too. Any future
+                puppy I buy will only come from Jenny and Brian.
               </p>
             </div>
-          </div> 
-        </div>  
-  
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+          </div>
+        </div>
+
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselExample"
+          data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselExample"
+          data-bs-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
         </button>
- 
       </div>
     </section>
 
@@ -160,7 +222,7 @@
             <iframe
               title="map"
               class="rounded"
-              src="https://www.openstreetmap.org/export/embed.html?bbox=-1.1930036544799807%2C52.938836663648935%2C-1.1363554000854494%2C52.9613322077871&amp;layer=mapnik" 
+              src="https://www.openstreetmap.org/export/embed.html?bbox=-1.1930036544799807%2C52.938836663648935%2C-1.1363554000854494%2C52.9613322077871&amp;layer=mapnik"
               width="100%"
               height="100%">
             </iframe>
@@ -182,9 +244,11 @@
             <div class="col footer-license">
               <i class="fa-solid fa-id-card"></i><br />
               <h3>licence Information:</h3>
-          
-              <p>0000-0000-0000<br />
-                 Boroughshire County Council </p>
+
+              <p>
+                0000-0000-0000<br />
+                Boroughshire County Council
+              </p>
             </div>
           </div>
         </div>
@@ -198,7 +262,7 @@
 
           <!-- contact us link -->
           <div class="col footer-contact">
-              <a href="contact-us.html">Contact Us!</a>
+            <a href="contact-us.html">Contact Us!</a>
           </div>
 
           <!-- link to privacy policy -->
@@ -215,28 +279,39 @@
           <div class="col social-links">
             <ul class="socials row">
               <li class="col">
-                <a href="https://www.facebook.com" target="_blank" alt="aria-label="link to Facebook"
+                <a
+                  href="https://www.facebook.com"
+                  target="_blank"
+                  aria-label="link to Facebook"
                   ><i class="fa-brands fa-facebook"></i
                 ></a>
               </li>
               <li class="col">
-                <a href="https://www.instagram.com" target="_blank" alt="aria-label="link to Instagram"
+                <a
+                  href="https://www.instagram.com"
+                  target="_blank"
+                  aria-label="link to Instagram"
                   ><i class="fa-brands fa-instagram"></i
                 ></a>
               </li>
               <li class="col">
-                <a href="https://www.youtube.com" target="_blank" alt="aria-label="link to youTube"
+                <a
+                  href="https://www.youtube.com"
+                  target="_blank"
+                  aria-label="link to youTube"
                   ><i class="fa-brands fa-youtube"></i
                 ></a>
               </li>
               <li class="col">
-                <a href="https://www.twitter.com" target="_blank" alt="aria-label="link to Twitter"
+                <a
+                  href="https://www.twitter.com"
+                  target="_blank"
+                  aria-label="link to Twitter"
                   ><i class="fa-brands fa-twitter"></i
                 ></a>
               </li>
             </ul>
           </div>
-
         </div>
       </div>
     </footer>
@@ -245,7 +320,7 @@
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-      crossorigin="anonymous"></script>  
+      crossorigin="anonymous"></script>
     <script
       src="https://kit.fontawesome.com/4bb2ade608.js"
       crossorigin="anonymous"></script>

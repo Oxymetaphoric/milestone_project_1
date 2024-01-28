@@ -4,10 +4,23 @@
     <meta charset="utf-8" />
     <title>Jenamin - Licensed Dog Breeder | About Us</title>
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.svg" />
-    <link rel="preload" fetchpriority="high" as="image" href="/assets/images/hero-image.webp" type="image/webp">
-    <link rel="preload" fetchpriority="high" as="image" href="/assets/images/hero-image-mobile.webp" type="image/webp">
+    <link
+      rel="preload"
+      fetchpriority="high"
+      as="image"
+      href="/assets/images/hero-image.webp"
+      type="image/webp" />
+    <link
+      id="mobile"
+      rel="preload"
+      fetchpriority="high"
+      as="image"
+      href="/assets/images/hero-image-mobile.webp"
+      type="image/webp" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <meta name="description" content="about us page - learn about who we are and meet the dogs" />
+    <meta
+      name="description"
+      content="about us page - learn about who we are and meet the dogs" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- importing Bootstrap css framework and fontAwesome icons -->
@@ -15,7 +28,7 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous" async="true"/>
+      crossorigin="anonymous" />
 
     <!-- my stylesheet -->
     <link rel="stylesheet prefetch" href="assets/css/style.css" />
@@ -24,14 +37,15 @@
   <body>
     <!-- the following section is the contact header -->
     <header id="header">
-
-      <div class="container-fluid text-center " id="contact-header">
+      <div class="container-fluid text-center" id="contact-header">
         <div class="row">
           <div class="col">
             <span
               ><i class="fa-solid fa-house"></i>
-              <p><b>Address:</b><br />
-              27 Somewhere Road, City, County, XX1 1XX</p>
+              <p>
+                <b>Address:</b><br />
+                27 Somewhere Road, City, County, XX1 1XX
+              </p>
             </span>
           </div>
           <div class="col">
@@ -44,31 +58,36 @@
             <p><b>Opening Hours:</b><br />9am - 5pm Mon- Fri</p>
           </div>
         </div>
-       </div>
+      </div>
 
-       <!-- the following section is the bottom layer of the header -->
-
+      <!-- the following section is the bottom layer of the header -->
 
       <nav class="navbar navbar-expand-lg bg-body-tertiary header-bottom">
-        <div class="container-fluid menu">    
-
+        <div class="container-fluid menu">
           <!-- this section is the logo -->
-            <a class="navbar-brand" href="#">
-              <div class="logo" id="logo">
-                <h1 class="jenamin">Jenamin</h1>
-                <h2 class="tagline">Registered Dog Breeder</h2>
-              </div>
-            </a>
-        
+          <a class="navbar-brand" href="index.html">
+            <div class="logo" id="logo">
+              <h1 class="jenamin">Jenamin</h1>
+              <h2 class="tagline">Registered Dog Breeder</h2>
+            </div>
+          </a>
+
           <!-- menubar toggle code from bootstrap docs -->
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"  aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
           </button>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <div class="navbar-nav me-auto mb-2 mb-lg-0 links">
               <div class="nav-item collapsed-menu">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link" href="index.html">Home</a>
               </div>
               <div class="nav-item collapsed-menu">
                 <a class="nav-link" href="about-us.html">About Us</a>
@@ -79,33 +98,37 @@
               </div>
 
               <div class="nav-item collapsed-menu">
-                <a class="nav-link" href="testimonials.html">Testimonials</a>
+                <a
+                  class="nav-link active"
+                  aria-current="page"
+                  href="testimonials.html"
+                  >Testimonials</a
+                >
               </div>
 
               <div class="nav-item collapsed-menu">
                 <a class="nav-link" href="contact-us.html">Contact Us</a>
-              </div>      
+              </div>
             </div>
+          </div>
         </div>
       </nav>
 
-           <!-- navigation breadcrumbs  -->
-            <nav class="container-fluid">
-                <div class="breadcrumbs">
-                  <ol class="breadcrumb">
-                    <li class="breadcrumb-item active"><a href="/index.html">Home</a></li>
-                  </ol> 
-                </div>
-            </nav>
-      </div>  
+      <!-- navigation breadcrumbs  -->
+      <nav class="container-fluid">
+        <div class="breadcrumbs">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+            <li class="breadcrumb-item active"><a href="#">Testimonials</a></li>
+          </ol>
+        </div>
+      </nav>
     </header>
-
     <!-- main section of the page -->
     <section class="container-fluid index-main-section">
       <h2>Hmm, how odd</h2>
       <h2>There's no-puppy here!</h2>
       <h3><a href="index.html" id="error-link">Take me home!</a></h3>
-
     </section>
 
     <!-- footer here  -->
@@ -119,7 +142,7 @@
             <iframe
               title="map"
               class="rounded"
-              src="https://www.openstreetmap.org/export/embed.html?bbox=-1.1930036544799807%2C52.938836663648935%2C-1.1363554000854494%2C52.9613322077871&amp;layer=mapnik" 
+              src="https://www.openstreetmap.org/export/embed.html?bbox=-1.1930036544799807%2C52.938836663648935%2C-1.1363554000854494%2C52.9613322077871&amp;layer=mapnik"
               width="100%"
               height="100%">
             </iframe>
@@ -131,7 +154,7 @@
               <i class="fa-solid fa-house"></i><br />
 
               <h4>Address:</h4>
-          
+
               <p>
                 Main Street<br />
                 Big City<br />
@@ -143,9 +166,11 @@
             <div class="col footer-license">
               <i class="fa-solid fa-id-card"></i><br />
               <h4>licence Information:</h4>
-          
-              <p>0000-0000-0000<br />
-                 Boroughshire County Council </p>
+
+              <p>
+                0000-0000-0000<br />
+                Boroughshire County Council
+              </p>
             </div>
           </div>
         </div>
@@ -159,7 +184,7 @@
 
           <!-- contact us link -->
           <div class="col footer-contact">
-              <a href="contact-us.html">Contact Us!</a>
+            <a href="contact-us.html">Contact Us!</a>
           </div>
 
           <!-- link to privacy policy -->
@@ -172,32 +197,43 @@
             <a href="sitemap.txt">Site Map</a>
           </div>
 
-         <!-- social media links and icons -->
-         <div class="col social-links">
-          <ul class="socials row">
-            <li class="col">
-              <a href="https://www.facebook.com" target="_blank" aria-label="link to Facebook"
-                ><i class="fa-brands fa-facebook"></i
-              ></a>
-            </li>
-            <li class="col">
-              <a href="https://www.instagram.com" target="_blank" aria-label="link to Instagram"
-                ><i class="fa-brands fa-instagram"></i
-              ></a>
-            </li>
-            <li class="col">
-              <a href="https://www.youtube.com" target="_blank" aria-label="link to youTube"
-                ><i class="fa-brands fa-youtube"></i
-              ></a>
-            </li>
-            <li class="col">
-              <a href="https://www.twitter.com" target="_blank" aria-label="link to Twitter"
-                ><i class="fa-brands fa-twitter"></i
-              ></a>
-            </li>
-          </ul>
-        </div>
-
+          <!-- social media links and icons -->
+          <div class="col social-links">
+            <ul class="socials row">
+              <li class="col">
+                <a
+                  href="https://www.facebook.com"
+                  target="_blank"
+                  aria-label="link to Facebook"
+                  ><i class="fa-brands fa-facebook"></i
+                ></a>
+              </li>
+              <li class="col">
+                <a
+                  href="https://www.instagram.com"
+                  target="_blank"
+                  aria-label="link to Instagram"
+                  ><i class="fa-brands fa-instagram"></i
+                ></a>
+              </li>
+              <li class="col">
+                <a
+                  href="https://www.youtube.com"
+                  target="_blank"
+                  aria-label="link to youTube"
+                  ><i class="fa-brands fa-youtube"></i
+                ></a>
+              </li>
+              <li class="col">
+                <a
+                  href="https://www.twitter.com"
+                  target="_blank"
+                  aria-label="link to Twitter"
+                  ><i class="fa-brands fa-twitter"></i
+                ></a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </footer>
@@ -205,12 +241,13 @@
     <!-- bootstrap script -->
 
     <script
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-    crossorigin="anonymous" async="true"></script>    
-  <script
-    src="https://kit.fontawesome.com/4bb2ade608.js"
-    crossorigin="anonymous" async="true"></script>
-
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+      async="true"></script>
+    <script
+      src="https://kit.fontawesome.com/4bb2ade608.js"
+      crossorigin="anonymous"
+      async="true"></script>
   </body>
 </html>

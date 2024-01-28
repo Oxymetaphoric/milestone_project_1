@@ -4,10 +4,23 @@
     <meta charset="utf-8" />
     <title>Jenamin - Licensed Dog Breeder | About Us</title>
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.svg" />
-    <link rel="preload" fetchpriority="high" as="image" href="/assets/images/hero-image.webp" type="image/webp">
-    <link rel="preload" fetchpriority="high" as="image" href="/assets/images/hero-image-mobile.webp" type="image/webp">
+    <link
+      rel="preload"
+      fetchpriority="high"
+      as="image"
+      href="/assets/images/hero-image.webp"
+      type="image/webp" />
+    <link
+      id="mobile"
+      rel="preload"
+      fetchpriority="high"
+      as="image"
+      href="/assets/images/hero-image-mobile.webp"
+      type="image/webp" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <meta name="description" content="about us page - learn about who we are and meet the dogs" />
+    <meta
+      name="description"
+      content="about us page - learn about who we are and meet the dogs" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- importing Bootstrap css framework and fontAwesome icons -->
@@ -24,14 +37,15 @@
   <body>
     <!-- the following section is the contact header -->
     <header id="header">
-
-      <div class="container-fluid text-center " id="contact-header">
+      <div class="container-fluid text-center" id="contact-header">
         <div class="row">
           <div class="col">
             <span
               ><i class="fa-solid fa-house"></i>
-              <p><b>Address:</b><br />
-              27 Somewhere Road, City, County, XX1 1XX</p>
+              <p>
+                <b>Address:</b><br />
+                27 Somewhere Road, City, County, XX1 1XX
+              </p>
             </span>
           </div>
           <div class="col">
@@ -46,21 +60,28 @@
         </div>
       </div>
 
-       <!-- the following section is the bottom layer of the header -->
+      <!-- the following section is the bottom layer of the header -->
+
       <nav class="navbar navbar-expand-lg bg-body-tertiary header-bottom">
-        <div class="container-fluid menu"  >         
+        <div class="container-fluid menu">
           <!-- this section is the logo -->
-            
-            <a class="navbar-brand" href="index.html">
-              <div class="logo" id="logo">
-                <h1 class="jenamin">Jenamin</h1>
-                <h2 class="tagline">Registered Dog Breeder</h2>
-              </div>
-            </a>
-        
+          <a class="navbar-brand" href="index.html">
+            <div class="logo" id="logo">
+              <h1 class="jenamin">Jenamin</h1>
+              <h2 class="tagline">Registered Dog Breeder</h2>
+            </div>
+          </a>
+
           <!-- menubar toggle code from bootstrap docs -->
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"  aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
           </button>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
@@ -77,24 +98,31 @@
               </div>
 
               <div class="nav-item collapsed-menu">
-                <a class="nav-link" href="testimonials.html">Testimonials</a>
+                <a
+                  class="nav-link active"
+                  aria-current="page"
+                  href="testimonials.html"
+                  >Testimonials</a
+                >
               </div>
 
               <div class="nav-item collapsed-menu">
-                <a class="nav-link active" aria-current="page" href="contact-us.html">Contact Us</a>
-              </div>      
+                <a class="nav-link" href="contact-us.html">Contact Us</a>
+              </div>
             </div>
+          </div>
         </div>
       </nav>
-           <!-- navigation breadcrumbs  -->
-            <div class="container-fluid breadcrumbs">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
-                <li class="breadcrumb-item active"><a href="/contact-us.html">Contact Us</a></li>
-              </ol> 
-            </div>
-            </nav>
-      </div>  
+
+      <!-- navigation breadcrumbs  -->
+      <nav class="container-fluid">
+        <div class="breadcrumbs">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
+            <li class="breadcrumb-item active"><a href="#">Testimonials</a></li>
+          </ol>
+        </div>
+      </nav>
     </header>
 
     <h2>Contact Us!</h2>
