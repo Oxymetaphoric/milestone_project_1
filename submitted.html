@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Jenamin - Licensed Dog Breeder | Contact Us</title>
+    <title>Jenamin - Licensed Dog Breeder | 404</title>
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.svg" />
     <link
       rel="preload"
@@ -18,7 +18,7 @@
       href="/assets/images/hero-image-mobile.webp"
       type="image/webp" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <meta name="description" content="Contact Us page - send us a message" />
+    <meta name="description" content="404 - Error - Page Not Found" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!-- importing Bootstrap css framework and fontAwesome icons -->
@@ -38,13 +38,13 @@
       <div class="container-fluid text-center" id="contact-header">
         <div class="row">
           <div class="col">
-            <div>
-              <i class="fa-solid fa-house"></i>
+            <span
+              ><i class="fa-solid fa-house"></i>
               <p>
                 <b>Address:</b><br />
                 27 Somewhere Road, City, County, XX1 1XX
               </p>
-            </div>
+            </span>
           </div>
           <div class="col">
             <i class="fa-solid fa-phone"></i>
@@ -100,12 +100,7 @@
               </div>
 
               <div class="nav-item collapsed-menu">
-                <a
-                  class="nav-link active"
-                  aria-current="page"
-                  href="contact-us.html"
-                  >Contact Us</a
-                >
+                <a class="nav-link" href="contact-us.html">Contact Us</a>
               </div>
             </div>
           </div>
@@ -117,73 +112,23 @@
         <div class="breadcrumbs">
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-            <li class="breadcrumb-item active"><a href="#">Contact Us</a></li>
+            <li class="breadcrumb-item active"><a href="#">404</a></li>
           </ol>
         </div>
       </nav>
     </header>
-
-    <h2>Contact Us!</h2>
-
     <!-- main section of the page -->
-    <div class="hero-image contact-main-section row rounded">
-      <div class="col form rounded privacy-policy">
-        <form action="submitted.html" method="GET">
-          <div class="form-floating mb-4">
-            <input
-              type="text"
-              class="form-control"
-              placeholder="name"
-              id="name"
-              required />
-            <label for="name">Name</label>
-          </div>
-
-          <div class="form-floating mb-3">
-            <input
-              type="tel"
-              class="form-control"
-              id="tel"
-              placeholder="contact number"
-              required />
-            <label for="tel">Contact Number</label>
-          </div>
-
-          <div class="form-floating mb-3">
-            <input
-              type="email"
-              class="form-control"
-              id="email"
-              placeholder="email address"
-              required />
-            <label for="email">Email Address</label>
-          </div>
-
-          <div class="form-floating mb-3">
-            <textarea
-              class="form-control"
-              placeholder="send us a message"
-              id="message"
-              style="height: 150px"></textarea>
-            <label for="message">Comments</label>
-          </div>
-
-          <input
-            value="clear form"
-            class="btn-dark rounded-1"
-            type="reset"
-            id="reset"
-            name="reset" />
-
-          <input
-            value="submit"
-            class="btn-dark rounded-1"
-            type="submit"
-            id="submit"
-            name="submit" />
-        </form>
-      </div>
-    </div>
+    <section class="container-fluid index-main-section">
+      <h2>Sent!</h2>
+      <h2>Thanks for your message</h2>
+      <h2>we'll get back to you soon!</h2>
+      <br /><br />
+      <h3>
+        In the meantime, have a look at out
+        <a href="litters.html">Upcoming Litters</a>
+        <br /><br />
+      </h3>
+    </section>
 
     <!-- footer here  -->
     <footer>
@@ -207,7 +152,7 @@
             <div class="col footer-address">
               <i class="purple fa-solid fa-house"></i><br />
 
-              <h3>Address:</h3>
+              <h4>Address:</h4>
 
               <p>
                 Main Street<br />
@@ -219,7 +164,7 @@
             <div class="col footer-divider rounded"></div>
             <div class="col footer-license">
               <i class="purple fa-solid fa-id-card"></i><br />
-              <h3>licence Information:</h3>
+              <h4>licence Information:</h4>
 
               <p>
                 0000-0000-0000<br />
@@ -236,7 +181,7 @@
             <b>Copyright &copy;</b> - Jenamin 2023
           </div>
 
-          <!-- contact us button  -->
+          <!-- contact us link -->
           <div class="col footer-contact">
             <a href="contact-us.html">Contact Us!</a>
           </div>
@@ -293,6 +238,7 @@
     </footer>
 
     <!-- bootstrap script -->
+
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
