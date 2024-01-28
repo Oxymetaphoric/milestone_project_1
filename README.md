@@ -439,37 +439,120 @@ palette, I amended it to:
 |            | header links rollover effects properly applied | yes      |
 |            | header breadcrumbs display correctly           | yes      |
 |            | main content displaying correctly              | yes      |
-|            | footer links work                              |          |
-|            | footer is responsive                           |          |
-|            | footer links rollover effects properly applies |          |
+|            | footer links work                              | yes      |
+|            | footer is responsive                           | yes      |
+|            | footer links rollover effects properly applies | yes      |
+|            | social links open in new tab                   | yes      |
+
+| page          | test                                           | verified |
+| ------------- | ---------------------------------------------- | -------- |
+| about-us.html | header links work                              | yes      |
+|               | header responsive                              | yes      |
+|               | header links rollover effects properly applied | yes      |
+|               | header breadcrumbs display correctly           | yes      |
+|               | main content displaying correctly              | yes      |
+|               | footer links work                              | yes      |
+|               | footer is responsive                           | yes      |
+|               | footer links rollover effects properly applies | yes      |
+|               | social links open in new tab                   | yes      |
+
+| page                  | test                                           | verified |
+| --------------------- | ---------------------------------------------- | -------- |
+| upcoming-litters.html | header links work                              | yes      |
+|                       | header responsive                              | yes      |
+|                       | header links rollover effects properly applied | yes      |
+|                       | header breadcrumbs display correctly           | yes      |
+|                       | main content displaying correctly              | yes      |
+|                       | footer links work                              | yes      |
+|                       | footer is responsive                           | yes      |
+|                       | footer links rollover effects properly applies | yes      |
+|                       | social links open in new tab                   | yes      |
+
+| page              | test                                           | verified |
+| ----------------- | ---------------------------------------------- | -------- |
+| testimonials.html | header links work                              | yes      |
+|                   | header responsive                              | yes      |
+|                   | header links rollover effects properly applied | yes      |
+|                   | header breadcrumbs display correctly           | yes      |
+|                   | main content displaying correctly              | yes      |
+|                   | footer links work                              | yes      |
+|                   | footer is responsive                           | yes      |
+|                   | footer links rollover effects properly applies | yes      |
+|                   | social links open in new tab                   | yes      |
+
+| page            | test                                           | verified |
+| --------------- | ---------------------------------------------- | -------- |
+| contact-us.html | header links work                              | yes      |
+|                 | header responsive                              | yes      |
+|                 | header links rollover effects properly applied | yes      |
+|                 | header breadcrumbs display correctly           | yes      |
+|                 | main content displaying correctly              | yes      |
+|                 | footer links work                              | yes      |
+|                 | footer is responsive                           | yes      |
+|                 | footer links rollover effects properly applies | yes      |
+|                 | social links open in new tab                   | yes      |
+
+| page         | test                                           | verified |
+| ------------ | ---------------------------------------------- | -------- |
+| privacy.html | header links work                              | yes      |
+|              | header responsive                              | yes      |
+|              | header links rollover effects properly applied | yes      |
+|              | header breadcrumbs display correctly           | yes      |
+|              | main content displaying correctly              | yes      |
+|              | footer links work                              | yes      |
+|              | footer is responsive                           | yes      |
+|              | footer links rollover effects properly applies | yes      |
+|              | social links open in new tab                   | yes      |
 
 ### User Stories Testing
 
-### Bug fixes
+#### - First Time User
 
-~~jan 20th: margin in one of the divs in the footer was unintentially causing a
-small amount of horizontal scrolling to be possible.~~ Found the culprit using
-Firefox's Dev tools to identify the element at fault
+1. As a first time user I want to know who this company is
 
-~~jan 21st: setting global h property interacted badly with my logo layout due
-to not enough specificity.~~ fixed
+2. As a first time visitor I want to know what breeds of dogs Jenamin works with
 
-Jan 22nd: ~~fixed the background-color of the breadcrumbs div being a slightly
-different white than the rest of the page, same for the logo div~~ found the
-errant padding in breadcrumbs and replaced it with margin
+3. As a first time user I want a smooth experience with easy access to the most
+   important information (contact and location details)
 
-jan 22nd: ~~closing the section tag in the main body of any page breaks the
-positioning of the footer, unsure how to fix currently.~~ fixed: fixed a bunch
-of unclosed tags, reset positioning using relative to body.
+4. As a first time user I want to see many pictures of puppies
 
-~~jan 27th: using rel=preload caused errors that using prefetch instead~~ fixed
+5. As a first time user I want to not be frustrated with the layout or design of
+   the site
 
-~~jan 27th: bootstrap text-centre overwriting styling on meet the dogs section
-of About Us~~ fixed by wrapping images in div and moving the text-center class
-down a level
+6. As a first time user I would like to be easily able to contact the business
+   with questions
 
-~~jan 27th: lighthouse revealed a typo that was stopping the pages reporting the
-HTML lang attribute~~ fixed
+#### - Returning User
+
+1. As a returning user I would like to see new/different pictures
+
+2. As a returning user I would like easy access to the Upcoming Litters page as
+   I am looking for one in particular
+
+3. As a returning user I would like to be able to find the business on social
+   media
+
+4. As a returning user I would like easy access to the contact and location
+   details
+
+5. As a returning customer I would like easy access to the various official
+   information, registration numbers etc.
+
+#### - Site Owner
+
+1. As the site owner I would like to connect with potential customers and other
+   breeders more easily and more cheaply
+
+2. As the site owner I want to be able to easily see when a potential customer
+   has contacted me through the website
+
+3. As the site owner I would like the site to be well optimised for SEO in order
+   to increase visibility
+
+4. As the site owner I want potential customers to be able to contact/find us
+   easily
+5. As the site owner I want to make sure customers are never lost on my website
 
 ### HTML/CSS Validators
 
@@ -553,6 +636,32 @@ framework used and is out of scope to address.
 
 The site weas tested on all devices available through Firefox and Chrome
 emulation tools. No major issues detected.
+
+### Bug fixes
+
+~~jan 20th: margin in one of the divs in the footer was unintentially causing a
+small amount of horizontal scrolling to be possible.~~ Found the culprit using
+Firefox's Dev tools to identify the element at fault
+
+~~jan 21st: setting global h property interacted badly with my logo layout due
+to not enough specificity.~~ fixed
+
+Jan 22nd: ~~fixed the background-color of the breadcrumbs div being a slightly
+different white than the rest of the page, same for the logo div~~ found the
+errant padding in breadcrumbs and replaced it with margin
+
+jan 22nd: ~~closing the section tag in the main body of any page breaks the
+positioning of the footer, unsure how to fix currently.~~ fixed: fixed a bunch
+of unclosed tags, reset positioning using relative to body.
+
+~~jan 27th: using rel=preload caused errors that using prefetch instead~~ fixed
+
+~~jan 27th: bootstrap text-centre overwriting styling on meet the dogs section
+of About Us~~ fixed by wrapping images in div and moving the text-center class
+down a level
+
+~~jan 27th: lighthouse revealed a typo that was stopping the pages reporting the
+HTML lang attribute~~ fixed
 
 ## :loudspeaker: Deployment
 
