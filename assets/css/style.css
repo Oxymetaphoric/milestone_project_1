@@ -154,7 +154,7 @@ a:hover {
   height: 65vh;
   background-color: #f5f5f5;
   animation: forwards;
-  background: url(../images/hero-image.webp) no-repeat center center fixed;
+  background: url(assets/images/hero-image.webp) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -313,7 +313,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/assets/images/hero-image.webp);
+  background-image: url(assets/images/hero-image.webp);
   padding: 20px;
   margin: 10px;
 }
@@ -343,7 +343,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/assets/images/hero-image.webp);
+  background-image: url(assets/images/hero-image.webp);
   padding: 20px;
   margin: 10px;
 }
@@ -492,7 +492,7 @@ footer {
     position: absolute;
   }
   .hero-image {
-    background: url(/assets/images/hero-image-mobile.webp) no-repeat top center
+    background: url(assets/images/hero-image-mobile.webp) no-repeat top center
       fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
