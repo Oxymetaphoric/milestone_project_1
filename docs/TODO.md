@@ -56,8 +56,8 @@
 
 - ~~responsiveness on smaller sizes needs improving~~
 - ~~add amiresponsive image to README~~
-- custom 404 page
-- custom submit succesful page
+- ~~custom 404 page~~
+- ~~custom submit succesful page~~
 
 - ~~Testimonials: Heading elements are not in a sequentially-descending order~~
 

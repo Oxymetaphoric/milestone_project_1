@@ -467,6 +467,15 @@ results:
 | Best Practices: | 95% |
 | SEO:            | 85% |
 
+after round of fixes, image resizing, and adding media queries:
+
+| Mobile          | %    |
+| --------------- | ---- |
+| Performance:    | 91%  |
+| Accessibility:  | 100% |
+| Best Practices: | 95%  |
+| SEO:            | 92%  |
+
 #### desktop testing
 
 Initial local testing of index.html with Google Lighthouse yielded the following

@@ -219,6 +219,8 @@ a:hover {
 }
 .about-image {
   margin: 10px;
+  width: 300px;
+  height: 300px;
   max-width: 30%;
   min-width: 300px;
   overflow: hidden;
@@ -341,6 +343,18 @@ a:hover {
 }
 .btn-dark {
   border: none;
+}
+/* 404 page */
+
+#error-link {
+  color: #5c47d1;
+  text-decoration: underline;
+}
+
+#error-link:hover {
+  color: #5c47d1;
+  text-decoration: underline;
+  text-decoration-thickness: 8px;
 }
 /* Footer */
 /* footer positioning */
