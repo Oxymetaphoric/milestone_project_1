@@ -457,14 +457,19 @@ HTML lang attribute~~ fixed
 
 ### HTML/CSS Validators
 
-I ran each page through an HTML validator and found that the auto-formatter that
-I had chosen to use for the project had inserted trailing slashes at many
-points. Though this is a stylistic issue, and not a semantic one, as such I
-elected not to remove them. Other than this, no errors were discovered.
+I ran each page through the [w3 HTML validator](https://validator.w3.org/) and
+found that the auto-formatter that I had chosen to use for the project,
+Prettier, had inserted trailing slashes at many points. Though this is a
+stylistic issue, and not a semantic one, as such I elected not to remove them.
+Other than this, no errors were discovered. It also raised multiple smaller
+issues like trailing end tags which I cleaned up.
+
+There are two remaining errors that relate to the way that I have sized the map
+in the footer.
 
 I ran the my stylesheet through the
-[w3 css validator](https://jigsaw.w3.org/css-validator/validator), which picked
-up on one type that I fixed.
+[w3 css validator](https://jigsaw.w3.org/css-validator/), which picked up on one
+typo that I fixed.
 
 ### WAVE
 
