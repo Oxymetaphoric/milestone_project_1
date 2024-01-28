@@ -444,6 +444,9 @@ HTML lang attribute
 
 ### WAVE
 
+I tested each page using the WAVE Firefox plugin and fixed all errors that it
+raised.
+
 ### Lighthouse
 
 Initial testing with lighthouse on a locallly hosted copy of the site indicated
