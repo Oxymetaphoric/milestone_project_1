@@ -154,7 +154,7 @@ a:hover {
   height: 65vh;
   background-color: #f5f5f5;
   animation: forwards;
-  background: url(assets/images/hero-image.webp) no-repeat center center fixed;
+  background: url(../images/hero-image.webp) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -492,8 +492,7 @@ footer {
     position: absolute;
   }
   .hero-image {
-    background: url(assets/images/hero-image-mobile.webp) no-repeat top center
-      fixed;
+    background: url(../images/hero-image-mobile.webp) no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
