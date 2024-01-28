@@ -442,6 +442,11 @@ HTML lang attribute
 
 ### HTML/CSS Validators
 
+I ran each page through an HTML validator and found that the auto-formatter that
+I had chosen to use for the project had inserted trailing slashes at many
+points. Though this is a stylistic issue, and not a semantic one, as such I
+elected not to remove them. Other than this, no errors were discovered.
+
 ### WAVE
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
