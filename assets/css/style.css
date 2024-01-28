@@ -313,7 +313,6 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(assets/images/hero-image.webp);
   padding: 20px;
   margin: 10px;
 }
@@ -343,7 +342,6 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(assets/images/hero-image.webp);
   padding: 20px;
   margin: 10px;
 }
