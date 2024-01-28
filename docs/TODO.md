@@ -22,7 +22,7 @@
 - ~~Testing~~
 - ~~Credits/acknowledgements~~
 - ~~spell check everything~~
-- Deployment
+- ~~Deployment~~
 
 ## Coding
 
