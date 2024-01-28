@@ -502,7 +502,8 @@ framework used and is out of scope to address.
 
 ### Devices
 
----
+The site weas tested on all devices available through Firefox and Chrome
+emulation tools. No major issues detected.
 
 ## :loudspeaker: Deployment
 
