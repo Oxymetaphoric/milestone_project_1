@@ -296,6 +296,18 @@ The **Footer** should contain the following elements:
 - Desktop
   ![desktop Contact Us wireframe](docs/wireframes/desktop/desktop_contact_us.png)
 
+## Features
+
+- stationary information bar at top of each page
+- responsive menu that collapses on mobile
+- breadcrumb trail beneath logo
+- links to information about business and dogs
+- carousel used on testimonials page
+- responsive contact form
+- openstreetmap.org map embedded in footer
+- links to sitemap and privacy policy in footer
+- links to socials in footer
+
 ---
 
 ## :art: Surface
@@ -371,8 +383,8 @@ I decided on a final pallete of:
      Payne's Gray:      #536B79
      Night:             #121213
 
-After using accessibility tools to assess the suitability of the above palette,
-I amended it to:
+However, after using accessibility tools to assess the suitability of the above
+palette, I amended it to:
 
      White Smoke:       #F5F5F5
      Lilac              #5C47D1
@@ -420,12 +432,16 @@ I amended it to:
 
 ### Functional testing
 
-| page            | action | expected result | outcome |
-| --------------- | ------ | --------------- | ------- |
-| Index.html      |        |
-| Accessibility:  | 78%    |
-| Best Practices: | 95%    |
-| SEO:            | 85%    |
+| page       | test                                           | verified |
+| ---------- | ---------------------------------------------- | -------- |
+| index.html | header links work                              | yes      |
+|            | header responsive                              | yes      |
+|            | header links rollover effects properly applied | yes      |
+|            | header breadcrumbs display correctly           | yes      |
+|            | main content displaying correctly              | yes      |
+|            | footer links work                              |          |
+|            | footer is responsive                           |          |
+|            | footer links rollover effects properly applies |          |
 
 ### User Stories Testing
 

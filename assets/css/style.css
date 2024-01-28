@@ -172,8 +172,10 @@ a:hover {
   padding-right: 50px;
   font-size: 16pt;
 }
+
 .purple {
   color: #5c47d1;
+  font-size: 28pt;
 }
 .divider-purple {
   align-self: center;
