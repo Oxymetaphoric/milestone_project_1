@@ -406,7 +406,8 @@ I amended it to:
 #### Resources
 
 - **[Unsplash](http://www.unsplash.com)**
-- **[Google Maps](https://maps.google.com)**
+- ~~[Google Maps](https://maps.google.com)~~
+- **[openStreetMap](www,openstreetmap.org)**
 - **[Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)**
 - **[W3 Schools](https://w3schools.com)**
 - **[stack overflow](http://www.stackoverflow.com)**
@@ -419,18 +420,23 @@ I amended it to:
 
 ### Functional testing
 
-All links checked on each apge for correct behaviour.
+| page            | action | expected result | outcome |
+| --------------- | ------ | --------------- | ------- |
+| Index.html      |        |
+| Accessibility:  | 78%    |
+| Best Practices: | 95%    |
+| SEO:            | 85%    |
 
 ### User Stories Testing
 
 ### Bug fixes
 
-jan 20th: margin in one of the divs in the footer was unintentially causing a
-small amount of horizontal scrolling to be possible. Found the culprit using
+~~jan 20th: margin in one of the divs in the footer was unintentially causing a
+small amount of horizontal scrolling to be possible.~~ Found the culprit using
 Firefox's Dev tools to identify the element at fault
 
-jan 21st: setting global h property interacted badly with my logo layout due to
-not enough specificity
+~~jan 21st: setting global h property interacted badly with my logo layout due
+to not enough specificity.~~ fixed
 
 Jan 22nd: ~~fixed the background-color of the breadcrumbs div being a slightly
 different white than the rest of the page, same for the logo div~~ found the
@@ -440,14 +446,14 @@ jan 22nd: ~~closing the section tag in the main body of any page breaks the
 positioning of the footer, unsure how to fix currently.~~ fixed: fixed a bunch
 of unclosed tags, reset positioning using relative to body.
 
-jan 27th: using rel=preload caused errors that using prefetch instead fixed
+~~jan 27th: using rel=preload caused errors that using prefetch instead~~ fixed
 
-jan 27th: bootstrap text-centre overwriting styling on meet the dogs section of
-About Us, fixed by wrapping images in div and moving the text-center class down
-a level
+~~jan 27th: bootstrap text-centre overwriting styling on meet the dogs section
+of About Us~~ fixed by wrapping images in div and moving the text-center class
+down a level
 
-jan 27th: lighthouse revealed a typo that was stopping the pages reporting the
-HTML lang attribute
+~~jan 27th: lighthouse revealed a typo that was stopping the pages reporting the
+HTML lang attribute~~ fixed
 
 ### HTML/CSS Validators
 
@@ -456,11 +462,15 @@ I had chosen to use for the project had inserted trailing slashes at many
 points. Though this is a stylistic issue, and not a semantic one, as such I
 elected not to remove them. Other than this, no errors were discovered.
 
+I ran the my stylesheet through the
+[w3 css validator](https://jigsaw.w3.org/css-validator/validator), which picked
+up on one type that I fixed.
+
 ### WAVE
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
 raised. These issues were predominantly me having misused or disordered semantic
-elements.
+elements. All pages scored 0 errors and 0 contrast errors.
 
 ### Lighthouse
 
@@ -473,7 +483,7 @@ issues were:
 - website was not well optimised for mobile
 - the main colour did not have sufficient contrast against white text
 
-#### mobile testing
+#### Lighthouse mobile testing
 
 Initial testing of index.html with Google Lighthouse yielded the following
 results:
@@ -485,7 +495,7 @@ results:
 | Best Practices: | 95% |
 | SEO:            | 85% |
 
-after round of fixes, image resizing, and adding media queries:
+after round of fixes, image resizing, and adding media queries all pages report:
 
 | Mobile          | %    |
 | --------------- | ---- |
@@ -494,7 +504,7 @@ after round of fixes, image resizing, and adding media queries:
 | Best Practices: | 95%  |
 | SEO:            | 92%  |
 
-#### desktop testing
+#### Lighthouse desktop testing
 
 Initial local testing of index.html with Google Lighthouse yielded the following
 results:
