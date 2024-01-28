@@ -371,7 +371,13 @@ I decided on a final pallete of:
      Payne's Gray:      #536B79
      Night:             #121213
 
-#### Layout
+After using accessibility tools to assess the suitability of the above palette,
+I amended it to:
+
+     White Smoke:       #F5F5F5
+     Lilac              #5C47D1
+     Payne's Gray:      #536B79
+     Night:             #121213
 
 ### Technologies and Tools used
 
@@ -395,6 +401,7 @@ I decided on a final pallete of:
 - **[Google Fonts](https://fonts.google.com/)**
 - **[Photopea](https://www.photopea.com/)**
 - **[hextorgba](https://rgbacolorpicker.com/hex-to-rgba)**
+- **[amiresponsive](https://ui.dev/amiresponsive)**
 
 #### Resources
 
@@ -411,6 +418,8 @@ I decided on a final pallete of:
 ---
 
 ### Functional testing
+
+All links checked on each apge for correct behaviour.
 
 ### User Stories Testing
 
@@ -450,7 +459,8 @@ elected not to remove them. Other than this, no errors were discovered.
 ### WAVE
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
-raised. These issues were predominantly me havving misused semantic elements.
+raised. These issues were predominantly me having misused or disordered semantic
+elements.
 
 ### Lighthouse
 
@@ -522,6 +532,13 @@ emulation tools. No major issues detected.
 ## :heart: Credits and Acknowlegements
 
 ---
+
+### People
+
+- My wonderful family :heart:
+- The Coding Crew
+- Adam Cross
+- David Bowers
 
 ### main hero image
 

@@ -21,7 +21,7 @@
 - ~~Accessibility~~
 - Testing
 - Deployment
-- Credits/acknowledgements
+- ~~Credits/acknowledgements~~
 - spell check everything
 
 ## Coding
