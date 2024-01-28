@@ -10,6 +10,7 @@ body {
 p {
   font-family: "Assistant", sans-serif;
 }
+
 h2 {
   font-family: "Quicksand", sans-serif;
   font-size: 42pt;
@@ -89,6 +90,11 @@ a:hover {
 .nav {
   background-color: #f5f5f5;
 }
+.navbar-toggler {
+  color: #5c47d1;
+  background-color: #f5f5f5;
+  padding: 3px;
+}
 .menu {
   background-color: #f5f5f5;
   position: relative;
@@ -159,16 +165,15 @@ a:hover {
   justify-content: center;
   position: relative;
 }
-.fa-solid {
-  font-size: 28pt;
-  color: #5c47d1;
-}
 .reasons-container {
   padding-bottom: 20px;
   padding-top: 20px;
   padding-left: 50px;
   padding-right: 50px;
   font-size: 16pt;
+}
+.purple {
+  color: #5c47d1;
 }
 .divider-purple {
   align-self: center;
@@ -229,7 +234,7 @@ a:hover {
   margin: 10px;
   max-width: 300px;
   height: 300px;
-  max-width: 30%;
+
   min-width: auto;
   overflow: hidden;
 }
@@ -253,6 +258,8 @@ a:hover {
 }
 .puppy-images {
   max-width: 15%;
+  min-width: 300px;
+  height: auto;
 }
 /* Testimonials */
 .testimonials-main-section {
