@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://[www.example.com]/sitemap.txt
+Sitemap: https://oxymetaphoric.github.io/milestone_project_1/sitemap.txt
