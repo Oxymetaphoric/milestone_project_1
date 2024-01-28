@@ -217,16 +217,20 @@ a:hover {
   margin: 10px;
 }
 #about-people img {
-  width: 33%;
+  width: 300px;
   min-width: 250px;
   float: left;
 }
+#about-dogs img {
+  width: 300px;
+  min-width: 300px;
+}
 .about-image {
   margin: 10px;
-  width: 300px;
+  max-width: 300px;
   height: 300px;
   max-width: 30%;
-  min-width: 300px;
+  min-width: auto;
   overflow: hidden;
 }
 /* Upcoming Litters */
