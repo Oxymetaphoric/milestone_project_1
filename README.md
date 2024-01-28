@@ -510,34 +510,57 @@ palette, I amended it to:
 
 1. As a first time user I want to know who this company is
 
+   - company name and contact information clearly visible on page load
+   - About Us page is clearly visible and accessible to new users <br><br>
+
 2. As a first time visitor I want to know what breeds of dogs Jenamin works with
+
+   - About Us page and Upcoming Litters pages clearly state the breeds of the
+     relevant dogs<br><br>
 
 3. As a first time user I want a smooth experience with easy access to the most
    important information (contact and location details)
 
-4. As a first time user I want to see many pictures of puppies
+   - contact information is accessible on page load.
+   - Site is responsive <br><br>
 
+4. As a first time user I want to see many pictures of puppies
+   - Site has many pictures <br><br>
 5. As a first time user I want to not be frustrated with the layout or design of
    the site
-
+   - site layout is cohesive and logical
+   - site design is clean and responsive <br><br>
 6. As a first time user I would like to be easily able to contact the business
    with questions
+   - the site provides multiple avenues to contact the owners
 
 #### - Returning User
 
 1. As a returning user I would like to see new/different pictures
 
+   - Testimonials and Upcoming Litters pages both to would be updated regularly
+     <br><br>
+
 2. As a returning user I would like easy access to the Upcoming Litters page as
    I am looking for one in particular
+
+   - Upcoming Litters page is accessible from all other pages via header
+     navigation <br><br>
 
 3. As a returning user I would like to be able to find the business on social
    media
 
+   - social links are in the footer of all pages <br><br>
+
 4. As a returning user I would like easy access to the contact and location
    details
 
+   - contact and location details are available on page load of landing page,
+     allowing swift access<br><br>
+
 5. As a returning customer I would like easy access to the various official
    information, registration numbers etc.
+   - all pertinent information is available via the head and footer
 
 #### - Site Owner
 
@@ -672,7 +695,7 @@ straight-forward as a static site. Clone the repo using the terminal command:
 
 > git clone https://github.com/Oxymetaphoric/milestone_project_1
 
-then, copy the cloned folder to your html servers root directory.
+then, copy the cloned folder to your html server's root directory.
 
 ---
 
