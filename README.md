@@ -566,16 +566,25 @@ palette, I amended it to:
 
 1. As the site owner I would like to connect with potential customers and other
    breeders more easily and more cheaply
-
+   - site gives multiple avenues for customers and breeders to contact owners,
+     lowering the barriers to contact and increasing conversion rates <br><br>
 2. As the site owner I want to be able to easily see when a potential customer
    has contacted me through the website
-
+   - site could, in future revisions be hooked up to a fully fledged
+     notification system <br><br>
 3. As the site owner I would like the site to be well optimised for SEO in order
    to increase visibility
-
+   - Google Lighthouse currently rates the SEO of the site to be 90% for the
+     mobile and 92% for the desktop. The reason this is not higher is because
+     during testing robots.txt had dummy links. Once the site is deployed
+     improving the SEO should be trivial <br><br>
 4. As the site owner I want potential customers to be able to contact/find us
    easily
+   - The site gives users multiple avenues for contacting the owners <br><br>
 5. As the site owner I want to make sure customers are never lost on my website
+   - The site header has a breadcrumb trail, as well as a logo that links back
+     to the landing page. Additionally the footer has further navigation links
+     ensuring users should be well-orientated at all times.
 
 ### HTML/CSS Validators
 
