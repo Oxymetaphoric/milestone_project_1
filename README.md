@@ -1,6 +1,6 @@
 # Milestone Project :one:
 
-[LINK TO LIVE SITE](http:\\oxymetaphoric.github.io/milestone_project_1)
+[LINK TO LIVE SITE](https:\\oxymetaphoric.github.io/milestone_project_1)
 ---
 
 ## :world_map: Strategy
