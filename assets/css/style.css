@@ -254,10 +254,7 @@ a:hover {
   position: relative;
 }
 .reasons-container {
-  padding-bottom: 20px;
-  padding-top: 20px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding: 20px, 50px, 20px, 50px;
   font-size: 16pt;
 }
 
@@ -457,7 +454,7 @@ a:hover {
 #error-link:hover {
   color: #5c47d1;
   text-decoration: underline;
-  text-decoration-thickness: 8px;
+  text-decoration-thickness: 5px;
 }
 
 
