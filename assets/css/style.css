@@ -40,7 +40,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  text-decoration-thickness: 5px;
+  text-decoration-thickness: 3px;
 }
 /* header - contact details  */
 #contact-header {
@@ -116,7 +116,7 @@ a:hover {
 .links a:hover {
   color: #5c47d1;
   text-decoration: underline;
-  text-decoration-thickness: 7px;
+  text-decoration-thickness: 5px;
   text-decoration-color: #5c47d1;
 }
 .navbar {
