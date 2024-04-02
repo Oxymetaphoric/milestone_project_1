@@ -346,6 +346,7 @@ a:hover {
 .puppy-images {
   max-width: 15%;
   min-width: 300px;
+  min-height: 300px;
   height: auto;
 }
 /* Testimonials */
