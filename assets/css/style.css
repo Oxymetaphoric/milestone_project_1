@@ -219,6 +219,7 @@ a:hover {
 .footer-lower a {
   font-family: "Quicksand", sans-serif;
   font-weight: bold;
+  color: #f5f5f5;
 }
 .footer-lower a:hover {
   font-weight: bolder;
@@ -241,7 +242,7 @@ a:hover {
   height: 65vh;
   background-color: #f5f5f5;
   animation: forwards;
-  background: url(../images/hero-image-mobile.webp) no-repeat center center fixed;
+  background: url(../images/hero-image.webp) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -474,7 +475,7 @@ a:hover {
     min-width: 695px;
   }
 }
-@media (min-width: 599px) {
+@media (max-width: 599px) {
   h2 {
     font-size: 28pt;
   }
@@ -492,7 +493,7 @@ a:hover {
     position: absolute;
   }
   .hero-image {
-    background: url(../images/hero-image.webp) no-repeat top center fixed;
+    background: url(../images/hero-image-mobile.webp) no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
