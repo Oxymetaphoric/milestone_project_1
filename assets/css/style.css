@@ -147,7 +147,7 @@ a:hover {
 }
 /* Footer */ 
 /* footer - positioning */
-footer {
+.footer {
   width: 100%;
   position: relative;
   bottom: 0;
@@ -494,7 +494,7 @@ footer {
     min-width: 695px;
   }
 }
-@media only screen and (min-width: 600px) {
+@media (min-width: 599px) {
   h2 {
     font-size: 28pt;
   }
