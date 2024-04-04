@@ -604,79 +604,78 @@ I ran the my stylesheet through the
 [w3 css validator](https://jigsaw.w3.org/css-validator/), which picked up on one
 typo that I fixed.
 
-  ![CSS validated](/docs/testing/w3c-css.png)
-  ![mini CSS validated](/docs/testing/w3c-minified-css.png)
+  ![CSS validated](/docs/testing/w3c/w3c-css.png)
+  ![mini CSS validated](/docs/testing/w3c/w3c-minified-css.png)
 
 ### WAVE
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
 raised. These issues were predominantly me having misused or disordered semantic
-elements. All pages currently score 0 errors and 0 contrast errors.
+elements. All pages currently score 0 errors and 0 contrast errors. The alerts are due to redundant links, however I feel that redundant links are a better choice than having a nav element that changes.
 
-![wave validation: index](/docs/testing/wave-index.png)
-![wave validation: about us](/docs/testing/wave-about-us.png)
-![wave validation: upcoming litters](/docs/testing/wave-litters.png)
-![wave validation: testimonials ](/docs/testing/wave-testimonials.png)
-![wave validation: contact us ](/docs/testing/wave-contact-us.png)
-![wave validation: privacy policy](/docs/testing/wave-privacy.png)
-![wave validation: 404](/docs/testing/wave-404.png)
+![wave validation: index](/docs/testing/wave/wave-index.png)
+![wave validation: about us](/docs/testing/wave/wave-about-us.png)
+![wave validation: upcoming litters](/docs/testing/wave/wave-litters.png)
+![wave validation: testimonials ](/docs/testing/wave/wave-testimonials.png)
+![wave validation: contact us ](/docs/testing/wave/wave-contact-us.png)
+![wave validation: privacy policy](/docs/testing/wave/wave-privacy.png)
+![wave validation: 404](/docs/testing/wave/wave-404.png)
 
 
 ### Lighthouse
 
-Initial testing with lighthouse on a locally hosted copy of the site indicated
-several major areas of concern with some minor fixes also required. The biggest
-issues were:
+After final testing on the deployed site and various fixes Google's Lighthouse testing tool reported the following:  
 
-- hero image too big and needed preloading
-- scripts were slowing loading of the site
-- website was not well optimised for mobile
-- the main colour did not have sufficient contrast against white text
+#### index page testing 
 
-#### Lighthouse mobile testing
+![lighthouse validation: index](/docs/testing/lighthouse/lighthouse-index.png)
+![lighthouse validation diagnostics: index](/docs/testing/lighthouse/lighthouse-index-diagnostics.png)
 
-Initial testing of index.html with Google Lighthouse yielded the following
-results:
+the four issues raised by lighthouse testing of the index page are all related to bootstrap, while the first issue raised is server side and out of scope of this project.
 
-| Mobile          | %   |
-| --------------- | --- |
-| Performance:    | 86% |
-| Accessibility:  | 78% |
-| Best Practices: | 95% |
-| SEO:            | 85% |
+#### About Us testing
 
-after round of fixes, image resizing, and adding media queries all pages report:
+![lighthouse validation: about us](/docs/testing/lighthouse/lighthouse-about-us.png)
+![lighthouse validation: about us diagnostics](/docs/testing/lighthouse/lighthouse-about-us-diagnostics.png)
 
-| Mobile          | %    |
-| --------------- | ---- |
-| Performance:    | 91%  |
-| Accessibility:  | 100% |
-| Best Practices: | 95%  |
-| SEO:            | 92%  |
 
-#### Lighthouse desktop testing
 
-Initial local testing of index.html with Google Lighthouse yielded the following
-results:
+#### Upcoming Litters testing
 
-| Desktop         | %   |
-| --------------- | --- |
-| Performance:    | 97% |
-| Accessibility:  | 77% |
-| Best Practices: | 95% |
-| SEO:            | 82% |
+![lighthouse validation: upcoming litters](/docs/testing/lighthouse/lighthouse-litters.png)
+![lighthouse validation: upcoming litters](/docs/testing/lighthouse/lighthouse-litters-diagnostics.png)
 
-After intial round of fixes, all six pages report:
+Elements do not have an explicit height and width because they are set using percentage. This allows them to be responsive.
 
-| Desktop         | %    |
-| --------------- | ---- |
-| Performance:    | 99%  |
-| Accessibility:  | 100% |
-| Best Practices: | 100% |
-| SEO:            | 90%  |
 
-The remaining percentage of performance appears to be related to be Bootstrap
-framework used and is out of scope to address.
+#### Testimonials testing
+
+![lighthouse validation: testimonials](/docs/testing/lighthouse/lighthouse-testimonials.png)
+![lighthouse validation: testimonials](/docs/testing/lighthouse/lighthouse-testimonials-diagnostics.png)
+
+The performance of this page is lower than other pages, at 96% to the others 99% however this is to be expected due to the use of the relatively complex carousel object.
+
+#### Contact Us testing
+
+![lighthouse validation: contact us](/docs/testing/lighthouse/lighthouse-contact-us.png)
+![lighthouse validation: contact us](/docs/testing/lighthouse/lighthouse-contact-us-diagnostics.png)
+
+again, this only problem with this page is that Bootstrap is somewhat bloated, I intend to look for a more svelte option following this projects completion. 
+
+#### Privacy Policy testing
+
+![lighthouse validation: provacy policy](/docs/testing/lighthouse/lighthouse-privacy.png)
+![lighthouse validation: provacy policy](/docs/testing/lighthouse/lighthouse-privacy-diagnostics.png)
+
+#### 404 page testing
+
+![lighthouse validation: 404](/docs/testing/lighthouse/lighthouse-404.png)
+![lighthouse validation: 404](/docs/testing/lighthouse/lighthouse-404-diagnostics.png)
+
+
+
+
+
 
 ### Devices
 
@@ -824,5 +823,5 @@ privacy policy text from the
 [ICO](https://ico.org.uk/for-organisations/advice-for-small-organisations/make-your-own-privacy-notice/)
 website
 
-body text for Testimonials and ABout Us pages taken from current
+body text for Testimonials and About Us pages taken from current
 [Jenamin site](https://www.jenamindogbreeder.co.uk/) with permission
