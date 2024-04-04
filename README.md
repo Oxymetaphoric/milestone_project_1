@@ -596,7 +596,8 @@ stylistic issue, and not a semantic one, as such I elected not to remove them.
 Other than this, no errors were discovered. It also raised multiple smaller
 issues like trailing end tags which I cleaned up.
 
-  ![CSS validated](/docs/images/testing/
+  ![CSS validated](/docs/testing/w3c-css.png)
+  ![CSS validated](/docs/testing/w3c-minified-css.png)
 
 There are two remaining errors that relate to the way that I have sized the map
 in the footer.
