@@ -627,7 +627,6 @@ elements. All pages currently score 0 errors and 0 contrast errors. The alerts a
 ![wave validation: privacy policy](/docs/testing/wave/wave-privacy.png)
 ![wave validation: 404](/docs/testing/wave/wave-404.png)
 
-
 ### Lighthouse
 
 After final testing on the deployed site and various fixes Google's Lighthouse testing tool reported the following:
@@ -646,7 +645,7 @@ the four issues raised by lighthouse testing of the index page are all related t
 ![lighthouse validation: about us](/docs/testing/lighthouse/desktop/lighthouse-about-us.png)
 ![lighthouse validation diagnostics: about us ](/docs/testing/lighthouse/desktop/lighthouse-about-us-diagnostics.png)
 
-#### Upcoming Litters testingdesktop/
+#### Upcoming Litters testing
 
 ![lighthouse validation: upcoming litters](/docs/testing/lighthouse/desktop/lighthouse-litters.png)
 ![lighthouse validation diagnostics: upcoming litters](/docs/testing/lighthouse/desktop/lighthouse-litters-diagnostics.png)
@@ -681,46 +680,40 @@ again, this only problem with this page is that Bootstrap is somewhat bloated, I
 
 ### Mobile Testing
 
-#### index page testing 
+#### index page mobile
 
-![lighthouse validation: index](/docs/testing/lighthouse/mobile/lighthouse-index.png)
-![lighthouse validation diagnostics: index](/docs/testing/lighthouse/desktop/lighthouse-index-diagnostics.png)
+![lighthouse validation: index](/docs/testing/lighthouse/mobile/lighthouse-mobile-index.png)
+![lighthouse validation diagnostics: index](/docs/testing/lighthouse/mobile/lighthouse-mobile-index-diagnostics.png)
 
-the four issues raised by lighthouse testing of the index page are all related to bootstrap, while the first issue raised is server side and out of scope of this project.
+#### About Us mobile
 
-#### About Us testing
+![lighthouse validation: about us](/docs/testing/lighthouse/mobile/lighthouse-mobile-about-us.png)
+![lighthouse validation diagnostics: about us ](/docs/testing/lighthouse/mobile/lighthouse-mobile-about-us-diagnostics.png)
 
-![lighthouse validation: about us](/docs/testing/lighthouse/mobile/lighthouse-about-us.png)
-![lighthouse validation diagnostics: about us ](/docs/testing/lighthouse/desktop/lighthouse-about-us-diagnostics.png)
+#### Upcoming Litters mobile
 
-#### Upcoming Litters testingdesktop/
+![lighthouse validation: upcoming litters](/docs/testing/lighthouse/mobile/lighthouse-mobile-litters.png)
+![lighthouse validation diagnostics: upcoming litters](/docs/testing/lighthouse/mobile/lighthouse-mobile-litters-diagnostics.png)
 
-![lighthouse validation: upcoming litters](/docs/testing/lighthouse/mobile/lighthouse-litters.png)
-![lighthouse validation diagnostics: upcoming litters](/docs/testing/lighthouse/mobile/lighthouse-litters-diagnostics.png)
+#### Testimonials mobile
 
-Elements do not have an explicit height and width because they are set using percentage. This allows them to be responsive.
+![lighthouse validation: testimonials](/docs/testing/lighthouse/mobile/lighthouse-mobile-testimonials.png)
+![lighthouse validation diagnostics: testimonials](/docs/testing/lighthouse/mobile/lighthouse-mobile-testimonials-diagnostics.png)
 
-#### Testimonials testing
+#### Contact Us mobile
 
-![lighthouse validation: testimonials](/docs/testing/lighthouse/mobile/lighthouse-testimonials.png)
-![lighthouse validation diagnostics: testimonials](/docs/testing/lighthouse/mobile/lighthouse-testimonials-diagnostics.png)
+![lighthouse validation: contact us](/docs/testing/lighthouse/mobile/lighthouse-mobile-contact-us.png)
+![lighthouse validation diagnostics: contact us](/docs/testing/lighthouse/mobile/lighthouse-mobile-contact-us-diagnostics.png)
 
+#### Privacy Policy mobile
 
-#### Contact Us testing
+![lighthouse validation: privacy policy](/docs/testing/lighthouse/mobile/lighthouse-mobile-privacy.png)
+![lighthouse validation diagnostics: privacy policy](/docs/testing/lighthouse/mobile/lighthouse-mobile-privacy-diagnostics.png)
 
-![lighthouse validation: contact us](/docs/testing/lighthouse/mobile/lighthouse-contact-us.png)
-![lighthouse validation diagnostics: contact us](/docs/testing/lighthouse/mobile/lighthouse-contact-us-diagnostics.png)
+#### 404 page mobile
 
-
-#### Privacy Policy testing
-
-![lighthouse validation: privacy policy](/docs/testing/lighthouse/mobile/lighthouse-privacy.png)
-![lighthouse validation diagnostics: privacy policy](/docs/testing/lighthouse/mobile/lighthouse-privacy-diagnostics.png)
-
-#### 404 page testing
-
-![lighthouse validation: 404](/docs/testing/lighthouse/mobile/lighthouse-404.png)
-![lighthouse validation diagnostics: 404](/docs/testing/lighthouse/mobile/lighthouse-404-diagnostics.png)
+![lighthouse validation: 404](/docs/testing/lighthouse/mobile/lighthouse-mobile-404.png)
+![lighthouse validation diagnostics: 404](/docs/testing/lighthouse/mobile/lighthouse-mobile-404-diagnostics.png)
 
 ### Devices
 
