@@ -634,46 +634,46 @@ After final testing on the deployed site and various fixes Google's Lighthouse t
 
 #### index page testing 
 
-![lighthouse validation: index](/docs/testing/lighthouse/lighthouse-index.png)
-![lighthouse validation diagnostics: index](/docs/testing/lighthouse/lighthouse-index-diagnostics.png)
+![lighthouse validation: index](/docs/testing/lighthouse/desktop/lighthouse-index.png)
+![lighthouse validation diagnostics: index](/docs/testing/lighthouse/desktop/lighthouse-index-diagnostics.png)
 
 the four issues raised by lighthouse testing of the index page are all related to bootstrap, while the first issue raised is server side and out of scope of this project.
 
 #### About Us testing
 
-![lighthouse validation: about us](/docs/testing/lighthouse/lighthouse-about-us.png)
-![lighthouse validation: about us diagnostics](/docs/testing/lighthouse/lighthouse-about-us-diagnostics.png)
+![lighthouse validation: about us](/docs/testing/lighthouse/desktop/lighthouse-about-us.png)
+![lighthouse validation diagnostics: about us ](/docs/testing/lighthouse/desktop/lighthouse-about-us-diagnostics.png)
 
-#### Upcoming Litters testing
+#### Upcoming Litters testingdesktop/
 
-![lighthouse validation: upcoming litters](/docs/testing/lighthouse/lighthouse-litters.png)
-![lighthouse validation: upcoming litters](/docs/testing/lighthouse/lighthouse-litters-diagnostics.png)
+![lighthouse validation: upcoming litters](/docs/testing/lighthouse/desktop/lighthouse-litters.png)
+![lighthouse validation diagnostics: upcoming litters](/docs/testing/lighthouse/desktop/lighthouse-litters-diagnostics.png)
 
 Elements do not have an explicit height and width because they are set using percentage. This allows them to be responsive.
 
 #### Testimonials testing
 
-![lighthouse validation: testimonials](/docs/testing/lighthouse/lighthouse-testimonials.png)
-![lighthouse validation: testimonials](/docs/testing/lighthouse/lighthouse-testimonials-diagnostics.png)
+![lighthouse validation: testimonials](/docs/testing/lighthouse/desktop/lighthouse-testimonials.png)
+![lighthouse validation diagnostics: testimonials](/docs/testing/lighthouse/desktop/lighthouse-testimonials-diagnostics.png)
 
 The performance of this page is lower than other pages, at 96% to the others 99% however this is to be expected due to the use of the relatively complex carousel object.
 
 #### Contact Us testing
 
-![lighthouse validation: contact us](/docs/testing/lighthouse/lighthouse-contact-us.png)
-![lighthouse validation: contact us](/docs/testing/lighthouse/lighthouse-contact-us-diagnostics.png)
+![lighthouse validation: contact us](/docs/testing/lighthouse/desktop/lighthouse-contact-us.png)
+![lighthouse validation diagnostics: contact us](/docs/testing/lighthouse/desktop/lighthouse-contact-us-diagnostics.png)
 
 again, this only problem with this page is that Bootstrap is somewhat bloated, I intend to look for a more svelte option following this projects completion.
 
 #### Privacy Policy testing
 
-![lighthouse validation: provacy policy](/docs/testing/lighthouse/lighthouse-privacy.png)
-![lighthouse validation: provacy policy](/docs/testing/lighthouse/lighthouse-privacy-diagnostics.png)
+![lighthouse validation: privacy policy](/docs/testing/lighthouse/desktop/lighthouse-privacy.png)
+![lighthouse validation diagnostics: privacy policy](/docs/testing/lighthouse/desktop/lighthouse-privacy-diagnostics.png)
 
 #### 404 page testing
 
-![lighthouse validation: 404](/docs/testing/lighthouse/lighthouse-404.png)
-![lighthouse validation: 404](/docs/testing/lighthouse/lighthouse-404-diagnostics.png)
+![lighthouse validation: 404](/docs/testing/lighthouse/desktop/lighthouse-404.png)
+![lighthouse validation diagnostics: 404](/docs/testing/lighthouse/desktop/lighthouse-404-diagnostics.png)
 
 ### Devices
 
