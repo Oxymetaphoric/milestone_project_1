@@ -630,7 +630,9 @@ elements. All pages currently score 0 errors and 0 contrast errors. The alerts a
 
 ### Lighthouse
 
-After final testing on the deployed site and various fixes Google's Lighthouse testing tool reported the following:  
+After final testing on the deployed site and various fixes Google's Lighthouse testing tool reported the following:
+
+### Desktop
 
 #### index page testing 
 
@@ -674,6 +676,51 @@ again, this only problem with this page is that Bootstrap is somewhat bloated, I
 
 ![lighthouse validation: 404](/docs/testing/lighthouse/desktop/lighthouse-404.png)
 ![lighthouse validation diagnostics: 404](/docs/testing/lighthouse/desktop/lighthouse-404-diagnostics.png)
+
+---
+
+### Mobile Testing
+
+#### index page testing 
+
+![lighthouse validation: index](/docs/testing/lighthouse/mobile/lighthouse-index.png)
+![lighthouse validation diagnostics: index](/docs/testing/lighthouse/desktop/lighthouse-index-diagnostics.png)
+
+the four issues raised by lighthouse testing of the index page are all related to bootstrap, while the first issue raised is server side and out of scope of this project.
+
+#### About Us testing
+
+![lighthouse validation: about us](/docs/testing/lighthouse/mobile/lighthouse-about-us.png)
+![lighthouse validation diagnostics: about us ](/docs/testing/lighthouse/desktop/lighthouse-about-us-diagnostics.png)
+
+#### Upcoming Litters testingdesktop/
+
+![lighthouse validation: upcoming litters](/docs/testing/lighthouse/mobile/lighthouse-litters.png)
+![lighthouse validation diagnostics: upcoming litters](/docs/testing/lighthouse/mobile/lighthouse-litters-diagnostics.png)
+
+Elements do not have an explicit height and width because they are set using percentage. This allows them to be responsive.
+
+#### Testimonials testing
+
+![lighthouse validation: testimonials](/docs/testing/lighthouse/mobile/lighthouse-testimonials.png)
+![lighthouse validation diagnostics: testimonials](/docs/testing/lighthouse/mobile/lighthouse-testimonials-diagnostics.png)
+
+
+#### Contact Us testing
+
+![lighthouse validation: contact us](/docs/testing/lighthouse/mobile/lighthouse-contact-us.png)
+![lighthouse validation diagnostics: contact us](/docs/testing/lighthouse/mobile/lighthouse-contact-us-diagnostics.png)
+
+
+#### Privacy Policy testing
+
+![lighthouse validation: privacy policy](/docs/testing/lighthouse/mobile/lighthouse-privacy.png)
+![lighthouse validation diagnostics: privacy policy](/docs/testing/lighthouse/mobile/lighthouse-privacy-diagnostics.png)
+
+#### 404 page testing
+
+![lighthouse validation: 404](/docs/testing/lighthouse/mobile/lighthouse-404.png)
+![lighthouse validation diagnostics: 404](/docs/testing/lighthouse/mobile/lighthouse-404-diagnostics.png)
 
 ### Devices
 
