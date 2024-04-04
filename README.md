@@ -595,7 +595,13 @@ Prettier, had inserted trailing slashes at many points. Though this is a
 stylistic issue, I elected to clean them up regardless. It also raised some smaller
 issues like orphaned end tags which I cleaned up.
 
-
+![html validation - index](/docs/testing/w3c/html/w3c-html-index.png)
+![html validation - about us](/docs/testing/w3c/html/w3c-html-about-us.png)
+![html validation - upcoming litters](/docs/testing/w3c/html/w3c-html-upcoming-litters.png)
+![html validation - testimonials](/docs/testing/w3c/html/w3c-html-testimonials.png)
+![html validation - contact us](/docs/testing/w3c/html/w3c-html-contact-us.png)
+![html validation - privacy policy](/docs/testing/w3c/html/w3c-html-privacy.png)
+![html validation - 404 page](/docs/testing/w3c/html/w3c-html-404.png)
 
 There are two remaining errors that relate to the way that I have sized the map
 in the footer, however this error is tolerated by all browsers and results in a dynamically sized map.
@@ -604,14 +610,14 @@ I ran the my stylesheet through the
 [w3 css validator](https://jigsaw.w3.org/css-validator/), which picked up on one
 typo that I fixed.
 
-  ![CSS validated](/docs/testing/w3c/w3c-css.png)
-  ![mini CSS validated](/docs/testing/w3c/w3c-minified-css.png)
+  ![CSS validated](/docs/testing/w3c/css/w3c-css.png)
+  ![mini CSS validated](/docs/testing/w3c/css/w3c-minified-css.png)
 
 ### WAVE
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
 raised. These issues were predominantly me having misused or disordered semantic
-elements. All pages currently score 0 errors and 0 contrast errors. The alerts are due to redundant links, however I feel that redundant links are a better choice than having a nav element that changes.
+elements. All pages currently score 0 errors and 0 contrast errors. The alerts are due to redundant links, however I feel that redundant links are a better choice than having a navigation system that changes.
 
 ![wave validation: index](/docs/testing/wave/wave-index.png)
 ![wave validation: about us](/docs/testing/wave/wave-about-us.png)
@@ -638,15 +644,12 @@ the four issues raised by lighthouse testing of the index page are all related t
 ![lighthouse validation: about us](/docs/testing/lighthouse/lighthouse-about-us.png)
 ![lighthouse validation: about us diagnostics](/docs/testing/lighthouse/lighthouse-about-us-diagnostics.png)
 
-
-
 #### Upcoming Litters testing
 
 ![lighthouse validation: upcoming litters](/docs/testing/lighthouse/lighthouse-litters.png)
 ![lighthouse validation: upcoming litters](/docs/testing/lighthouse/lighthouse-litters-diagnostics.png)
 
 Elements do not have an explicit height and width because they are set using percentage. This allows them to be responsive.
-
 
 #### Testimonials testing
 
@@ -660,7 +663,7 @@ The performance of this page is lower than other pages, at 96% to the others 99%
 ![lighthouse validation: contact us](/docs/testing/lighthouse/lighthouse-contact-us.png)
 ![lighthouse validation: contact us](/docs/testing/lighthouse/lighthouse-contact-us-diagnostics.png)
 
-again, this only problem with this page is that Bootstrap is somewhat bloated, I intend to look for a more svelte option following this projects completion. 
+again, this only problem with this page is that Bootstrap is somewhat bloated, I intend to look for a more svelte option following this projects completion.
 
 #### Privacy Policy testing
 
@@ -671,11 +674,6 @@ again, this only problem with this page is that Bootstrap is somewhat bloated, I
 
 ![lighthouse validation: 404](/docs/testing/lighthouse/lighthouse-404.png)
 ![lighthouse validation: 404](/docs/testing/lighthouse/lighthouse-404-diagnostics.png)
-
-
-
-
-
 
 ### Devices
 
