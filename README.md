@@ -596,12 +596,16 @@ stylistic issue, and not a semantic one, as such I elected not to remove them.
 Other than this, no errors were discovered. It also raised multiple smaller
 issues like trailing end tags which I cleaned up.
 
+  ![CSS validated](/docs/images/testing/
+
 There are two remaining errors that relate to the way that I have sized the map
 in the footer.
 
 I ran the my stylesheet through the
 [w3 css validator](https://jigsaw.w3.org/css-validator/), which picked up on one
 typo that I fixed.
+
+!()
 
 ### WAVE
 
