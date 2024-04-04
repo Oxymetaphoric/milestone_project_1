@@ -592,27 +592,35 @@ palette, I amended it to:
 I ran each page through the [w3 HTML validator](https://validator.w3.org/) and
 found that the auto-formatter that I had chosen to use for the project,
 Prettier, had inserted trailing slashes at many points. Though this is a
-stylistic issue, and not a semantic one, as such I elected not to remove them.
-Other than this, no errors were discovered. It also raised multiple smaller
-issues like trailing end tags which I cleaned up.
+stylistic issue, I elected to clean them up regardless. It also raised some smaller
+issues like orphaned end tags which I cleaned up.
 
-  ![CSS validated](/docs/testing/w3c-css.png)
-  ![CSS validated](/docs/testing/w3c-minified-css.png)
+
 
 There are two remaining errors that relate to the way that I have sized the map
-in the footer.
+in the footer, however this error is tolerated by all browsers and results in a dynamically sized map.
 
 I ran the my stylesheet through the
 [w3 css validator](https://jigsaw.w3.org/css-validator/), which picked up on one
 typo that I fixed.
 
-!()
+  ![CSS validated](/docs/testing/w3c-css.png)
+  ![mini CSS validated](/docs/testing/w3c-minified-css.png)
 
 ### WAVE
 
 I tested each page using the WAVE Firefox plugin and fixed all errors that it
 raised. These issues were predominantly me having misused or disordered semantic
 elements. All pages currently score 0 errors and 0 contrast errors.
+
+![wave validation: index](/docs/testing/wave-index.png)
+![wave validation: about us](/docs/testing/wave-about-us.png)
+![wave validation: upcoming litters](/docs/testing/wave-litters.png)
+![wave validation: testimonials ](/docs/testing/wave-testimonials.png)
+![wave validation: contact us ](/docs/testing/wave-contact-us.png)
+![wave validation: privacy policy](/docs/testing/wave-privacy.png)
+![wave validation: 404](/docs/testing/wave-404.png)
+
 
 ### Lighthouse
 
