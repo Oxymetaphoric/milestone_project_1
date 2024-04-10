@@ -373,7 +373,7 @@ a:hover {
   color: #121213;
   padding: 10px;
   height: 100%;
-  max-height: 500px;
+  max-height: 380px;
 }
 .slide {
   height: fit-content;
@@ -478,7 +478,7 @@ a:hover {
     font-size: 28pt;
   }
   p {
-    font-size: 14pt;
+    font-size: 12pt;
   }
   li {
     font-size: 14pt;
@@ -509,9 +509,16 @@ a:hover {
     min-width: 200px;
     padding: 10px;
   }
+  .testimonials-text p {
+    font-size: 5pt;
+  }
   .carousel-item p {
     padding-top: 6px;
     text-align: left;
+  }
+
+  .carousel-inner p{
+    font-size: 12pt;
   }
   .carousel-item h4 {
     padding: 0;
@@ -533,4 +540,5 @@ a:hover {
   .navbar-collapse {
     padding-top: 10px;
   }
+
 }
