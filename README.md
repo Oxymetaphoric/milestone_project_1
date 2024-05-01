@@ -603,8 +603,6 @@ issues like orphaned end tags which I cleaned up.
 ![html validation - privacy policy](/docs/testing/w3c/html/w3c-html-privacy.png)
 ![html validation - 404 page](/docs/testing/w3c/html/w3c-html-404.png)
 
-There are two remaining errors that relate to the way that I have sized the map
-in the footer, however this error is tolerated by all browsers and results in a dynamically sized map.
 
 I ran the my stylesheet through the
 [w3 css validator](https://jigsaw.w3.org/css-validator/), which picked up on one
