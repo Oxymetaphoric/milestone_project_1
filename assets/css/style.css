@@ -185,7 +185,12 @@ a:hover {
   text-align: center;
 }
 .map {
-  padding: 10px 10px 10px 10px;
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+
+}
+.mapContainer {
+  margin: 1%;
 }
 .footer-divider {
   align-self: center;
