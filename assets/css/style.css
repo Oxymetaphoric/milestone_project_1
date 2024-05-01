@@ -185,9 +185,8 @@ a:hover {
   text-align: center;
 }
 .map {
-  height: -webkit-fill-available;
-  width: -webkit-fill-available;
-
+  min-height: 100%;
+  min-width: 100%;
 }
 .mapContainer {
   margin: 1%;
